@@ -1,0 +1,1171 @@
+,title,year,genre,directors,rt_critic_rating,rt_critic_count,rt_audience_rating,rt_audience_count,wordsInTitle,imdbRating,ratingCount,adjusted_imdb_rating,average_rating
+0,Please Give,2010,Comedy,Nicole Holofcener,86,140,64.0,11567.0,please give,6.6,8806.0,66.0,72.0
+1,The Lost City,2005,Drama,Andy Garcia,25,83,64.0,25940.0,the lost city,6.7,7798.0,67.0,52.0
+2,Running Scared,2006,"Action & Adventure, Drama, Mystery & Suspense",Wayne Kramer,41,130,79.0,135373.0,running scared,7.5,78275.0,75.0,65.0
+3,Ultraviolet,2006,"Action & Adventure, Drama, Horror, Science Fiction & Fantasy",Kurt Wimmer,8,83,30.0,279966.0,ultraviolet,4.4,62688.0,44.0,27.33
+4,Oliver Twist,2005,"Drama, Kids & Family",Roman Polanski,60,141,63.0,23278.0,oliver twist,6.9,20899.0,69.0,64.0
+5,Stay Alive,2006,"Horror, Mystery & Suspense",William Brent Bell,9,58,55.0,113399.0,stay alive,5.0,22817.0,50.0,38.0
+6,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,2006,"Documentary, Sports & Fitness","Paul Crowder, John Dower",81,59,80.0,1416.0,once in a lifetime the extraordinary story of the new york cosmos,7.2,1103.0,72.0,77.67
+7,Slipstream,2007,"Art House & International, Comedy, Drama, Science Fiction & Fantasy",Anthony Hopkins,25,40,29.0,3520.0,slipstream,5.1,3913.0,51.0,35.0
+8,The Happening,2008,"Drama, Mystery & Suspense, Science Fiction & Fantasy",M. Night Shyamalan,18,179,24.0,370131.0,the happening,5.1,136741.0,51.0,31.0
+9,The Midnight Meat Train,2008,"Drama, Horror, Mystery & Suspense",Ryuhei Kitamura,72,32,50.0,143520.0,the midnight meat train,6.2,39363.0,62.0,61.33
+10,The Lucky Ones,2008,"Comedy, Drama",Neil Burger,37,75,54.0,11785.0,the lucky ones,7.1,9992.0,71.0,54.0
+11,Run Fatboy Run,2007,Comedy,David Schwimmer,46,153,64.0,102871.0,run fatboy run,6.7,50892.0,67.0,59.0
+12,Whiteout,2009,"Action & Adventure, Drama, Mystery & Suspense",Dominic Sena,7,115,21.0,538847.0,whiteout,5.5,27107.0,55.0,27.67
+13,Saawariya,2007,"Art House & International, Drama, Musical & Performing Arts, Romance",Sanjay Leela Bhansali,38,21,46.0,5825.0,saawariya,5.4,4937.0,54.0,46.0
+14,Appaloosa,2008,"Action & Adventure, Western",Ed Harris,76,163,55.0,55670.0,appaloosa,6.8,43668.0,68.0,66.33
+15,[Rec],2007,"Art House & International, Horror, Special Interest","Jaume Balagueró, Paco Plaza",89,35,82.0,50336.0,rec,7.5,100652.0,75.0,82.0
+16,The Box,2009,"Horror, Mystery & Suspense, Science Fiction & Fantasy",Richard Kelly,44,155,24.0,359067.0,the box,5.6,64311.0,56.0,41.33
+17,21,2008,"Drama, Mystery & Suspense",Robert Luketic,36,169,66.0,367740.0,,6.8,158895.0,68.0,56.67
+18,The Road,2009,"Drama, Mystery & Suspense, Science Fiction & Fantasy","Javier Aguirresarobe, John Hillcoat",73,213,68.0,248392.0,the road,7.3,138488.0,73.0,71.33
+19,Public Enemies,2009,"Action & Adventure, Drama",Michael Mann,68,276,59.0,633635.0,public enemies,7.0,182355.0,70.0,65.67
+20,Sin Nombre,2009,"Drama, Mystery & Suspense",Cary Joji Fukunaga,88,119,89.0,21278.0,sin nombre,7.6,19050.0,76.0,84.33
+21,Push,2009,"Mystery & Suspense, Science Fiction & Fantasy",Paul McGuigan,23,126,42.0,2026397.0,push,6.1,77436.0,61.0,42.0
+22,Felon,2008,"Action & Adventure, Drama, Mystery & Suspense",Ric Roman Waugh,61,23,82.0,13882.0,felon,7.5,58547.0,75.0,72.67
+23,Chocolate,2008,"Action & Adventure, Art House & International",Prachya Pinkaew,74,34,73.0,12239.0,chocolate,7.0,13235.0,70.0,72.33
+24,Splinter,2008,"Horror, Mystery & Suspense",Toby Wilkins,74,35,49.0,13198.0,splinter,6.1,22344.0,61.0,61.33
+25,Shrink,2009,"Comedy, Drama",Jonas Pate,27,64,50.0,42782.0,shrink,6.7,13282.0,67.0,48.0
+26,Repo Men,2010,"Action & Adventure, Science Fiction & Fantasy",Miguel Sapochnik,22,151,41.0,100453.0,repo men,6.3,76894.0,63.0,42.0
+27,Winter's Bone,2010,Drama,Debra Granik,94,169,76.0,51659.0,winter s bone,7.2,88851.0,72.0,80.67
+28,The Kids Are All Right,2010,"Comedy, Drama",Lisa Cholodenko,93,222,74.0,63538.0,the kids are all right,7.1,91773.0,71.0,79.33
+29,Predators,2010,"Action & Adventure, Horror, Science Fiction & Fantasy",Nimród Antal,65,198,52.0,159760.0,predators,6.4,139196.0,64.0,60.33
+30,Bye Bye Birdie,1963,"Classics, Comedy, Kids & Family, Musical & Performing Arts",George Sidney,89,28,66.0,10164.0,bye bye birdie,6.6,4732.0,66.0,73.67
+31,Casablanca,1942,"Classics, Drama, Romance",Michael Curtiz,98,83,95.0,357186.0,casablanca,8.6,296802.0,86.0,93.0
+32,Casino Royale,1967,"Action & Adventure, Classics, Comedy","Richard Talmadge, Kenneth Hughes, John Huston, Joseph McGrath, Robert Parrish, Val Guest, Ken Hughes",26,38,35.0,33148.0,casino royale,5.2,19244.0,52.0,37.67
+33,Cleopatra,1963,"Classics, Drama",Joseph L. Mankiewicz,61,36,69.0,20517.0,cleopatra,7.0,17110.0,70.0,66.67
+34,Dracula,1931,"Classics, Horror",Tod Browning,91,46,82.0,44693.0,dracula,7.7,26273.0,77.0,83.33
+35,Dressed to Kill,1980,"Drama, Horror, Mystery & Suspense",Brian DePalma,83,47,74.0,10540.0,dressed to kill,7.2,18391.0,72.0,76.33
+36,Fahrenheit 451,1966,"Classics, Science Fiction & Fantasy",François Truffaut,81,36,72.0,25722.0,fahrenheit,7.2,26708.0,72.0,75.0
+37,Footloose,1984,"Drama, Musical & Performing Arts, Romance",Herbert Ross,51,39,71.0,270239.0,footloose,6.4,39147.0,64.0,62.0
+38,Frantic,1988,"Action & Adventure, Drama, Mystery & Suspense",Roman Polanski,78,41,64.0,22055.0,frantic,6.9,31964.0,69.0,70.33
+39,Frosty the Snowman,1969,"Animation, Kids & Family","Arthur Rankin Jr., Jules Bass",73,15,72.0,35106.0,frosty the snowman tv short,7.4,5438.0,74.0,73.0
+40,Glory,1989,Drama,Edward Zwick,93,43,93.0,60096.0,glory,8.0,87681.0,80.0,88.67
+41,Hairspray,1988,"Comedy, Drama, Musical & Performing Arts",John Waters,98,42,80.0,64137.0,hairspray,6.9,13492.0,69.0,82.33
+42,Hamlet,1948,"Classics, Drama",Laurence Olivier,91,34,80.0,7527.0,hamlet,7.9,9272.0,79.0,83.33
+43,Intolerance,1916,Classics,D.W. Griffith,97,36,77.0,4894.0,intolerance,8.0,8845.0,80.0,84.67
+44,Laura,1944,"Classics, Mystery & Suspense",Otto Preminger,100,61,91.0,10739.0,laura,8.2,23895.0,82.0,91.0
+45,Lolita,1962,"Classics, Comedy, Drama",Stanley Kubrick,93,42,84.0,45913.0,lolita,7.7,51770.0,77.0,84.67
+46,M,1931,"Art House & International, Drama, Mystery & Suspense",Fritz Lang,100,53,95.0,36103.0,m,8.5,73726.0,85.0,93.33
+47,Mannequin,1987,"Comedy, Science Fiction & Fantasy, Romance",Michael Gottlieb,19,36,55.0,44704.0,mannequin,5.6,18180.0,56.0,43.33
+48,Marty,1955,"Classics, Drama, Romance",Delbert Mann,100,34,87.0,6727.0,marty,7.8,11703.0,78.0,88.33
+49,Meteor,1979,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Ronald Neame,5,20,12.0,932.0,meteor,4.9,4388.0,49.0,22.0
+50,Metropolis,1927,"Action & Adventure, Art House & International, Classics, Drama, Science Fiction & Fantasy",Fritz Lang,98,124,92.0,62757.0,metropolis,8.4,81007.0,84.0,91.33
+51,Moby Dick,1956,"Action & Adventure, Classics, Drama",John Huston,86,21,73.0,8322.0,moby dick,7.4,11101.0,74.0,77.67
+52,Point Blank,1967,"Action & Adventure, Classics, Drama, Mystery & Suspense",John Boorman,94,35,84.0,7600.0,point blank,7.5,11074.0,75.0,84.33
+53,Poltergeist,1982,Horror,Tobe Hooper,85,61,78.0,182197.0,poltergeist,7.4,75781.0,74.0,79.0
+54,Red Heat,1988,"Action & Adventure, Classics, Drama",Walter Hill,67,24,37.0,37007.0,red heat,6.0,38698.0,60.0,54.67
+55,Red Sonja,1985,"Action & Adventure, Science Fiction & Fantasy",Richard Fleischer,15,26,28.0,35204.0,red sonja,4.9,23845.0,49.0,30.67
+56,Road House,1989,"Action & Adventure, Mystery & Suspense",Rowdy Herrington,37,43,66.0,60142.0,road house,6.3,32400.0,63.0,55.33
+57,Robin Hood,1973,"Action & Adventure, Animation, Kids & Family, Musical & Performing Arts, Romance",Wolfgang Reitherman,54,28,81.0,271595.0,robin hood,7.6,55351.0,76.0,70.33
+58,RoboCop,1987,"Action & Adventure, Drama, Science Fiction & Fantasy",Paul Verhoeven,89,64,84.0,226227.0,robocop,7.5,135552.0,75.0,82.67
+59,Rocky,1976,"Drama, Sports & Fitness",John G. Avildsen,94,62,69.0,33403994.0,rocky,8.1,243942.0,81.0,81.33
+60,Sabrina,1954,"Classics, Comedy, Drama, Romance",Billy Wilder,92,37,89.0,55264.0,sabrina,7.8,33551.0,78.0,86.33
+61,Shaft,1971,"Action & Adventure, Classics",Gordon Parks,88,40,68.0,12075.0,shaft,6.6,10321.0,66.0,74.0
+62,Spartacus,1960,"Action & Adventure, Classics, Drama",Stanley Kubrick,95,57,87.0,78000.0,spartacus,8.0,81588.0,80.0,87.33
+63,A Star Is Born,1954,"Classics, Drama, Musical & Performing Arts",George Cukor,98,40,82.0,9223.0,a star is born,7.9,9081.0,79.0,86.33
+64,A Star is Born,1976,"Drama, Musical & Performing Arts, Romance",Frank R. Pierson,36,36,64.0,6341.0,a star is born,6.5,4197.0,65.0,55.0
+65,Tommy,1975,"Drama, Musical & Performing Arts",Ken Russell,74,27,72.0,30215.0,tommy,6.6,13072.0,66.0,70.67
+66,Mystery Train,1989,"Art House & International, Comedy, Drama",Jim Jarmusch,88,32,87.0,10556.0,mystery train,7.5,14302.0,75.0,83.33
+67,Malcolm X,1992,Drama,Spike Lee,88,57,91.0,56837.0,malcolm x,7.7,50885.0,77.0,85.33
+68,Stalker,1979,"Action & Adventure, Art House & International, Drama, Mystery & Suspense, Science Fiction & Fantasy",Andrei Tarkovsky,100,37,93.0,25231.0,stalker,8.2,47589.0,82.0,91.67
+69,Gettysburg,1993,"Classics, Drama",Ronald F. Maxwell,80,20,89.0,29339.0,gettysburg,7.7,19124.0,77.0,82.0
+70,Pocahontas,1995,"Action & Adventure, Animation, Drama","Eric Goldberg, Mike Gabriel",55,56,64.0,560829.0,pocahontas,6.5,76356.0,65.0,61.33
+71,Braveheart,1995,"Action & Adventure, Classics, Drama",Mel Gibson,77,75,85.0,32708456.0,braveheart,8.4,523797.0,84.0,82.0
+72,Kicking and Screaming,1995,"Art House & International, Comedy, Drama",Noah Baumbach,55,38,76.0,8596.0,kicking and screaming,7.1,5717.0,71.0,67.33
+73,To Die For,1995,"Comedy, Drama, Mystery & Suspense",Gus Van Sant,88,57,65.0,34834.0,to die for,6.8,30162.0,68.0,73.67
+74,Casino,1995,Drama,Martin Scorsese,80,64,93.0,284881.0,casino,8.2,236730.0,82.0,85.0
+75,Jumanji,1995,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy, Romance",Joe Johnston,54,37,62.0,975177.0,jumanji,6.8,140562.0,68.0,61.33
+76,Richard III,1995,Drama,Richard Loncraine,94,50,85.0,7007.0,richard iii,7.5,10247.0,75.0,84.67
+77,Heat,1995,"Action & Adventure, Mystery & Suspense",Michael Mann,86,80,94.0,221684.0,heat,8.3,324264.0,83.0,87.67
+78,Sabrina,1995,"Comedy, Drama, Romance",Sydney Pollack,65,48,64.0,52222.0,sabrina,6.2,25396.0,62.0,63.67
+79,Heavy Metal,1981,"Action & Adventure, Animation, Science Fiction & Fantasy","Jimmy T. Murakami, Gerald Potterton",60,30,67.0,38847.0,heavy metal,6.7,19294.0,67.0,64.67
+80,Sudden Death,1995,"Action & Adventure, Drama, Mystery & Suspense",Peter Hyams,51,35,39.0,34223.0,sudden death,5.6,21347.0,56.0,48.67
+81,Othello,1995,"Drama, Romance",Oliver Parker,67,39,65.0,8760.0,othello,7.0,6378.0,70.0,67.33
+82,Twister,1996,"Action & Adventure, Drama",Jan de Bont,57,54,58.0,894092.0,twister,6.2,120592.0,62.0,59.0
+83,Independence Day,1996,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Roland Emmerich,65,71,75.0,977377.0,independence day,6.9,330053.0,69.0,69.67
+84,Matilda,1996,"Comedy, Kids & Family, Special Interest",Danny DeVito,90,21,73.0,384209.0,matilda,6.8,65950.0,68.0,77.0
+85,Jack,1996,"Comedy, Drama, Kids & Family",Francis Ford Coppola,18,33,49.0,226295.0,jack,5.7,37554.0,57.0,41.33
+86,Freeway,1996,"Drama, Mystery & Suspense",Matthew Bright,77,39,76.0,22476.0,freeway,6.9,20128.0,69.0,74.0
+87,Michael,1996,"Comedy, Science Fiction & Fantasy",Nora Ephron,38,37,45.0,119548.0,michael,5.6,31119.0,56.0,46.33
+88,Hamlet,1996,"Drama, Romance",Kenneth Branagh,95,56,90.0,32595.0,hamlet,7.9,26558.0,79.0,88.0
+89,Get Carter,1971,"Action & Adventure, Drama, Mystery & Suspense",Mike Hodges,84,32,85.0,17217.0,get carter,7.6,18191.0,76.0,81.67
+90,Batman & Robin,1997,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Joel Schumacher,11,89,16.0,554057.0,batman robin,3.6,151296.0,36.0,21.0
+91,Breakdown,1997,"Action & Adventure, Drama, Mystery & Suspense",Jonathan Mostow,80,51,67.0,35995.0,breakdown,6.9,32329.0,69.0,72.0
+92,Contact,1997,"Mystery & Suspense, Science Fiction & Fantasy",Robert Zemeckis,63,63,78.0,203673.0,contact,7.4,154288.0,74.0,71.67
+93,Anastasia,1997,"Action & Adventure, Animation, Drama, Kids & Family",Don Bluth,85,54,77.0,432556.0,anastasia,7.0,60102.0,70.0,77.33
+94,Madeline,1998,"Comedy, Kids & Family","Daisy von Scherler Mayer, Daisy Mayer",63,30,43.0,41683.0,madeline,5.9,3978.0,59.0,55.0
+95,Out of Sight,1998,"Action & Adventure, Comedy, Drama, Mystery & Suspense, Romance",Steven Soderbergh,93,89,74.0,59749.0,out of sight,7.1,62687.0,71.0,79.33
+96,Blade,1998,"Action & Adventure, Horror, Science Fiction & Fantasy",Stephen Norrington,54,101,78.0,499581.0,blade,7.1,149951.0,71.0,67.67
+97,Rounders,1998,Drama,John Dahl,65,79,87.0,78147.0,rounders,7.4,100848.0,74.0,75.33
+98,Soldier,1998,"Action & Adventure, Science Fiction & Fantasy",Paul W.S. Anderson,12,52,44.0,44269.0,soldier,6.1,1135.0,61.0,39.0
+99,The Thin Red Line,1998,"Action & Adventure, Drama",Terrence Malick,80,99,80.0,148609.0,the thin red line,7.6,114343.0,76.0,78.67
+100,Elizabeth,1998,Drama,Shekhar Kapur,82,61,86.0,63398.0,elizabeth,7.6,64215.0,76.0,81.33
+101,Happiness,1998,"Comedy, Drama",Todd Solondz,81,48,89.0,41707.0,happiness,7.8,47177.0,78.0,82.67
+102,Supernova,2000,"Horror, Science Fiction & Fantasy","Thomas Lee, Francis Ford Coppola, Walter Hill",10,61,17.0,11024.0,supernova,4.7,12399.0,47.0,24.67
+103,Psycho,1998,"Horror, Mystery & Suspense",Gus Van Sant,38,78,28.0,68287.0,psycho,4.6,32968.0,46.0,37.33
+104,Bent,1997,"Drama, Romance",Sean Mathias,73,22,77.0,8168.0,bent,7.3,5223.0,73.0,74.33
+105,Underground,1995,"Art House & International, Comedy, Drama",Emir Kusturica,86,35,96.0,20791.0,underground,8.2,30610.0,82.0,88.0
+106,The Thirteenth Floor,1999,Science Fiction & Fantasy,Josef Rusnak,29,63,63.0,30446.0,the thirteenth floor,7.0,40589.0,70.0,54.0
+107,Deep Blue Sea,1999,"Action & Adventure, Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy",Renny Harlin,60,112,38.0,379326.0,deep blue sea,5.7,82992.0,57.0,51.67
+108,Mansfield Park,1999,"Comedy, Drama, Romance",Patricia Rozema,77,70,77.0,21991.0,mansfield park,7.1,11988.0,71.0,75.0
+109,A Dog of Flanders,1999,"Drama, Kids & Family",Kevin Brodie,21,24,63.0,822.0,a dog of flanders,6.3,711.0,63.0,49.0
+110,High Fidelity,2000,"Comedy, Drama, Romance",Stephen Frears,91,165,90.0,211641.0,high fidelity,7.6,121319.0,76.0,85.67
+111,Hamlet,2000,"Drama, Mystery & Suspense, Romance",Michael Almereyda,57,89,46.0,10262.0,hamlet,6.0,7294.0,60.0,54.33
+112,Road Trip,2000,Comedy,Todd Phillips,58,92,65.0,465469.0,road trip,6.5,107561.0,65.0,62.67
+113,Loser,2000,"Comedy, Drama, Romance",Amy Heckerling,24,96,35.0,52066.0,loser,5.2,20672.0,52.0,37.0
+114,The Art of War,2000,"Action & Adventure, Drama, Mystery & Suspense",Christian Duguay,16,80,36.0,26599.0,the art of war,5.7,23127.0,57.0,36.33
+115,The Ladies Man,2000,Comedy,Reginald Hudlin,11,73,42.0,21177.0,the ladies man,5.1,9611.0,51.0,34.67
+116,Hannibal,2001,"Drama, Mystery & Suspense",Ridley Scott,39,171,62.0,403002.0,hannibal,6.7,168909.0,67.0,56.0
+117,Driven,2001,"Action & Adventure, Drama, Mystery & Suspense",Renny Harlin,14,110,33.0,43185.0,driven,4.4,30330.0,44.0,30.33
+118,Angel Eyes,2001,"Drama, Mystery & Suspense, Romance",Luis Mandoki,33,132,46.0,66147.0,angel eyes,5.6,17840.0,56.0,45.0
+119,Evolution,2001,"Comedy, Science Fiction & Fantasy",Ivan Reitman,43,136,48.0,258975.0,evolution,6.0,88195.0,60.0,50.33
+120,The Fast and the Furious,2001,"Action & Adventure, Drama",Rob Cohen,53,149,74.0,1043882.0,the fast and the furious,6.6,191074.0,66.0,64.33
+121,Pearl Harbor,2001,"Action & Adventure, Drama, Romance",Michael Bay,24,192,66.0,905352.0,pearl harbor,5.9,195222.0,59.0,49.67
+122,The Score,2001,"Action & Adventure, Drama",Frank Oz,73,128,67.0,60052.0,the score,6.8,85907.0,68.0,69.33
+123,The Others,2001,"Horror, Mystery & Suspense",Alejandro Amenábar,83,161,77.0,344256.0,the others,7.6,212157.0,76.0,78.67
+124,Hamlet,1990,"Drama, Romance",Franco Zeffirelli,74,34,59.0,38286.0,hamlet,6.8,14937.0,68.0,67.0
+125,Collateral Damage,2002,"Action & Adventure, Mystery & Suspense",Andrew Davis,19,142,27.0,79859.0,collateral damage,5.4,52041.0,54.0,33.33
+126,Texas Rangers,2001,"Action & Adventure, Western",Steve Miner,2,51,29.0,7335.0,texas rangers,5.2,4202.0,52.0,27.67
+127,Iris,2001,"Drama, Romance",Richard Eyre,79,110,73.0,9383.0,iris,7.1,12986.0,71.0,74.33
+128,Scooby-Doo,2002,"Comedy, Kids & Family",Raja Gosnell,30,144,38.0,408580.0,scooby doo,4.9,56922.0,49.0,39.0
+129,The New Guy,2002,Comedy,"Ed Decter, Edward Decter",7,98,54.0,66204.0,the new guy,5.8,25747.0,58.0,39.67
+130,The Time Machine,2002,Science Fiction & Fantasy,"Simon Wells, Gore Verbinski",29,150,37.0,171733.0,the time machine,5.9,88017.0,59.0,41.67
+131,Showtime,2002,Comedy,Tom Dey,25,123,25.0,49141.0,showtime,5.5,44614.0,55.0,35.0
+132,All or Nothing,2002,"Art House & International, Comedy, Documentary, Drama",Mike Leigh,82,92,81.0,5232.0,all or nothing,7.6,7104.0,76.0,79.67
+133,Femme Fatale,2002,"Drama, Horror, Mystery & Suspense",Brian DePalma,49,137,49.0,18761.0,femme fatale,6.3,25148.0,63.0,53.67
+134,Cabin Fever,2002,"Horror, Mystery & Suspense",Eli Roth,62,140,44.0,250166.0,cabin fever,5.6,52879.0,56.0,54.0
+135,Luther,2003,"Drama, Faith & Spirituality",Eric Till,45,62,74.0,8706.0,luther,6.7,11118.0,67.0,62.0
+136,Peter Pan,2003,"Kids & Family, Science Fiction & Fantasy",P.J. Hogan,76,144,74.0,427000.0,peter pan,6.9,41791.0,69.0,73.0
+137,The Girl Next Door,2004,"Comedy, Drama",Luke Greenfield,56,159,69.0,398071.0,the girl next door,6.8,141999.0,68.0,64.33
+138,Ned Kelly,2003,"Action & Adventure, Drama, Western",Gregor Jordan,56,54,53.0,41321.0,ned kelly,6.5,18283.0,65.0,58.0
+139,The Punisher,2004,"Action & Adventure, Drama",Jonathan Hensleigh,29,169,63.0,268111.0,the punisher,6.4,101807.0,64.0,52.0
+140,King Arthur,2004,"Action & Adventure, Drama",Antoine Fuqua,31,189,59.0,389926.0,king arthur,6.3,107635.0,63.0,51.0
+141,Capote,2005,Drama,Bennett Miller,90,194,81.0,115881.0,capote,7.4,77077.0,74.0,81.67
+142,Kids in America,2005,"Comedy, Documentary",Josh Stolberg,17,36,65.0,7428.0,kids in america,6.0,2314.0,60.0,47.33
+143,Rent,2005,"Comedy, Musical & Performing Arts, Romance",Chris Columbus,46,173,83.0,341054.0,rent,7.1,37204.0,71.0,66.67
+144,The New World,2005,"Action & Adventure, Drama, Romance",Terrence Malick,63,184,58.0,148074.0,the new world,6.7,59741.0,67.0,62.67
+145,Date Movie,2006,Comedy,"Jason Friedberg, Aaron Seltzer",7,87,35.0,513821.0,date movie,2.7,44937.0,27.0,23.0
+146,Casanova,2005,"Comedy, Drama, Romance",Lasse Hallstrom,44,133,58.0,190565.0,casanova,6.5,37223.0,65.0,55.67
+147,Adam & Steve,2005,"Comedy, Drama",Craig Chester,54,37,56.0,22980.0,adam steve,6.0,2483.0,60.0,56.67
+148,Marie Antoinette,2006,"Documentary, Drama",Sofia Coppola,56,212,56.0,262438.0,marie antoinette,6.4,63248.0,64.0,58.67
+149,For Your Consideration,2006,Comedy,Christopher Guest,52,161,43.0,19784.0,for your consideration,6.3,11010.0,63.0,52.67
+150,Superhero Movie,2008,"Action & Adventure, Comedy",Craig Mazin,17,52,32.0,156939.0,superhero movie,4.5,43249.0,45.0,31.33
+151,Wanted,2008,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Timur Bekmambetov,71,204,69.0,1546021.0,wanted,6.7,237540.0,67.0,69.0
+152,Take,2008,"Art House & International, Drama, Mystery & Suspense",Charles Oliver,43,28,42.0,14828.0,take,6.9,53.0,69.0,51.33
+153,You Kill Me,2007,"Comedy, Drama, Romance",John Dahl,78,114,59.0,30718.0,you kill me,6.5,14974.0,65.0,67.33
+154,The Express,2008,Drama,Gary Fleder,61,118,75.0,820195.0,the express,7.3,12791.0,73.0,69.67
+155,Mad Money,2008,"Comedy, Drama",Callie Khouri,22,105,48.0,135218.0,mad money,5.7,14730.0,57.0,42.33
+156,Zack and Miri Make a Porno,2008,"Comedy, Drama, Romance",Kevin Smith,65,199,66.0,237035.0,zack and miri make a porno,6.7,127194.0,67.0,66.0
+157,Hell Ride,2008,"Action & Adventure, Drama, Mystery & Suspense",Larry Bishop,10,59,30.0,5515.0,hell ride,5.1,13104.0,51.0,30.33
+158,Trumbo,2007,"Documentary, Television",Peter Askin,83,54,78.0,36041.0,trumbo,7.5,665.0,75.0,78.67
+159,Chapter 27,2007,Drama,J.P. Schaefer,18,49,37.0,8731.0,chapter,5.7,7194.0,57.0,37.33
+160,Encounters at the End of the World,2007,Documentary,Werner Herzog,94,111,83.0,35825.0,encounters at the end of the world,7.8,10993.0,78.0,85.0
+161,Happy-Go-Lucky,2008,"Art House & International, Comedy, Drama",Mike Leigh,92,159,67.0,34751.0,happy go lucky,7.0,27661.0,70.0,76.33
+162,My Winnipeg,2007,"Documentary, Special Interest",Guy Maddin,95,91,77.0,4100.0,my winnipeg,7.7,2919.0,77.0,83.0
+163,My Name Is Bruce,2007,"Comedy, Horror",Bruce Campbell,38,39,48.0,8585.0,my name is bruce,6.3,19210.0,63.0,49.67
+164,Mirrors,2008,"Horror, Mystery & Suspense",Alexandre Aja,15,88,44.0,90791.0,mirrors,6.2,69124.0,62.0,40.33
+165,Shutter Island,2010,"Action & Adventure, Drama, Mystery & Suspense",Martin Scorsese,68,253,76.0,2373625.0,shutter island,8.1,495936.0,81.0,75.0
+166,Ninja Assassin,2009,"Action & Adventure, Drama",James McTeigue,25,114,54.0,189759.0,ninja assassin,6.4,50730.0,64.0,47.67
+167,RoboCop,2014,"Action & Adventure, Science Fiction & Fantasy",José Padilha,49,211,49.0,127081.0,robocop,6.6,45479.0,66.0,54.67
+168,Green Zone,2010,"Drama, Mystery & Suspense",Paul Greengrass,53,186,57.0,152535.0,green zone,6.9,91066.0,69.0,59.67
+169,The Children,2008,Horror,Tom Shankland,76,17,50.0,3658.0,the children,6.0,11894.0,60.0,62.0
+170,The Crazies,2010,"Action & Adventure, Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy",Breck Eisner,71,154,56.0,199107.0,the crazies tv series,5.8,10.0,58.0,61.67
+171,Antichrist,2009,"Art House & International, Drama, Horror, Mystery & Suspense",Lars von Trier,53,175,55.0,29192.0,antichrist,6.6,64393.0,66.0,58.0
+172,Everybody's Fine,2009,"Comedy, Drama",Kirk Jones,47,141,53.0,91926.0,everybody s fine,7.2,40576.0,72.0,57.33
+173,Remember Me,2010,"Drama, Romance",Allen Coulter,27,138,69.0,411586.0,remember me,7.2,84925.0,72.0,56.0
+174,Home,2009,"Art House & International, Documentary, Drama",Mary Haverstick,94,35,73.0,2425.0,home,8.6,16197.0,86.0,84.33
+175,Triangle,2009,Mystery & Suspense,Christopher Smith (VIII),80,40,66.0,25387.0,triangle,6.9,40558.0,69.0,71.67
+176,Warrior,2011,"Action & Adventure, Drama",Gavin O'Connor,83,189,92.0,59171.0,warrior,8.3,220357.0,83.0,86.0
+177,Salt,2010,"Action & Adventure, Mystery & Suspense",Phillip Noyce,62,242,59.0,200594.0,salt,6.4,190735.0,64.0,61.67
+178,World's Greatest Dad,2009,"Comedy, Drama",Bobcat Goldthwait,88,118,67.0,51784.0,world s greatest dad,7.0,22506.0,70.0,75.0
+179,Brothers,2009,"Drama, Mystery & Suspense",Jim Sheridan,63,156,62.0,194449.0,brothers,7.2,68321.0,72.0,65.67
+180,The Collector,2009,"Horror, Mystery & Suspense",Marcus Dunstan,29,72,48.0,63404.0,the collector,6.4,34007.0,64.0,47.0
+181,I Sell the Dead,2008,"Comedy, Horror",Glenn McQuaid,72,46,46.0,8356.0,i sell the dead,6.1,8380.0,61.0,59.67
+182,Franklyn,2008,"Drama, Mystery & Suspense, Science Fiction & Fantasy, Romance",Gerald McMorrow,57,30,43.0,5011.0,franklyn,6.2,12734.0,62.0,54.0
+183,Kick-Ass,2010,"Action & Adventure, Comedy, Drama",Matthew Vaughn,76,258,81.0,285351.0,kick ass,7.8,328140.0,78.0,78.33
+184,A Single Man,2009,Drama,Tom Ford (VIII),85,190,81.0,58164.0,a single man,7.6,68333.0,76.0,80.67
+185,The Losers,2010,"Action & Adventure, Drama, Mystery & Suspense",Sylvain White,48,164,54.0,144557.0,the losers,6.4,62886.0,64.0,55.33
+186,127 Hours,2010,Drama,Danny Boyle,93,231,85.0,95757.0,hours,7.7,209297.0,77.0,85.0
+187,12 Years a Slave,2013,Drama,Steve McQueen (III),95,358,90.0,139962.0,years a slave,8.3,161237.0,83.0,89.33
+188,16 Blocks,2006,"Action & Adventure, Drama, Mystery & Suspense",Richard Donner,56,162,57.0,163930.0,blocks,6.6,97892.0,66.0,59.67
+189,1984,1984,"Drama, Science Fiction & Fantasy, Romance",Michael Radford,79,24,71.0,56091.0,,7.2,38051.0,72.0,74.0
+190,21 Jump Street,2012,"Action & Adventure, Comedy","Christopher Miller, Phil Lord",85,220,82.0,257395.0,jump street,7.2,247076.0,72.0,79.67
+191,24 Hour Party People,2002,"Comedy, Drama, Musical & Performing Arts",Michael Winterbottom,86,99,87.0,35222.0,hour party people,7.4,22926.0,74.0,82.33
+192,27 Dresses,2008,"Comedy, Romance",Anne Fletcher,40,151,57.0,606049.0,dresses,6.1,91982.0,61.0,52.67
+193,2 Fast 2 Furious,2003,"Action & Adventure, Drama, Mystery & Suspense",John Singleton,36,159,50.0,32791717.0,fast furious,5.7,129609.0,57.0,47.67
+194,2 Guns,2013,"Action & Adventure, Drama, Mystery & Suspense",Baltasar Kormákur,64,183,66.0,109397.0,guns,6.8,91579.0,68.0,66.0
+195,300: Rise of an Empire,2014,"Action & Adventure, Drama",Noam Murro,45,192,51.0,140422.0,rise of an empire,7.0,56680.0,70.0,55.33
+196,30 Days of Night,2007,"Horror, Mystery & Suspense",David Slade,51,158,56.0,458851.0,days of night,6.6,114808.0,66.0,57.67
+197,The 40 Year Old Virgin,2005,Comedy,Judd Apatow,85,185,77.0,103.0,the year old virgin,7.2,243458.0,72.0,78.0
+198,42,2013,Drama,Brian Helgeland,80,189,85.0,119509.0,,7.6,44350.0,76.0,80.33
+199,47 Ronin,2013,"Action & Adventure, Drama, Science Fiction & Fantasy",Carl Erik Rinsch,16,86,48.0,61989.0,ronin,6.4,38099.0,64.0,42.67
+200,8 Mile,2002,Drama,Curtis Hanson,75,213,54.0,32167884.0,mile,6.9,142685.0,69.0,66.0
+201,$9.99,2008,"Animation, Art House & International, Comedy",Tatia Rosenthal,73,55,55.0,5337.0,,6.7,2305.0,67.0,65.0
+202,A Perfect Getaway,2009,"Action & Adventure, Mystery & Suspense",David Twohy,63,136,52.0,161390.0,a perfect getaway,6.5,47162.0,65.0,60.0
+203,A Serious Man,2009,"Comedy, Drama","Roger Deakins, Joel Coen, Ethan Coen",90,221,68.0,63001.0,a serious man,7.0,82241.0,70.0,76.0
+204,About Schmidt,2002,"Comedy, Drama",Alexander Payne,85,203,74.0,90655.0,about schmidt,7.2,93172.0,72.0,77.0
+205,Act of Valor,2012,"Action & Adventure, Mystery & Suspense",Scott Waugh,26,137,72.0,80426.0,act of valor,6.5,49500.0,65.0,54.33
+206,Adventureland,2009,"Comedy, Drama",Greg Mottola,88,216,61.0,252853.0,adventureland,6.8,107058.0,68.0,72.33
+207,After Earth,2013,"Action & Adventure, Science Fiction & Fantasy",M. Night Shyamalan,11,203,36.0,121821.0,after earth,5.0,121313.0,50.0,32.33
+208,After the Sunset,2004,"Action & Adventure, Comedy, Drama",Brett Ratner,18,140,52.0,42463.0,after the sunset,6.3,33840.0,63.0,44.33
+209,Air Force One,1997,"Action & Adventure, Drama, Mystery & Suspense",Wolfgang Petersen,76,55,66.0,378783.0,air force one,6.4,121586.0,64.0,68.67
+210,Alexander,2004,"Action & Adventure, Classics, Drama",Oliver Stone,16,204,35.0,237701.0,alexander,5.5,115381.0,55.0,35.33
+211,Alfie,2004,"Comedy, Drama, Romance",Charles Shyer,48,154,51.0,85329.0,alfie,6.2,37295.0,62.0,53.67
+212,Ali,2001,Drama,Michael Mann,67,153,65.0,107223.0,ali,6.7,64588.0,67.0,66.33
+213,Alien3,1992,"Horror, Science Fiction & Fantasy",David Fincher,42,53,47.0,338843.0,alien,6.4,153700.0,64.0,51.0
+214,All Is Lost,2013,"Action & Adventure, Mystery & Suspense",J.C. Chandor,94,234,63.0,40539.0,all is lost,6.9,30364.0,69.0,75.33
+215,Amadeus,1984,"Drama, Musical & Performing Arts",Milos Forman,93,91,95.0,180009.0,amadeus,8.4,198201.0,84.0,90.67
+216,American Beauty,1999,"Comedy, Drama",Sam Mendes,87,187,93.0,660221.0,american beauty,8.5,602828.0,85.0,88.33
+217,American Gangster,2007,Drama,Ridley Scott,80,214,87.0,963034.0,american gangster,7.8,264349.0,78.0,81.67
+218,American Graffiti,1973,"Comedy, Drama",George Lucas,96,48,84.0,64509.0,american graffiti,7.5,52962.0,75.0,85.0
+219,American History X,1998,Drama,Tony Kaye,83,83,96.0,479510.0,american history x,8.6,550302.0,86.0,88.33
+220,American Hustle,2013,Drama,David O. Russell,92,280,74.0,175696.0,american hustle,7.5,189392.0,75.0,80.33
+221,American Outlaws,2001,"Action & Adventure, Western",Les Mayfield,14,103,68.0,44253.0,american outlaws,5.9,10936.0,59.0,47.0
+222,American Pie 2,2001,Comedy,J.B. Rogers,52,127,68.0,954881.0,american pie,6.4,163499.0,64.0,61.33
+223,American Psycho,2000,"Comedy, Drama, Horror, Mystery & Suspense",Mary Harron,68,146,85.0,304125.0,american psycho,7.6,262553.0,76.0,76.33
+224,American Splendor,2003,"Art House & International, Comedy, Drama","Robert Pulcini, Shari Springer Berman",94,186,86.0,44544.0,american splendor,7.5,38060.0,75.0,85.0
+225,America's Sweethearts,2001,"Comedy, Drama, Romance",Joe Roth,32,145,40.0,132389.0,america s sweethearts,5.7,41762.0,57.0,43.0
+226,An American Carol,2008,Comedy,David Zucker,11,47,47.0,15760.0,an american carol,4.4,8021.0,44.0,34.0
+227,An Education,2009,"Art House & International, Drama",Lone Scherfig,94,193,80.0,54891.0,an education,7.3,93787.0,73.0,82.33
+228,Anaconda,1997,"Action & Adventure, Horror, Mystery & Suspense",Luis Llosa,40,50,24.0,422444.0,anaconda,4.5,59541.0,45.0,36.33
+229,Angel-A,2005,"Art House & International, Comedy, Science Fiction & Fantasy, Romance",Luc Besson,45,88,74.0,95445.0,angel a,7.1,20539.0,71.0,63.33
+230,Animal Kingdom,2010,"Art House & International, Drama",David Michôd,94,161,83.0,29796.0,animal kingdom,7.3,36151.0,73.0,83.33
+231,Annie,1982,"Comedy, Kids & Family, Musical & Performing Arts",John Huston,56,27,69.0,365804.0,annie,6.4,22595.0,64.0,63.0
+232,Another Year,2010,"Comedy, Drama",Mike Leigh,92,171,74.0,20662.0,another year,7.3,20047.0,73.0,79.67
+233,Antwone Fisher,2002,Drama,Denzel Washington,79,151,86.0,47211.0,antwone fisher,7.3,22475.0,73.0,79.33
+234,Antz,1998,"Animation, Comedy, Kids & Family, Science Fiction & Fantasy","Eric Darnell, Tim Johnson",93,92,52.0,651914.0,antz,6.6,98450.0,66.0,70.33
+235,Anything Else,2003,Comedy,Woody Allen,40,137,44.0,22049.0,anything else,6.4,21517.0,64.0,49.33
+236,Apocalypse Now,1979,"Action & Adventure, Drama",Francis Ford Coppola,98,88,94.0,285747.0,apocalypse now,8.5,333178.0,85.0,92.33
+237,Apollo 13,1995,"Action & Adventure, Drama",Ron Howard,95,88,87.0,432793.0,apollo,7.6,165930.0,76.0,86.0
+238,Apollo 18,2011,"Horror, Science Fiction & Fantasy",Gonzalo López-Gallego,24,72,23.0,42442.0,apollo,5.2,39967.0,52.0,33.0
+239,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,"Action & Adventure, Animation, Comedy","Matt Maiellaro, Dave Willis",48,84,68.0,38951.0,aqua teen hunger force colon movie film for theaters,7.0,11384.0,70.0,62.0
+240,Arachnophobia,1990,"Comedy, Horror, Mystery & Suspense, Science Fiction & Fantasy",Frank Marshall,92,36,54.0,225681.0,arachnophobia,6.3,41865.0,63.0,69.67
+241,Arbitrage,2012,"Drama, Mystery & Suspense",Nicholas Jarecki,88,169,62.0,52702.0,arbitrage,6.7,32524.0,67.0,72.33
+242,Argo,2012,"Drama, Mystery & Suspense",Ben Affleck,96,348,90.0,208433.0,argo,7.8,308561.0,78.0,88.0
+243,Arlington Road,1999,"Drama, Mystery & Suspense",Mark Pellington,63,91,74.0,42857.0,arlington road,7.2,61848.0,72.0,69.67
+244,Art School Confidential,2006,"Comedy, Drama",Terry Zwigoff,36,136,48.0,44490.0,art school confidential,6.3,13557.0,63.0,49.0
+245,Attack the Block,2011,"Action & Adventure, Art House & International",Joe Cornish,90,174,75.0,33898.0,attack the block,6.6,66580.0,66.0,77.0
+246,Australia,2008,"Action & Adventure, Classics, Mystery & Suspense, Romance",Baz Luhrmann,55,221,65.0,261474.0,australia,6.6,86496.0,66.0,62.0
+247,Auto Focus,2002,Drama,Paul Schrader,72,162,61.0,5999.0,auto focus,6.6,10397.0,66.0,66.33
+248,Awake,2007,Mystery & Suspense,Joby Harold,24,62,54.0,237769.0,awake,6.5,54266.0,65.0,47.67
+249,Babel,2006,Drama,Alejandro González Iñárritu,69,199,77.0,377192.0,babel,7.5,200442.0,75.0,73.67
+250,Baby Mama,2008,Comedy,Michael McCullers,64,163,55.0,374653.0,baby mama,6.1,28724.0,61.0,60.0
+251,Babylon A.D.,2008,"Action & Adventure, Drama, Science Fiction & Fantasy",Mathieu Kassovitz,6,103,26.0,152227.0,babylon a d,5.5,70407.0,55.0,29.0
+252,Bad Boys II,2003,"Action & Adventure, Comedy, Mystery & Suspense",Michael Bay,22,181,78.0,501580.0,bad boys ii,6.5,139551.0,65.0,55.0
+253,Bad Company,2002,"Action & Adventure, Comedy, Documentary, Musical & Performing Arts",Joel Schumacher,10,135,35.0,56684.0,bad company,5.6,34960.0,56.0,33.67
+254,Bad Lieutenant,1992,"Drama, Mystery & Suspense",Abel Ferrara,77,47,73.0,16120.0,bad lieutenant,7.1,24459.0,71.0,73.67
+255,Bad Santa,2003,Comedy,Terry Zwigoff,78,217,75.0,200792.0,bad santa,7.2,88920.0,72.0,75.0
+256,Bad Teacher,2011,Comedy,Jake Kasdan,44,187,36.0,84835.0,bad teacher,5.7,124646.0,57.0,45.67
+257,Baghead,2008,"Comedy, Drama","Jay Duplass, Mark Duplass",78,97,48.0,3048.0,baghead,6.0,2939.0,60.0,62.0
+258,Bambi,1942,"Animation, Classics, Kids & Family, Science Fiction & Fantasy","David Hand, Samuel Armstrong, Bill Roberts, James Algar, Graham Heid, Paul Satterfield, David D. Hand, Norman Wright, Perce Pearce",90,51,73.0,599704.0,bambi,7.4,63109.0,74.0,79.0
+259,Barbarella,1968,"Action & Adventure, Science Fiction & Fantasy",Roger Vadim,73,45,56.0,33516.0,barbarella,5.9,19959.0,59.0,62.67
+260,Barry Lyndon,1975,"Classics, Drama",Stanley Kubrick,91,69,92.0,44969.0,barry lyndon,8.1,74677.0,81.0,88.0
+261,Barton Fink,1991,"Comedy, Drama",Joel Coen,90,58,89.0,45291.0,barton fink,7.8,69356.0,78.0,85.67
+262,Basic Instinct,1992,"Drama, Horror, Mystery & Suspense, Romance",Paul Verhoeven,53,62,63.0,131882.0,basic instinct,6.9,105371.0,69.0,61.67
+263,Batman Begins,2005,"Action & Adventure, Science Fiction & Fantasy",Christopher Nolan,84,279,94.0,1114302.0,batman begins,8.3,659591.0,83.0,87.0
+264,Batman Forever,1995,"Action & Adventure, Science Fiction & Fantasy",Joel Schumacher,39,66,32.0,608810.0,batman forever,5.4,150233.0,54.0,41.67
+265,Battle for Haditha,2007,"Art House & International, Drama",Nick Broomfield,68,31,72.0,3032.0,battle for haditha,7.1,5588.0,71.0,70.33
+266,Battle Royale,2000,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",Kinji Fukasaku,87,46,89.0,86479.0,battle royale,7.8,116696.0,78.0,84.67
+267,Battleship,2012,"Action & Adventure, Science Fiction & Fantasy",Peter Berg,34,221,54.0,456521.0,battleship,5.9,158997.0,59.0,49.0
+268,The Beach,2000,"Action & Adventure, Drama, Romance",Danny Boyle,20,117,57.0,217252.0,the beach,6.6,131875.0,66.0,47.67
+269,Yellow Submarine,1968,"Action & Adventure, Animation, Comedy, Cult Movies, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",George Dunning,97,59,84.0,47779.0,yellow submarine,7.4,16052.0,74.0,85.0
+270,Beautiful Girls,1996,"Comedy, Drama",Ted Demme,79,47,81.0,22091.0,beautiful girls,7.3,23551.0,73.0,77.67
+271,Bedtime Stories,2008,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Adam Shankman,26,110,55.0,216448.0,bedtime stories,6.1,58352.0,61.0,47.33
+272,Beetlejuice,1988,"Comedy, Horror, Science Fiction & Fantasy",Tim Burton,84,56,82.0,916690.0,beetlejuice,7.4,142836.0,74.0,80.0
+273,Before Midnight,2013,"Drama, Romance",Richard Linklater,97,198,82.0,37291.0,before midnight,8.0,52229.0,80.0,86.33
+274,Before Sunset,2004,"Drama, Romance",Richard Linklater,95,174,91.0,70918.0,before sunset,8.1,113580.0,81.0,89.0
+275,Behind the Mask: The Rise of Leslie Vernon,2006,"Comedy, Horror, Kids & Family, Mystery & Suspense",Scott Glosserman,76,42,75.0,15176.0,behind the mask the rise of leslie vernon,6.8,14537.0,68.0,73.0
+276,Being John Malkovich,1999,"Comedy, Drama, Science Fiction & Fantasy",Spike Jonze,93,133,87.0,262430.0,being john malkovich,7.8,207653.0,78.0,86.0
+277,Below,2002,"Mystery & Suspense, Science Fiction & Fantasy",David Twohy,64,69,45.0,7910.0,below,6.2,15021.0,62.0,57.0
+278,Benji: Off the Leash!,2004,"Drama, Kids & Family",Joe Camp,33,43,51.0,1776.0,benji off the leash,4.5,393.0,45.0,43.0
+279,Best in Show,2000,Comedy,Christopher Guest,94,112,89.0,56396.0,best in show,7.5,39785.0,75.0,86.0
+280,Beverly Hills Cop II,1987,"Action & Adventure, Comedy",Tony Scott,46,28,58.0,276170.0,beverly hills cop ii,6.4,66500.0,64.0,56.0
+281,Beverly Hills Cop III,1994,"Action & Adventure, Comedy",John Landis,10,50,35.0,204982.0,beverly hills cop iii,5.4,46643.0,54.0,33.0
+282,Beyond the Mat,1999,"Documentary, Special Interest, Sports & Fitness",Barry W. Blaustein,82,67,83.0,8509.0,beyond the mat,7.6,6054.0,76.0,80.33
+283,Big,1988,"Comedy, Kids & Family, Science Fiction & Fantasy",Penny Marshall,97,74,82.0,401831.0,big,7.3,115372.0,73.0,84.0
+284,The Big Bounce,2004,"Action & Adventure, Comedy, Drama",George Armitage,16,135,24.0,21226.0,the big bounce,4.9,14361.0,49.0,29.67
+285,Big Daddy,1999,"Comedy, Kids & Family",Dennis Dugan,40,93,74.0,1052103.0,big daddy,6.4,122995.0,64.0,59.33
+286,The Big Hit,1998,Action & Adventure,"Che-Kirk Wong, Kirk Wong",41,39,57.0,29762.0,the big hit,6.1,22002.0,61.0,53.0
+287,The Big Red One,1980,"Action & Adventure, Drama",Samuel Fuller,90,48,78.0,9038.0,the big red one,7.3,12653.0,73.0,80.33
+288,Big Trouble in Little China,1986,"Action & Adventure, Science Fiction & Fantasy",John Carpenter,79,42,82.0,136307.0,big trouble in little china,7.3,70290.0,73.0,78.0
+289,Billy's Hollywood Screen Kiss,1998,"Comedy, Romance",Tommy O'Haver,78,23,63.0,2878.0,billy s hollywood screen kiss,7.2,2975.0,72.0,71.0
+290,Birth,2004,"Drama, Mystery & Suspense",Jonathan Glazer,38,146,43.0,28235.0,birth,6.0,25092.0,60.0,47.0
+291,Biutiful,2010,"Art House & International, Drama",Alejandro González Iñárritu,66,151,74.0,21365.0,biutiful,7.5,50603.0,75.0,71.67
+292,Black Dynamite,2009,"Action & Adventure, Comedy","Shawn Maurer, Scott Sanders",83,63,85.0,15615.0,black dynamite,7.4,29872.0,74.0,80.67
+293,Black Hawk Down,2001,"Action & Adventure, Drama",Ridley Scott,76,171,88.0,472948.0,black hawk down,7.7,226441.0,77.0,80.33
+294,Black Sheep,2006,"Comedy, Horror",Jonathan King,71,94,53.0,42868.0,black sheep,5.8,30794.0,58.0,60.67
+295,Black Swan,2010,"Drama, Mystery & Suspense",Darren Aronofsky,85,301,84.0,177713.0,black swan,8.1,413273.0,81.0,83.33
+296,Blackfish,2013,"Documentary, Special Interest",Gabriela Cowperthwaite,98,128,90.0,28595.0,blackfish,8.1,20518.0,81.0,89.67
+297,Blade II,2002,"Action & Adventure, Horror",Guillermo del Toro,57,151,68.0,450699.0,blade ii,6.7,123845.0,67.0,64.0
+298,Blade: Trinity,2004,"Action & Adventure, Horror, Mystery & Suspense",David S. Goyer,25,167,59.0,438098.0,blade trinity,5.9,103645.0,59.0,47.67
+299,Blood and Chocolate,2007,"Action & Adventure, Drama, Horror, Science Fiction & Fantasy",Katja von Garnier,11,74,52.0,158346.0,blood and chocolate,5.4,13578.0,54.0,39.0
+300,Blood Diamond,2006,"Action & Adventure, Drama, Mystery & Suspense",Edward Zwick,63,216,90.0,568615.0,blood diamond,8.0,290735.0,80.0,77.67
+301,Blood Work,2002,"Action & Adventure, Drama, Mystery & Suspense",Clint Eastwood,53,152,40.0,22220.0,blood work,6.4,29446.0,64.0,52.33
+302,Bloody Sunday,2002,Drama,Paul Greengrass,92,104,91.0,9328.0,bloody sunday,7.7,16640.0,77.0,86.67
+303,Blow,2001,Drama,Ted Demme,55,140,87.0,384764.0,blow,7.6,156305.0,76.0,72.67
+304,Blue Crush,2002,"Action & Adventure, Drama, Romance",John Stockwell,61,141,58.0,371390.0,blue crush,5.6,22233.0,56.0,58.33
+305,Blue Jasmine,2013,Comedy,Woody Allen,91,223,77.0,48998.0,blue jasmine,7.4,74652.0,74.0,80.67
+306,Blue Valentine,2010,"Drama, Romance","Andrij Parekh, Derek Cianfrance",87,203,77.0,59087.0,blue valentine,7.4,107863.0,74.0,79.33
+307,Blue Velvet,1986,"Drama, Mystery & Suspense",David Lynch,95,73,88.0,76873.0,blue velvet,7.8,100580.0,78.0,87.0
+308,Boogie Nights,1997,"Comedy, Drama",Paul Thomas Anderson,93,71,89.0,189331.0,boogie nights,7.9,148566.0,79.0,87.0
+309,Bowling for Columbine,2002,"Documentary, Special Interest",Michael Moore,95,170,83.0,203022.0,bowling for columbine,8.1,107852.0,81.0,86.33
+310,Boy A,2007,Drama,John Crowley,88,59,87.0,36138.0,boy a,7.7,28823.0,77.0,84.0
+311,Boys and Girls,2000,"Comedy, Romance",Robert Iscove,11,62,50.0,28213.0,boys and girls,5.3,11833.0,53.0,38.0
+312,Boys Don't Cry,1999,Drama,Kimberly Peirce,88,77,87.0,69938.0,boys don t cry,7.6,63699.0,76.0,83.67
+313,Breaking the Waves,1996,"Art House & International, Drama, Romance",Lars von Trier,85,59,91.0,31257.0,breaking the waves,7.9,38661.0,79.0,85.0
+314,Broadway Danny Rose,1984,"Comedy, Romance",Woody Allen,100,28,84.0,9492.0,broadway danny rose,7.5,14641.0,75.0,86.33
+315,The Broadway Melody,1929,"Musical & Performing Arts, Romance",Harry Beaumont,35,20,21.0,1793.0,the broadway melody,6.6,3554.0,66.0,40.67
+316,Brokeback Mountain,2005,"Drama, Romance",Ang Lee,87,242,82.0,519655.0,brokeback mountain,7.7,216781.0,77.0,82.0
+317,Broken City,2013,Drama,Allen Hughes,28,151,40.0,32416.0,broken city,6.2,49909.0,62.0,43.33
+318,Broken Flowers,2005,"Comedy, Drama, Mystery & Suspense",Jim Jarmusch,87,194,70.0,95450.0,broken flowers,7.2,67804.0,72.0,76.33
+319,The Brothers Grimm,2005,"Action & Adventure, Comedy, Science Fiction & Fantasy",Terry Gilliam,38,182,39.0,373895.0,the brothers grimm,5.9,82999.0,59.0,45.33
+320,Bubble Boy,2001,Comedy,Blair Hayes,30,83,48.0,243504.0,bubble boy,5.6,21513.0,56.0,44.67
+321,Bucky Larson: Born to Be a Star,2011,Comedy,Tom Brady,0,35,24.0,12978.0,bucky larson born to be a star,3.2,8305.0,32.0,18.67
+322,Buffalo '66,1998,"Art House & International, Comedy, Drama",Vincent Gallo,76,59,88.0,34072.0,buffalo,7.5,31252.0,75.0,79.67
+323,Bug,2006,"Drama, Mystery & Suspense",William Friedkin,61,132,34.0,356665.0,bug,6.0,24397.0,60.0,51.67
+324,Bugsy,1991,Drama,Barry Levinson,85,59,69.0,10198.0,bugsy,6.8,18197.0,68.0,74.0
+325,Bullitt,1968,"Action & Adventure, Classics, Drama, Mystery & Suspense",Peter Yates,97,37,85.0,39985.0,bullitt,7.5,37565.0,75.0,85.67
+326,Bulworth,1998,"Comedy, Drama, Romance",Warren Beatty,76,66,68.0,20606.0,bulworth,6.9,20092.0,69.0,71.0
+327,Cabaret,1972,"Classics, Drama, Musical & Performing Arts",Bob Fosse,95,38,87.0,36059.0,cabaret,7.9,30859.0,79.0,87.0
+328,Caché,2005,"Art House & International, Drama, Mystery & Suspense",Michael Haneke,89,133,78.0,51442.0,cach,7.3,42961.0,73.0,80.0
+329,Cadillac Records,2008,"Drama, Musical & Performing Arts",Darnell Martin,66,122,65.0,63203.0,cadillac records,6.9,12137.0,69.0,66.67
+330,Can't Buy Me Love,1987,"Comedy, Romance",Steve Rash,50,22,74.0,48217.0,can t buy me love,6.7,17969.0,67.0,63.67
+331,Captain America: The First Avenger,2011,"Action & Adventure, Mystery & Suspense",Joe Johnston,80,265,74.0,188705.0,captain america the first avenger,6.8,280412.0,68.0,74.0
+332,Captain Phillips,2013,Drama,Paul Greengrass,93,268,89.0,152261.0,captain phillips,8.0,176065.0,80.0,87.33
+333,Carrie,2013,Horror,Kimberly Peirce,50,181,44.0,82073.0,carrie,6.0,61174.0,60.0,51.33
+334,Cars,2006,"Action & Adventure, Animation, Comedy, Kids & Family","John Lasseter, Joe Ranft",75,200,79.0,877830.0,cars,7.3,174678.0,73.0,75.67
+335,Cars 2,2011,"Action & Adventure, Animation, Comedy, Kids & Family","John Lasseter, Brad Lewis",39,215,49.0,103439.0,cars,6.4,71234.0,64.0,50.67
+336,Casper,1995,"Drama, Kids & Family, Science Fiction & Fantasy",Brad Silberling,46,37,49.0,381016.0,casper,5.9,66230.0,59.0,51.33
+337,Catch a Fire,2006,"Drama, Musical & Performing Arts, Mystery & Suspense",Phillip Noyce,75,146,71.0,28961.0,catch a fire,6.8,8998.0,68.0,71.33
+338,Catch Me If You Can,2002,"Action & Adventure, Drama",Steven Spielberg,95,199,89.0,748577.0,catch me if you can,8.0,340964.0,80.0,88.0
+339,The Cat's Meow,2001,"Comedy, Drama",Peter Bogdanovich,75,126,51.0,7897.0,the cat s meow,6.4,6303.0,64.0,63.33
+340,Catwoman,2004,"Action & Adventure, Drama","Pitof, Jean-Christopher Comar",9,196,18.0,274505.0,catwoman,3.3,72522.0,33.0,20.0
+341,Centurion,2010,"Action & Adventure, Drama, Mystery & Suspense",Neil Marshall,61,108,43.0,47710.0,centurion,6.4,51500.0,64.0,56.0
+342,Chandni Chowk To China,2009,"Action & Adventure, Art House & International, Comedy, Drama",Nikhil Advani,42,59,30.0,9160.0,chandni chowk to china,3.8,4100.0,38.0,36.67
+343,Chaos Theory,2008,"Comedy, Drama",Marcos Siega,31,59,58.0,12601.0,chaos theory,6.8,24227.0,68.0,52.33
+344,Chaplin,1992,Drama,Richard Attenborough,60,50,81.0,25837.0,chaplin,7.5,34016.0,75.0,72.0
+345,Charlie Bartlett,2007,Comedy,Jon Poll,57,130,71.0,105087.0,charlie bartlett,7.0,47906.0,70.0,66.0
+346,Chasing Amy,1997,"Comedy, Romance",Kevin Smith,87,85,83.0,197002.0,chasing amy,7.4,97329.0,74.0,81.33
+347,Cherish,2002,"Comedy, Drama, Mystery & Suspense",Finn Taylor,51,83,55.0,2088.0,cherish,6.8,2188.0,68.0,58.0
+348,Chicago,2002,"Comedy, Drama, Musical & Performing Arts",Rob Marshall,85,255,83.0,439404.0,chicago,7.2,139341.0,72.0,80.0
+349,Children of Men,2006,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Alfonso Cuarón,92,247,85.0,530774.0,children of men,7.9,294420.0,79.0,85.33
+350,Chinatown,1974,"Classics, Drama, Mystery & Suspense",Roman Polanski,99,68,93.0,77688.0,chinatown,8.3,159935.0,83.0,91.67
+351,A Chorus Line,1985,"Comedy, Drama, Musical & Performing Arts",Richard Attenborough,40,35,62.0,10235.0,a chorus line,6.0,6564.0,60.0,54.0
+352,Christine,1983,"Horror, Mystery & Suspense",John Carpenter,71,28,63.0,64501.0,christine,6.6,38714.0,66.0,66.67
+353,Cinderella,2015,"Kids & Family, Science Fiction & Fantasy, Romance",Kenneth Branagh,85,239,78.0,77617.0,cinderella,,,,81.5
+354,Citizen Kane,1941,"Classics, Drama, Mystery & Suspense",Orson Welles,100,84,90.0,158857.0,citizen kane,8.5,228617.0,85.0,91.67
+355,Clerks II,2006,"Comedy, Drama",Kevin Smith,63,162,84.0,285761.0,clerks ii,7.5,99088.0,75.0,74.0
+356,Clockers,1995,"Drama, Mystery & Suspense",Spike Lee,69,51,74.0,9798.0,clockers,6.9,14368.0,69.0,70.67
+357,Star Wars: The Clone Wars,2008,"Action & Adventure, Animation, Science Fiction & Fantasy",Dave Filoni,18,170,39.0,163343.0,star wars the clone wars,5.7,31854.0,57.0,38.0
+358,Cloud Atlas,2012,"Drama, Science Fiction & Fantasy","Tom Tykwer, Lilly Wachowski, Lana Wachowski",66,278,66.0,187533.0,cloud atlas,7.6,223794.0,76.0,69.33
+359,Cloverfield,2008,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Matt Reeves,77,208,68.0,420051.0,cloverfield,7.1,234120.0,71.0,72.0
+360,Coach Carter,2005,Drama,Thomas Carter,64,150,85.0,406635.0,coach carter,7.2,69244.0,72.0,73.67
+361,Cocktail,1988,"Drama, Romance",Roger Donaldson,5,43,58.0,106998.0,cocktail,5.7,46926.0,57.0,40.0
+362,Cold Souls,2009,"Comedy, Drama",Sophie Barthes,75,125,54.0,29136.0,cold souls,6.5,7613.0,65.0,64.67
+363,Collateral,2004,"Action & Adventure, Drama, Mystery & Suspense",Michael Mann,86,234,84.0,364059.0,collateral,7.6,238914.0,76.0,82.0
+364,Colombiana,2011,"Action & Adventure, Drama, Mystery & Suspense",Olivier Megaton,28,100,67.0,161955.0,colombiana,6.4,60797.0,64.0,53.0
+365,Color of Night,1994,"Drama, Mystery & Suspense",Richard Rush,21,47,30.0,17073.0,color of night,5.0,16645.0,50.0,33.67
+366,The Comebacks,2007,Comedy,Tom Brady,9,33,33.0,120358.0,the comebacks,4.1,8958.0,41.0,27.67
+367,Computer Chess,2013,Comedy,Andrew Bujalski,88,80,53.0,2900.0,computer chess,6.3,2410.0,63.0,68.0
+368,Con Air,1997,Action & Adventure,Simon West,55,65,75.0,417177.0,con air,6.8,178696.0,68.0,66.0
+369,Confidence,2003,Drama,James Foley,69,156,70.0,17703.0,confidence,6.8,28318.0,68.0,69.0
+370,Constantine,2005,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",Francis Lawrence,46,226,72.0,468257.0,constantine,6.9,179579.0,69.0,62.33
+371,Contagion,2011,"Action & Adventure, Mystery & Suspense",Steven Soderbergh,84,256,63.0,83701.0,contagion,6.7,147585.0,67.0,71.33
+372,Contraband,2012,"Action & Adventure, Mystery & Suspense",Baltasar Kormákur,51,160,57.0,69965.0,contraband,6.5,82124.0,65.0,57.67
+373,Control,2007,"Drama, Musical & Performing Arts",Anton Corbijn,88,113,89.0,48445.0,control,7.8,42024.0,78.0,85.0
+374,Cop Land,1997,"Action & Adventure, Drama, Mystery & Suspense",James Mangold,74,62,67.0,51240.0,cop land,6.9,59050.0,69.0,70.0
+375,Coraline,2009,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",Henry Selick,91,265,73.0,384449.0,coraline,7.7,109855.0,77.0,80.33
+376,Coriolanus,2011,"Drama, Mystery & Suspense",Ralph Fiennes,92,150,58.0,13607.0,coriolanus,6.1,22931.0,61.0,70.33
+377,Cowboys & Aliens,2011,"Action & Adventure, Science Fiction & Fantasy, Western",Jon Favreau,45,253,43.0,104623.0,cowboys aliens,6.1,141646.0,61.0,49.67
+378,Coyote Ugly,2000,"Comedy, Drama",David McNally,23,104,71.0,698900.0,coyote ugly,5.5,76827.0,55.0,49.67
+379,Crank,2006,"Action & Adventure, Comedy, Mystery & Suspense","Mark Neveldine, Brian Taylor",61,93,71.0,442840.0,crank,7.0,155581.0,70.0,67.33
+380,Crazy Heart,2009,"Drama, Musical & Performing Arts, Romance",Scott Cooper,90,205,76.0,124750.0,crazy heart,7.3,51954.0,73.0,79.67
+381,Crocodile Dundee in Los Angeles,2001,"Action & Adventure, Comedy",Simon Wincer,11,80,25.0,171793.0,crocodile dundee in los angeles,4.7,16611.0,47.0,27.67
+382,Cry-Baby,1990,"Comedy, Musical & Performing Arts",John Waters,72,54,77.0,211396.0,cry baby,6.5,35823.0,65.0,71.33
+383,Cry_Wolf,2005,"Horror, Mystery & Suspense",Jeff Wadlow,24,46,51.0,69882.0,cry wolf,5.9,20536.0,59.0,44.67
+384,The Crying Game,1992,"Drama, Mystery & Suspense, Romance",Neil Jordan,94,67,78.0,31780.0,the crying game,7.3,35152.0,73.0,81.67
+385,Cujo,1983,"Horror, Mystery & Suspense",Lewis Teague,61,38,45.0,53442.0,cujo,5.9,20151.0,59.0,55.0
+386,Cyrus,2010,Comedy,"Jay Duplass, Mark Duplass",80,154,53.0,44599.0,cyrus,6.3,26504.0,63.0,65.33
+387,Dallas Buyers Club,2013,Drama,Jean-Marc Vallée,93,255,91.0,92484.0,dallas buyers club,8.0,121583.0,80.0,88.0
+388,Dante's Peak,1997,Action & Adventure,Roger Donaldson,26,31,38.0,238710.0,dante s peak,5.8,50945.0,58.0,40.67
+389,Daredevil,2003,"Action & Adventure, Science Fiction & Fantasy",Mark Steven Johnson,44,226,35.0,468380.0,daredevil,5.4,134495.0,54.0,44.33
+390,Dark Shadows,2012,"Drama, Horror, Mystery & Suspense",Tim Burton,36,252,46.0,257264.0,dark shadows,6.3,147014.0,63.0,48.33
+391,Dark City,1998,"Horror, Mystery & Suspense, Science Fiction & Fantasy",Alex Proyas,76,82,85.0,153406.0,dark city,7.8,125788.0,78.0,79.67
+392,Dark Skies,2013,"Horror, Mystery & Suspense",Scott Stewart,41,92,49.0,29156.0,dark skies,6.3,38197.0,63.0,51.0
+393,Darkman,1990,"Action & Adventure, Science Fiction & Fantasy",Sam Raimi,84,61,58.0,53199.0,darkman,6.4,39638.0,64.0,68.67
+394,Dave,1993,"Comedy, Romance",Ivan Reitman,95,59,72.0,42774.0,dave,6.8,35314.0,68.0,78.33
+395,Dawn of the Dead,2004,"Drama, Horror, Mystery & Suspense",Zack Snyder,75,187,77.0,403866.0,dawn of the dead,7.4,158640.0,74.0,75.33
+396,The Day After Tomorrow,2004,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Roland Emmerich,44,219,50.0,32749429.0,the day after tomorrow,6.4,248119.0,64.0,52.67
+397,Daylight,1996,"Action & Adventure, Drama",Rob Cohen,25,40,37.0,53569.0,daylight,5.8,43502.0,58.0,40.0
+398,Dead Man,1995,"Drama, Science Fiction & Fantasy, Western",Jim Jarmusch,71,51,88.0,55373.0,dead man,7.8,58794.0,78.0,79.0
+399,Dead Man Down,2013,Mystery & Suspense,Niels Arden Oplev,39,104,47.0,21042.0,dead man down,6.5,40792.0,65.0,50.33
+400,Dead Silence,2007,"Horror, Mystery & Suspense",James Wan,20,79,51.0,219435.0,dead silence,6.2,49347.0,62.0,44.33
+401,Death Race,2008,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Paul W.S. Anderson,42,158,60.0,207634.0,death race,6.4,132372.0,64.0,55.33
+402,Deception,2008,"Action & Adventure, Mystery & Suspense",Marcel Langenegger,11,100,31.0,80178.0,deception,6.0,27877.0,60.0,34.0
+403,Deck the Halls,2006,Comedy,John Whitesell,6,83,30.0,55706.0,deck the halls,4.8,12563.0,48.0,28.0
+404,Deep Impact,1998,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Mimi Leder,45,86,43.0,340688.0,deep impact,6.1,116333.0,61.0,49.67
+405,Defendor,2009,"Comedy, Drama",Peter Stebbings,73,22,58.0,14358.0,defendor,6.9,27790.0,69.0,66.67
+406,Demolition Man,1993,"Action & Adventure, Comedy, Drama, Science Fiction & Fantasy",Marco Brambilla,62,39,66.0,270361.0,demolition man,6.6,98796.0,66.0,64.67
+407,Detroit Rock City,1999,Comedy,Adam Rifkin,48,40,82.0,55724.0,detroit rock city,6.8,27539.0,68.0,66.0
+408,Deuce Bigalow: European Gigolo,2005,Comedy,"Mike Bigalow, Mike Bigelow",9,100,33.0,193992.0,deuce bigalow european gigolo,4.6,35533.0,46.0,29.33
+409,Diary of the Dead,2007,"Horror, Mystery & Suspense",George A. Romero,62,130,41.0,27214.0,diary of the dead,5.8,36628.0,58.0,53.67
+410,Dirty Dancing,1987,"Drama, Musical & Performing Arts, Romance",Emile Ardolino,69,65,90.0,1055153.0,dirty dancing,6.8,105208.0,68.0,75.67
+411,Dirty Harry,1971,"Classics, Drama, Mystery & Suspense",Don Siegel,91,44,90.0,76705.0,dirty harry,7.8,94697.0,78.0,86.33
+412,Dirty Love,2005,Comedy,John Asher,7,29,68.0,13715.0,dirty love,3.4,5726.0,34.0,36.33
+413,A Dirty Shame,2004,Comedy,John Waters,53,117,51.0,12539.0,a dirty shame,5.1,9735.0,51.0,51.67
+414,Disaster Movie,2008,Comedy,"Aaron Seltzer, Jason Friedberg",1,74,21.0,128287.0,disaster movie,1.9,63745.0,19.0,13.67
+415,Aladdin,1992,"Action & Adventure, Animation, Comedy, Kids & Family, Musical & Performing Arts","John Musker, Ron Clements",95,73,92.0,939481.0,aladdin,8.0,176939.0,80.0,89.0
+416,District 9,2009,"Action & Adventure, Drama, Science Fiction & Fantasy",Neill Blomkamp,90,311,82.0,1178265.0,district,8.0,417838.0,80.0,84.0
+417,Django Unchained,2012,"Drama, Western",Quentin Tarantino,86,281,91.0,428344.0,django unchained,8.5,568296.0,85.0,87.33
+418,Do the Right Thing,1989,"Comedy, Drama",Spike Lee,93,83,90.0,73511.0,do the right thing,7.9,48544.0,79.0,87.33
+419,Doghouse,2009,"Art House & International, Comedy, Horror",Jake West,48,23,46.0,4395.0,doghouse,6.1,15985.0,61.0,51.67
+420,Dogtown and Z-Boys,2001,"Documentary, Sports & Fitness",Stacy Peralta,92,96,88.0,13812.0,dogtown and z boys,7.7,8382.0,77.0,85.67
+421,Dogville,2003,"Art House & International, Drama, Mystery & Suspense, Special Interest",Lars von Trier,70,167,89.0,55261.0,dogville,8.0,87043.0,80.0,79.67
+422,Don Juan DeMarco,1994,"Comedy, Drama, Romance",Jeremy Leven,69,36,68.0,63837.0,don juan de marco,6.8,35237.0,68.0,68.33
+423,Don Jon,2013,"Comedy, Drama",Joseph Gordon-Levitt,79,197,58.0,76412.0,don jon,6.8,108981.0,68.0,68.33
+424,Donnie Brasco,1997,"Drama, Mystery & Suspense",Mike Newell,88,57,89.0,203990.0,donnie brasco,7.8,178966.0,78.0,85.0
+425,Donnie Darko,2001,"Comedy, Mystery & Suspense, Science Fiction & Fantasy, Romance",Richard Kelly,87,115,80.0,30984568.0,donnie darko,8.1,430315.0,81.0,82.67
+426,The Doors,1991,Drama,Oliver Stone,57,61,79.0,60589.0,the doors,7.2,56853.0,72.0,69.33
+427,Down by Law,1986,"Art House & International, Comedy, Drama",Jim Jarmusch,90,29,94.0,22334.0,down by law,7.9,28011.0,79.0,87.67
+428,Dr. Dolittle,1998,"Comedy, Kids & Family",Betty Thomas,43,51,34.0,873723.0,dr dolittle,5.3,58282.0,53.0,43.33
+429,Dr. Dolittle 2,2001,"Comedy, Kids & Family",Steve Carr,42,106,26.0,436838.0,dr dolittle,4.6,28573.0,46.0,38.0
+430,Dr. Giggles,1992,Horror,Manny Coto,17,29,41.0,10057.0,dr giggles,4.9,3659.0,49.0,35.67
+431,Drag Me to Hell,2009,"Horror, Mystery & Suspense",Sam Raimi,92,267,62.0,847066.0,drag me to hell,6.7,126913.0,67.0,73.67
+432,Dragonball Evolution,2009,"Action & Adventure, Science Fiction & Fantasy",James Wong,15,61,20.0,210098.0,dragonball evolution,2.9,45999.0,29.0,21.33
+433,Dragonheart,1996,"Action & Adventure, Drama, Science Fiction & Fantasy",Rob Cohen,50,30,60.0,326573.0,dragonheart,6.4,66725.0,64.0,58.0
+434,Dreamcatcher,2003,"Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy",Lawrence Kasdan,29,181,35.0,132338.0,dreamcatcher,5.5,63669.0,55.0,39.67
+435,Dreamgirls,2006,"Drama, Musical & Performing Arts",Bill Condon,78,207,71.0,388067.0,dreamgirls,6.6,45502.0,66.0,71.67
+436,Dreamscape,1984,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",Joseph Ruben,77,31,46.0,8537.0,dreamscape,6.3,8817.0,63.0,62.0
+437,Dredd,2012,"Action & Adventure, Science Fiction & Fantasy",Pete Travis,79,159,72.0,153503.0,dredd,7.0,158852.0,70.0,73.67
+438,Drinking Buddies,2013,"Comedy, Drama",Joe Swanberg,83,119,49.0,23788.0,drinking buddies,6.2,27905.0,62.0,64.67
+439,Drive,2011,"Action & Adventure, Drama, Mystery & Suspense",Nicolas Winding Refn,92,258,79.0,118225.0,drive,7.9,335287.0,79.0,83.33
+440,Drugstore Cowboy,1989,Drama,Gus Van Sant,100,27,85.0,22878.0,drugstore cowboy,7.4,21057.0,74.0,86.33
+441,The Dying Gaul,2005,"Art House & International, Drama, Romance",Craig Lucas,49,69,52.0,3301.0,the dying gaul,6.6,2041.0,66.0,55.67
+442,Easy Rider,1969,"Action & Adventure, Drama",Dennis Hopper,88,48,82.0,58671.0,easy rider,7.4,61351.0,74.0,81.33
+443,Ed Wood,1994,"Comedy, Drama",Tim Burton,92,63,88.0,107157.0,ed wood,7.9,125147.0,79.0,86.33
+444,Eden Lake,2008,"Horror, Mystery & Suspense",James Watkins,79,28,66.0,37167.0,eden lake,6.9,43310.0,69.0,71.33
+445,El Topo,1970,"Art House & International, Drama, Special Interest",Alejandro Jodorowsky,78,41,84.0,14606.0,el topo,7.5,13414.0,75.0,79.0
+446,Election,1999,Comedy,Alexander Payne,92,112,79.0,61720.0,election,7.3,62886.0,73.0,81.33
+447,Elephant,2003,Drama,Gus Van Sant,73,159,79.0,59136.0,elephant,7.2,60530.0,72.0,74.67
+448,Elysium,2013,"Drama, Science Fiction & Fantasy",Neill Blomkamp,66,251,58.0,162765.0,elysium,6.7,198113.0,67.0,63.67
+449,End of Watch,2012,Drama,David Ayer,85,176,86.0,85235.0,end of watch,7.7,131734.0,77.0,82.67
+450,Enron: The Smartest Guys in the Room,2005,"Documentary, Special Interest",Alex Gibney,97,119,87.0,32514.0,enron the smartest guys in the room,7.7,8897.0,77.0,87.0
+451,Equilibrium,2002,"Drama, Science Fiction & Fantasy",Kurt Wimmer,40,90,81.0,268066.0,equilibrium,7.6,216012.0,76.0,65.67
+452,Eraser,1996,"Action & Adventure, Mystery & Suspense",Chuck Russell,35,48,39.0,126696.0,eraser,6.0,67049.0,60.0,44.67
+453,Eraserhead,1977,"Drama, Horror, Special Interest",David Lynch,90,58,83.0,57378.0,eraserhead,7.4,51585.0,74.0,82.33
+454,Erin Brockovich,2000,"Comedy, Drama",Steven Soderbergh,84,145,81.0,418554.0,erin brockovich,7.3,108383.0,73.0,79.33
+455,Escape Plan,2013,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Mikael Håfström,50,108,55.0,58658.0,escape plan,6.8,88888.0,68.0,57.67
+456,Europa Report,2013,"Mystery & Suspense, Science Fiction & Fantasy",Sebastián Cordero,81,78,57.0,17507.0,europa report,6.5,28725.0,65.0,67.67
+457,Evita,1996,"Drama, Musical & Performing Arts",Alan Parker,63,38,68.0,54411.0,evita,6.3,26125.0,63.0,64.67
+458,Excalibur,1981,"Action & Adventure, Science Fiction & Fantasy",John Boorman,79,43,80.0,50075.0,excalibur,7.5,39909.0,75.0,78.0
+459,Existenz,1999,"Action & Adventure, Science Fiction & Fantasy",David Cronenberg,74,69,69.0,48848.0,existenz,6.8,63821.0,68.0,70.33
+460,Eyes Wide Shut,1999,"Drama, Romance",Stanley Kubrick,75,156,73.0,192430.0,eyes wide shut,7.3,180619.0,73.0,73.67
+461,Fair Game,2010,"Action & Adventure, Drama, Mystery & Suspense",Doug Liman,79,173,65.0,28639.0,fair game,6.8,32705.0,68.0,70.67
+462,Fantastic Four,2005,"Action & Adventure, Science Fiction & Fantasy",Tim Story,27,211,45.0,759102.0,fantastic four,5.7,200826.0,57.0,43.0
+463,Fantastic Four: Rise of the Silver Surfer,2007,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Tim Story,37,169,51.0,1339623.0,fantastic four rise of the silver surfer,5.6,161460.0,56.0,48.0
+464,Fast & Furious 6,2013,Action & Adventure,Justin Lin,70,203,84.0,348559.0,fast furious,7.2,198382.0,72.0,75.33
+465,The Fast and the Furious: Tokyo Drift,2006,Action & Adventure,Justin Lin,38,136,69.0,535861.0,the fast and the furious tokyo drift,5.9,115035.0,59.0,55.33
+466,Faster,2010,"Action & Adventure, Drama",George Tillman Jr.,42,127,49.0,45315.0,faster,6.5,66463.0,65.0,52.0
+467,Fat Albert,2004,"Comedy, Kids & Family",Joel Zwick,23,90,44.0,60234.0,fat albert,4.3,8091.0,43.0,36.67
+468,Feardotcom,2002,Horror,William Malone,3,100,18.0,57844.0,feardotcom,3.3,16041.0,33.0,18.0
+469,Feeling Minnesota,1996,"Action & Adventure, Comedy, Drama, Romance",Steven Baigelman,14,21,27.0,10789.0,feeling minnesota,5.4,8133.0,54.0,31.67
+470,Fierce People,2005,Drama,Griffin Dunne,24,45,58.0,8802.0,fierce people,6.6,4487.0,66.0,49.33
+471,Fight Club,1999,"Comedy, Drama",David Fincher,79,170,96.0,1092514.0,fight club,8.9,900388.0,89.0,88.0
+472,Fighting,2009,"Action & Adventure, Drama",Dito Montiel,40,129,36.0,765956.0,fighting,5.5,22781.0,55.0,43.67
+473,Film Geek,2005,Comedy,James Westby,64,22,34.0,910.0,film geek,6.2,948.0,62.0,53.33
+474,The Final Cut,2004,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Omar Naim,36,80,45.0,27301.0,the final cut,6.2,22224.0,62.0,47.67
+475,Final Destination,2000,"Horror, Mystery & Suspense",James Wong,34,94,68.0,483410.0,final destination,6.8,141163.0,68.0,56.67
+476,Final Destination 2,2003,Horror,David R. Ellis,48,111,58.0,449555.0,final destination,6.2,98526.0,62.0,56.0
+477,Final Destination 3,2006,"Action & Adventure, Drama, Horror, Mystery & Suspense",James Wong,43,116,57.0,538594.0,final destination,5.8,81777.0,58.0,52.67
+478,Final Destination 5,2011,Horror,Steven Quale,62,134,52.0,52068.0,final destination,5.9,67140.0,59.0,57.67
+479,Firewall,2006,"Action & Adventure, Drama, Mystery & Suspense",Richard Loncraine,18,158,37.0,268339.0,firewall,5.8,44775.0,58.0,37.67
+480,Flags of Our Fathers,2006,"Action & Adventure, Drama",Clint Eastwood,73,196,69.0,267924.0,flags of our fathers,7.1,84617.0,71.0,71.0
+481,Flash of Genius,2008,Drama,Marc Abraham,60,106,55.0,6023.0,flash of genius,7.0,12423.0,70.0,61.67
+482,Flash Point,2007,"Action & Adventure, Mystery & Suspense",Wilson Yip,40,20,67.0,6163.0,flash point,6.8,8550.0,68.0,58.33
+483,Flashdance,1983,"Drama, Romance",Adrian Lyne,34,41,61.0,79114.0,flashdance,6.0,27260.0,60.0,51.67
+484,Flight,2012,"Drama, Mystery & Suspense",Robert Zemeckis,77,231,75.0,153198.0,flight,7.3,193593.0,73.0,75.0
+485,Flubber,1997,"Comedy, Kids & Family, Science Fiction & Fantasy",Les Mayfield,24,34,33.0,623640.0,flubber,4.9,44413.0,49.0,35.33
+486,The Forbidden Kingdom,2008,Action & Adventure,Rob Minkoff,64,129,60.0,326688.0,the forbidden kingdom,6.6,74057.0,66.0,63.33
+487,Forrest Gump,1994,"Comedy, Drama, Romance",Robert Zemeckis,72,98,95.0,1244237.0,forrest gump,8.8,799314.0,88.0,85.0
+488,Four Lions,2010,"Comedy, Drama",Christopher Morris,83,134,80.0,23338.0,four lions,7.3,43952.0,73.0,78.67
+489,Freaks,1932,"Classics, Drama, Horror, Mystery & Suspense",Tod Browning,94,54,88.0,24416.0,freaks,8.0,26638.0,80.0,87.33
+490,Freddy vs. Jason,2003,"Horror, Mystery & Suspense",Ronny Yu,41,158,50.0,393680.0,freddy vs jason,5.8,74286.0,58.0,49.67
+491,Freedom Writers,2007,Drama,Richard LaGravenese,70,126,87.0,293431.0,freedom writers,7.5,41401.0,75.0,77.33
+492,Frequency,2000,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Gregory Hoblit,70,125,81.0,135844.0,frequency,7.3,67402.0,73.0,74.67
+493,Frida,2002,"Drama, Romance",Julie Taymor,75,154,85.0,54012.0,frida,7.4,49719.0,74.0,78.0
+494,Friday,1995,Comedy,F. Gary Gray,78,27,91.0,265534.0,friday,7.3,55953.0,73.0,80.67
+495,Fright Night,2011,"Comedy, Horror",Craig Gillespie,72,177,59.0,50440.0,fright night,6.4,72316.0,64.0,65.0
+496,From Dusk Till Dawn,1996,"Drama, Horror, Mystery & Suspense",Robert Rodriguez,63,49,76.0,273624.0,from dusk till dawn,7.3,169389.0,73.0,70.67
+497,From Hell,2001,"Horror, Mystery & Suspense","Allen Hughes, Albert Hughes",57,151,66.0,203174.0,from hell,6.9,102034.0,69.0,64.0
+498,From Paris with Love,2010,Action & Adventure,Pierre Morel,38,160,54.0,155648.0,from paris with love,6.5,81945.0,65.0,52.33
+499,Frost/Nixon,2008,Drama,Ron Howard,93,256,88.0,109771.0,frost nixon,7.8,76863.0,78.0,86.33
+500,Fruitvale Station,2013,Drama,Ryan Coogler,94,205,87.0,39133.0,fruitvale station,7.5,25654.0,75.0,85.33
+501,Full Metal Jacket,1987,"Action & Adventure, Drama",Stanley Kubrick,91,78,94.0,324317.0,full metal jacket,8.4,334586.0,84.0,89.67
+502,Funny Girl,1968,"Classics, Comedy, Drama, Musical & Performing Arts",William Wyler,93,44,85.0,19848.0,funny girl,7.6,10322.0,76.0,84.67
+503,Gandhi,1982,"Classics, Drama",Richard Attenborough,84,57,92.0,49750.0,gandhi,8.1,121887.0,81.0,85.67
+504,Gangs of New York,2002,"Classics, Drama",Martin Scorsese,73,211,81.0,294037.0,gangs of new york,7.5,237708.0,75.0,76.33
+505,Gangster Squad,2013,Drama,Ruben Fleischer,32,202,57.0,128209.0,gangster squad,6.8,133802.0,68.0,52.33
+506,Garden State,2004,"Comedy, Drama, Romance",Zach Braff,86,191,88.0,330026.0,garden state,7.7,165810.0,77.0,83.67
+507,GasLand,2010,Documentary,Josh Fox,98,40,85.0,8464.0,gasland,7.8,8017.0,78.0,87.0
+508,Gattaca,1997,"Drama, Science Fiction & Fantasy",Andrew Niccol,83,58,87.0,208586.0,gattaca,7.8,164586.0,78.0,82.67
+509,Gentlemen Broncos,2009,Comedy,Jared Hess,19,79,43.0,20722.0,gentlemen broncos,6.1,7273.0,61.0,41.0
+510,Get Rich or Die Tryin',2005,Drama,Jim Sheridan,16,120,70.0,298052.0,get rich or die tryin,4.8,28763.0,48.0,44.67
+511,Get Smart,2008,"Action & Adventure, Comedy",Peter Segal,50,220,67.0,451171.0,get smart,6.6,140323.0,66.0,61.0
+512,Getaway,2013,Action & Adventure,"Yaron Levy, Courtney Solomon",2,141,35.0,24362.0,getaway,4.3,13073.0,43.0,26.67
+513,Ghost in the Shell 2 - Innocence,2004,"Animation, Anime & Manga, Drama, Mystery & Suspense, Science Fiction & Fantasy",Mamoru Oshii,64,99,80.0,37415.0,ghost in the shell innocence,7.6,20332.0,76.0,73.33
+514,Ghost Rider,2007,"Action & Adventure, Horror, Mystery & Suspense",Mark Steven Johnson,26,140,48.0,730783.0,ghost rider,5.2,140190.0,52.0,42.0
+515,Ghost Ship,2002,Horror,Steve Beck,15,126,37.0,376943.0,ghost ship,5.4,64534.0,54.0,35.33
+516,Ghost World,2001,"Comedy, Drama",Terry Zwigoff,92,158,84.0,73413.0,ghost world,7.5,80591.0,75.0,83.67
+517,Gigi,1958,"Classics, Comedy, Musical & Performing Arts, Romance",Vincente Minnelli,79,33,74.0,20962.0,gigi,6.9,11409.0,69.0,74.0
+518,Gladiator,2000,"Action & Adventure, Classics, Drama",Ridley Scott,76,194,87.0,34128168.0,gladiator,8.5,661296.0,85.0,82.67
+519,Glengarry Glen Ross,1992,Drama,James Foley,95,55,88.0,40916.0,glengarry glen ross,7.9,59740.0,79.0,87.33
+520,Gods and Generals,2003,"Classics, Drama",Ronald F. Maxwell,8,121,64.0,9350.0,gods and generals,6.3,11704.0,63.0,45.0
+521,Gods and Generals,2003,"Classics, Drama",Ronald F. Maxwell,8,121,64.0,9350.0,gods and generals video game,3.7,20.0,37.0,36.33
+522,Gods and Monsters,1998,Drama,Bill Condon,95,63,83.0,13084.0,gods and monsters,7.6,22558.0,76.0,84.67
+523,Godzilla,1998,"Action & Adventure, Horror, Science Fiction & Fantasy",Roland Emmerich,16,76,28.0,302817.0,godzilla,5.3,128433.0,53.0,32.33
+524,Going Shopping,2005,"Comedy, Drama",Henry Jaglom,40,30,40.0,1527.0,going shopping,5.0,122.0,50.0,43.33
+525,Good Burger,1997,"Comedy, Kids & Family",Brian Robbins,32,38,63.0,55237.0,good burger,5.6,17033.0,56.0,50.33
+526,Good Dick,2008,"Art House & International, Comedy, Drama",Marianna Palka,50,42,51.0,5722.0,good dick,6.5,5969.0,65.0,55.33
+527,Good Hair,2009,"Comedy, Documentary, Special Interest",Jeff Stilson,95,83,69.0,49219.0,good hair,6.9,4103.0,69.0,77.67
+528,The Good Night,2007,"Comedy, Drama, Romance","Jake Paltrow, Giles Nuttgens",31,42,33.0,5275.0,the good night,5.9,6853.0,59.0,41.0
+529,Goon,2012,"Comedy, Sports & Fitness",Michael Dowse,82,104,71.0,22740.0,go on tv series,7.6,16391.0,76.0,76.33
+530,Gosford Park,2001,"Comedy, Drama, Mystery & Suspense",Robert Altman,86,159,78.0,48456.0,gosford park,7.3,56797.0,73.0,79.0
+531,Gothika,2003,"Horror, Mystery & Suspense",Mathieu Kassovitz,14,168,45.0,397743.0,gothika,5.8,74931.0,58.0,39.0
+532,Grace Is Gone,2007,Drama,James C. Strouse,62,73,60.0,70500.0,grace is gone,6.8,7180.0,68.0,63.33
+533,Grandma's Boy,2006,Comedy,Nicholaus Goossen,16,63,85.0,226207.0,grandma s boy,7.1,57932.0,71.0,57.33
+534,Gravity,2013,"Drama, Science Fiction & Fantasy",Alfonso Cuarón,96,346,80.0,302684.0,gravity,8.1,341562.0,81.0,85.67
+535,Grease,1978,"Comedy, Musical & Performing Arts, Romance",Randal Kleiser,75,71,87.0,1161119.0,grease,7.2,123712.0,72.0,78.0
+536,The Great Debaters,2007,Drama,Denzel Washington,79,130,86.0,116767.0,the great debaters,7.6,38572.0,76.0,80.33
+537,Green Lantern,2011,"Action & Adventure, Science Fiction & Fantasy",Martin Campbell,26,240,45.0,149152.0,green lantern,5.7,170753.0,57.0,42.67
+538,The Green Mile,1999,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Frank Darabont,79,133,94.0,813410.0,the green mile,8.5,499240.0,85.0,86.0
+539,Green Street Hooligans,2005,Drama,Lexi Alexander,47,64,87.0,219848.0,green street hooligans,7.6,92562.0,76.0,70.0
+540,Greenberg,2010,"Comedy, Drama",Noah Baumbach,76,172,42.0,36772.0,greenberg,6.1,23925.0,61.0,59.67
+541,Grizzly Man,2005,Documentary,Werner Herzog,92,141,85.0,53743.0,grizzly man,7.8,32548.0,78.0,85.0
+542,Guardians of the Galaxy,2014,"Action & Adventure, Science Fiction & Fantasy",James Gunn (II),91,316,92.0,254717.0,guardians of the galaxy,,,,91.5
+543,Hair,1979,"Comedy, Drama, Musical & Performing Arts",Milos Forman,90,21,88.0,29912.0,hair,7.5,21935.0,75.0,84.33
+544,Hairspray,2007,"Comedy, Musical & Performing Arts",Adam Shankman,91,219,85.0,763432.0,hairspray,6.9,77236.0,69.0,81.67
+545,Half Nelson,2006,Drama,Ryan Fleck,90,157,82.0,56525.0,half nelson,7.3,59782.0,73.0,81.67
+546,Halloween,2007,Horror,Rob Zombie,27,116,59.0,360821.0,halloween,6.1,74647.0,61.0,49.0
+547,Hamlet 2,2008,Comedy,Andrew Fleming,62,144,56.0,17653.0,hamlet,6.4,14189.0,64.0,60.67
+548,Hancock,2008,"Action & Adventure, Comedy, Drama",Peter Berg,41,224,59.0,556991.0,hancock,6.5,233225.0,65.0,55.0
+549,Hannah Takes the Stairs,2007,"Art House & International, Comedy, Drama",Joe Swanberg,59,46,45.0,2808.0,hannah takes the stairs,5.5,1052.0,55.0,53.0
+550,Happy Feet,2006,"Animation, Comedy, Kids & Family","George Miller, Warren Coleman, Judy Morris",76,166,70.0,617295.0,happy feet,6.5,97915.0,65.0,70.33
+551,Hardball,2001,"Comedy, Drama",Brian Robbins,40,101,70.0,55350.0,hardball,6.3,18606.0,63.0,57.67
+552,Harlem Nights,1989,"Action & Adventure, Comedy",Eddie Murphy,21,34,80.0,34424.0,harlem nights,5.8,11675.0,58.0,53.0
+553,Harold & Kumar Go to White Castle,2004,"Action & Adventure, Comedy",Danny Leiner,74,147,80.0,324178.0,harold kumar go to white castle,7.2,128821.0,72.0,75.33
+554,Hatchet,2006,Horror,Adam Green,52,46,45.0,13757.0,hatchet,5.7,20144.0,57.0,51.33
+555,Haunter,2013,"Horror, Mystery & Suspense",Vincenzo Natali,54,35,42.0,5366.0,haunter,5.9,6910.0,59.0,51.67
+556,Hearts in Atlantis,2001,"Drama, Mystery & Suspense",Scott Hicks,49,137,64.0,23492.0,hearts in atlantis,6.9,26821.0,69.0,60.67
+557,Heathers,1988,"Comedy, Cult Movies, Drama",Michael Lehmann,93,55,83.0,75282.0,heathers,7.4,46183.0,74.0,83.33
+558,Heaven,2002,"Action & Adventure, Art House & International, Drama, Mystery & Suspense, Romance",Tom Tykwer,74,87,76.0,9076.0,heaven,7.2,18181.0,72.0,74.0
+559,Hedwig and the Angry Inch,2001,"Comedy, Drama, Musical & Performing Arts",John Cameron Mitchell,93,111,93.0,49682.0,hedwig and the angry inch,7.8,23327.0,78.0,88.0
+560,Heights,2005,Drama,Chris Terrio,64,105,74.0,5485.0,heights,7.0,4002.0,70.0,69.33
+561,Hellboy,2004,"Action & Adventure, Horror, Science Fiction & Fantasy",Guillermo del Toro,81,201,66.0,458858.0,hellboy,6.8,194016.0,68.0,71.67
+562,Henry: Portrait of a Serial Killer,1986,"Drama, Horror, Mystery & Suspense",John McNaughton,87,61,71.0,11584.0,henry portrait of a serial killer,7.1,18694.0,71.0,76.33
+563,Her,2013,"Drama, Science Fiction & Fantasy, Special Interest, Romance",Spike Jonze,94,270,82.0,100892.0,her,8.3,98365.0,83.0,86.33
+564,Hercules,1997,"Animation, Kids & Family, Science Fiction & Fantasy","John Musker, Ron Clements",84,55,76.0,388724.0,hercules,7.2,87393.0,72.0,77.33
+565,Highlander: Endgame,2000,"Action & Adventure, Science Fiction & Fantasy",Douglas Aarniokoski,11,54,38.0,46328.0,highlander endgame,4.5,13932.0,45.0,31.33
+566,The Hills Have Eyes 2,2007,Horror,Martin Weisz,12,67,40.0,444137.0,the hills have eyes,5.1,39904.0,51.0,34.33
+567,A History of Violence,2005,"Action & Adventure, Drama, Mystery & Suspense",David Cronenberg,87,213,76.0,279917.0,a history of violence,7.5,154987.0,75.0,79.33
+568,Hitchcock,2012,Drama,Sacha Gervasi,60,213,60.0,29217.0,hitchcock,6.9,48345.0,69.0,63.0
+569,Hobo With a Shotgun,2011,Action & Adventure,Jason Eisener,66,117,57.0,20404.0,hobo with a shotgun,6.1,32819.0,61.0,61.33
+570,Hollywood Ending,2002,Comedy,Woody Allen,46,134,49.0,10499.0,hollywood ending,6.6,17615.0,66.0,53.67
+571,Home of the Brave,2006,"Action & Adventure, Drama",Irwin Winkler,23,57,47.0,22223.0,home of the brave,5.6,8526.0,56.0,42.0
+572,Homefront,2013,"Action & Adventure, Drama, Mystery & Suspense",Gary Fleder,42,113,61.0,41118.0,homefront,6.5,29785.0,65.0,56.0
+573,Hook,1991,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Steven Spielberg,26,62,76.0,731010.0,hook,6.6,138165.0,66.0,56.0
+574,Horrible Bosses 2,2014,Comedy,Sean Anders,34,154,47.0,58563.0,horrible bosses,,,,40.5
+575,House of Flying Daggers,2004,"Action & Adventure, Art House & International, Drama",Zhang Yimou,88,172,82.0,217821.0,house of flying daggers,7.6,76557.0,76.0,82.0
+576,House of Wax,2005,"Horror, Mystery & Suspense",Jaume Collet-Serra,26,156,42.0,404526.0,house of wax,5.3,78161.0,53.0,40.33
+577,House Party,1990,"Comedy, Musical & Performing Arts",Reginald Hudlin,93,28,82.0,38536.0,house party,6.2,6996.0,62.0,79.0
+578,Hulk,2003,"Action & Adventure, Science Fiction & Fantasy",Ang Lee,62,233,29.0,428868.0,hulk,5.7,163735.0,57.0,49.33
+579,Hunger,2008,"Art House & International, Drama, Special Interest",Steve McQueen (III),90,127,83.0,74257.0,hunger,7.6,36844.0,76.0,83.0
+580,I Am Legend,2007,"Action & Adventure, Drama, Science Fiction & Fantasy",Francis Lawrence,68,213,68.0,1129654.0,i am legend,7.2,375606.0,72.0,69.33
+581,I Spy,2002,"Action & Adventure, Comedy, Mystery & Suspense",Betty Thomas,16,133,33.0,78634.0,i spy,5.4,36526.0,54.0,34.33
+582,Ice Age,2002,"Animation, Comedy, Kids & Family","Chris Wedge, Carlos Saldanha",77,166,82.0,1134717.0,ice age,7.6,232174.0,76.0,78.33
+583,The Ice Harvest,2005,"Action & Adventure, Comedy, Mystery & Suspense",Harold Ramis,46,132,43.0,60344.0,the ice harvest,6.3,18945.0,63.0,50.67
+584,Idiocracy,2006,"Action & Adventure, Comedy, Science Fiction & Fantasy",Mike Judge,76,46,60.0,64867.0,idiocracy,6.5,85078.0,65.0,67.0
+585,I'm Not There,2007,Drama,Todd Haynes,77,160,69.0,113861.0,i m not there,7.0,41877.0,70.0,72.0
+586,I'm Still Here,2010,"Documentary, Musical & Performing Arts, Special Interest, Television",Casey Affleck,53,129,38.0,20682.0,i m still here,6.2,11405.0,62.0,51.0
+587,In a World...,2013,"Comedy, Drama",Lake Bell,92,127,71.0,21043.0,in a world,6.8,11334.0,68.0,77.0
+588,In the Cut,2003,"Drama, Mystery & Suspense",Jane Campion,33,171,34.0,12805.0,in the cut,5.3,16708.0,53.0,40.0
+589,In the Land of Women,2007,"Comedy, Drama","Jon Kasdan, Jon Kasdan",44,117,52.0,100781.0,in the land of women,6.6,24951.0,66.0,54.0
+590,Inception,2010,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Christopher Nolan,87,351,91.0,569611.0,inception,8.8,942259.0,88.0,88.67
+591,Infamous,2006,Drama,Douglas McGrath,73,152,69.0,20714.0,infamous,7.1,12139.0,71.0,71.0
+592,Inglourious Basterds,2009,"Action & Adventure, Drama",Quentin Tarantino,89,325,88.0,775048.0,inglourious basterds,8.3,561706.0,83.0,86.67
+593,Inside Deep Throat,2005,"Documentary, Television","Fenton Bailey, Randy Barbato",83,121,67.0,6580.0,inside deep throat,6.8,5061.0,68.0,72.67
+594,Inside Job,2010,"Documentary, Special Interest",Charles Ferguson (III),98,146,91.0,29592.0,inside job,8.3,42684.0,83.0,90.67
+595,Inside Llewyn Davis,2013,Drama,"Ethan Coen, Joel Coen",92,274,74.0,44831.0,inside llewyn davis,7.6,41493.0,76.0,80.67
+596,Inside Man,2006,"Action & Adventure, Drama, Mystery & Suspense",Spike Lee,86,203,85.0,351339.0,inside man,7.7,217824.0,77.0,82.67
+597,Insidious: Chapter 2,2013,"Horror, Mystery & Suspense",James Wan,39,123,57.0,91722.0,insidious chapter,6.7,57565.0,67.0,54.33
+598,Intermission,2003,"Comedy, Drama, Mystery & Suspense","John Crowley, James Crowley",73,96,75.0,10423.0,intermission,6.9,12163.0,69.0,72.33
+599,The International,2009,"Drama, Mystery & Suspense",Tom Tykwer,58,210,37.0,165428.0,the international,6.5,70770.0,65.0,53.33
+600,Into the Blue,2005,"Action & Adventure, Mystery & Suspense",John Stockwell,21,125,57.0,326577.0,into the blue,5.8,53777.0,58.0,45.33
+601,Into the Wild,2007,"Action & Adventure, Drama",Sean Penn,83,196,89.0,179280.0,into the wild,8.2,292747.0,82.0,84.67
+602,Iron Man 3,2013,"Action & Adventure, Science Fiction & Fantasy",Shane Black,79,315,78.0,484450.0,iron man,7.4,349551.0,74.0,77.0
+603,It's Kind of a Funny Story,2010,"Comedy, Drama","Anna Boden, Ryan Fleck",57,133,65.0,34067.0,it s kind of a funny story,7.2,77919.0,72.0,64.67
+604,It's a Wonderful Life,1946,"Classics, Drama, Kids & Family, Science Fiction & Fantasy",Frank Capra,93,76,95.0,218387.0,it s a wonderful life,8.7,197764.0,87.0,91.67
+605,It's All Gone Pete Tong,2004,"Comedy, Drama",Michael Dowse,76,71,88.0,17244.0,it s all gone pete tong,7.4,14591.0,74.0,79.33
+606,J. Edgar,2011,Drama,Clint Eastwood,43,241,44.0,40041.0,j edgar,6.6,79508.0,66.0,51.0
+607,Jack Reacher,2012,"Drama, Mystery & Suspense",Christopher McQuarrie,63,179,67.0,115924.0,jack reacher,7.0,154573.0,70.0,66.67
+608,Jack Ryan: Shadow Recruit,2014,"Action & Adventure, Drama, Mystery & Suspense",Kenneth Branagh,55,181,53.0,64703.0,jack ryan shadow recruit,6.5,17306.0,65.0,57.67
+609,The Jacket,2005,"Drama, Horror, Mystery & Suspense",John Maybury,44,162,73.0,78951.0,the jacket,7.1,77080.0,71.0,62.67
+610,Jackie Brown,1997,"Action & Adventure, Drama, Mystery & Suspense",Quentin Tarantino,87,82,85.0,215077.0,jackie brown,7.5,185138.0,75.0,82.33
+611,Jane Eyre,2011,"Drama, Romance",Cary Joji Fukunaga,84,164,76.0,33275.0,jane eyre,7.4,44727.0,74.0,78.0
+612,Jeepers Creepers 2,2003,Horror,Victor Salva,23,125,37.0,357019.0,jeepers creepers,5.5,36344.0,55.0,38.33
+613,Jeffrey,1995,"Comedy, Drama, Gay & Lesbian",Christopher Ashley,68,28,68.0,4570.0,jeffrey,6.6,4429.0,66.0,67.33
+614,Jeremiah Johnson,1972,"Action & Adventure, Western",Sydney Pollack,95,20,89.0,12868.0,jeremiah johnson,7.6,16873.0,76.0,86.67
+615,Jersey Girl,2004,Comedy,Kevin Smith,42,175,48.0,139006.0,jersey girl,6.2,46065.0,62.0,50.67
+616,Joe Strummer: The Future Is Unwritten,2007,"Documentary, Musical & Performing Arts",Julien Temple,89,64,87.0,7646.0,joe strummer the future is unwritten,7.7,2615.0,77.0,84.33
+617,Johnny English,2003,Comedy,Peter Howitt,33,121,50.0,401888.0,johnny english,6.0,91609.0,60.0,47.67
+618,Josie and the Pussycats,2001,Comedy,"Harry Elfont, Deborah Kaplan",53,123,52.0,71525.0,josie and the pussycats,5.3,16771.0,53.0,52.67
+619,Judge Dredd,1995,"Action & Adventure, Science Fiction & Fantasy",Danny Cannon,17,52,30.0,132498.0,judge dredd,5.3,68672.0,53.0,33.33
+620,Julie & Julia,2009,"Comedy, Drama",Nora Ephron,77,223,70.0,363421.0,julie julia,7.0,61496.0,70.0,72.33
+621,Jumper,2008,"Action & Adventure, Drama, Science Fiction & Fantasy",Doug Liman,15,166,44.0,321296.0,jumper,6.0,190441.0,60.0,39.67
+622,Juno,2007,"Comedy, Drama",Jason Reitman,94,214,88.0,549320.0,juno,7.6,323252.0,76.0,86.0
+623,Jurassic Park,1993,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Steven Spielberg,91,124,91.0,1070290.0,jurassic park,8.0,374251.0,80.0,87.33
+624,Jurassic Park III,2001,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Joe Johnston,49,181,36.0,526557.0,jurassic park iii,5.9,154092.0,59.0,48.0
+625,Justice League,2017,"Action & Adventure, Drama, Science Fiction & Fantasy",Zack Snyder,40,380,72.0,126790.0,justice league,,,,56.0
+626,Juwanna Mann,2002,Comedy,Jesse Vaughan,10,83,39.0,8322.0,juwanna mann,4.4,4833.0,44.0,31.0
+627,Kabluey,2007,"Art House & International, Comedy",Scott Prendergast,84,37,65.0,2890.0,kabluey,6.7,3816.0,67.0,72.0
+628,Kangaroo Jack,2003,"Action & Adventure, Comedy, Kids & Family",David McNally,8,115,28.0,59214.0,kangaroo jack,4.3,19323.0,43.0,26.33
+629,Kate & Leopold,2001,"Comedy, Science Fiction & Fantasy, Romance",James Mangold,50,129,62.0,189831.0,kate leopold,6.3,52076.0,63.0,58.33
+630,Kick-Ass 2,2013,"Action & Adventure, Comedy",Jeff Wadlow,32,205,57.0,112730.0,kick ass,6.8,130056.0,68.0,52.33
+631,The Kid Stays in the Picture,2002,"Documentary, Drama, Special Interest, Television","Nanette Burstein, Brett Morgen",91,112,80.0,4706.0,the kid stays in the picture,7.4,5353.0,74.0,81.67
+632,Kill the Irishman,2011,"Action & Adventure, Drama, Mystery & Suspense",Jonathan Hensleigh,61,49,67.0,9456.0,kill the irishman,7.2,30053.0,72.0,66.67
+633,Killer Elite,2011,"Action & Adventure, Mystery & Suspense","Gary McKendry, Terry Cunningham",26,125,42.0,32396.0,killer elite,6.5,84937.0,65.0,44.33
+634,The Killing of a Chinese Bookie,1976,Drama,John Cassavetes,81,27,83.0,4712.0,the killing of a chinese bookie,7.5,5988.0,75.0,79.67
+635,Killing Them Softly,2012,"Comedy, Drama, Mystery & Suspense",Andrew Dominik,73,225,44.0,121346.0,killing them softly,6.2,86521.0,62.0,59.67
+636,King Kong,2005,Action & Adventure,Peter Jackson,84,263,50.0,33766734.0,king kong,7.3,256609.0,73.0,69.0
+637,King of California,2007,"Art House & International, Comedy, Drama",Mike Cahill,63,67,64.0,16536.0,king of california,6.7,18193.0,67.0,64.67
+638,Kiss of the Dragon,2001,"Action & Adventure, Drama, Mystery & Suspense",Chris Nahon,51,106,68.0,66273.0,kiss of the dragon,6.6,46069.0,66.0,61.67
+639,Kit Kittredge: An American Girl,2008,"Comedy, Drama, Kids & Family",Patricia Rozema,80,104,69.0,52516.0,kit kittredge an american girl,6.7,3948.0,67.0,72.0
+640,Kites,2010,"Action & Adventure, Drama, Mystery & Suspense, Romance",Anurag Basu,74,27,52.0,14813.0,kites,6.0,7319.0,60.0,62.0
+641,Kung Fu Panda,2008,"Action & Adventure, Animation, Kids & Family","John Stevenson, Mark Osborne",87,185,82.0,585078.0,kung fu panda,7.6,216682.0,76.0,81.67
+642,Kung Fu Panda 2,2011,"Action & Adventure, Animation, Comedy, Kids & Family",Jennifer Yuh Nelson,81,177,74.0,145245.0,kung fu panda,7.3,123779.0,73.0,76.0
+643,La Bamba,1987,"Drama, Musical & Performing Arts",Luis Valdez,96,28,78.0,52187.0,la bamba,6.8,17404.0,68.0,80.67
+644,L.A. Confidential,1997,"Drama, Mystery & Suspense",Curtis Hanson,99,111,94.0,150547.0,l a confidential,8.3,319796.0,83.0,92.0
+645,The Ladykillers,2004,"Comedy, Drama","Joel Coen, Ethan Coen",54,191,43.0,65628.0,the ladykillers,6.2,71366.0,62.0,53.0
+646,Lagaan: Once Upon a Time in India,2001,"Art House & International, Comedy, Drama, Musical & Performing Arts","Mansoor Khan, Ashutosh Gowariker",95,59,93.0,19697.0,lagaan once upon a time in india,8.3,33481.0,83.0,90.33
+647,Lake Placid,1999,"Action & Adventure, Comedy, Horror, Mystery & Suspense",Steve Miner,46,93,36.0,125787.0,lake placid,5.6,35274.0,56.0,46.0
+648,Land of the Dead,2005,"Action & Adventure, Drama, Horror, Mystery & Suspense",George A. Romero,74,178,51.0,137417.0,land of the dead,6.3,68841.0,63.0,62.67
+649,Last Action Hero,1993,"Action & Adventure, Comedy, Science Fiction & Fantasy",John McTiernan,36,47,47.0,196818.0,last action hero,6.1,86277.0,61.0,48.0
+650,Last Days,2005,"Drama, Musical & Performing Arts",Gus Van Sant,57,120,50.0,22901.0,last days,5.7,16368.0,57.0,54.67
+651,Last Man Standing,1996,"Action & Adventure, Drama, Mystery & Suspense",Walter Hill,37,30,51.0,50068.0,last man standing,6.4,37835.0,64.0,50.67
+652,The Last Stand,2013,"Action & Adventure, Mystery & Suspense",Kim Jee-woon,61,163,53.0,40372.0,the last stand,6.4,83979.0,64.0,59.33
+653,Last Vegas,2013,Comedy,Jon Turteltaub,46,146,59.0,53988.0,last vegas,6.7,60360.0,67.0,57.33
+654,Legion,2010,"Action & Adventure, Horror, Mystery & Suspense",Scott Stewart,19,104,31.0,312684.0,legion,5.1,66821.0,51.0,33.67
+655,Les Misérables,2012,"Drama, Musical & Performing Arts, Romance",Tom Hooper,69,248,79.0,265055.0,les mis rables,7.7,187246.0,77.0,75.0
+656,Let Me In,2010,"Drama, Horror, Science Fiction & Fantasy, Romance",Matt Reeves,88,232,76.0,66819.0,let me in,7.2,69530.0,72.0,78.67
+657,Letters from Iwo Jima,2006,Drama,Clint Eastwood,91,201,86.0,341026.0,letters from iwo jima,8.0,112624.0,80.0,85.67
+658,Letters To God,2010,"Drama, Kids & Family, Faith & Spirituality","David Nixon, Patrick Doughtie",24,21,75.0,19676.0,letters to god,6.0,3117.0,60.0,53.0
+659,Liberal Arts,2012,"Comedy, Drama",Josh Radnor,70,111,60.0,8123.0,liberal arts,6.8,19444.0,68.0,66.0
+660,Like Crazy,2011,"Drama, Romance",Drake Doremus,71,152,62.0,19403.0,like crazy,6.7,34821.0,67.0,66.67
+661,Lilo & Stitch,2002,"Action & Adventure, Animation, Comedy","Dean DeBlois, Chris Sanders",86,146,77.0,466971.0,lilo stitch,7.1,76861.0,71.0,78.0
+662,The Limey,1999,"Drama, Mystery & Suspense",Steven Soderbergh,93,81,78.0,11580.0,the limey,7.1,21823.0,71.0,80.67
+663,Lincoln,2012,Drama,Steven Spielberg,89,276,80.0,245692.0,lincoln,7.5,146016.0,75.0,81.33
+664,Little Children,2006,"Comedy, Drama",Todd Field,80,161,82.0,95435.0,little children,7.6,80114.0,76.0,79.33
+665,Little Manhattan,2005,"Comedy, Drama, Kids & Family, Romance",Mark Levin,77,30,86.0,22746.0,little manhattan,7.6,15395.0,76.0,79.67
+666,Little Miss Sunshine,2006,Comedy,"Jonathan Dayton, Valerie Faris",91,214,91.0,426942.0,little miss sunshine,7.9,279289.0,79.0,87.0
+667,The Living Daylights,1987,"Action & Adventure, Mystery & Suspense",John Glen,71,52,66.0,53772.0,the living daylights video game,6.6,25.0,66.0,67.67
+668,Lockout,2012,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy","James Mather, Stephen Saint Leger",37,135,46.0,164430.0,lockout,6.1,67857.0,61.0,48.0
+669,Looney Tunes: Back in Action,2003,"Animation, Comedy, Kids & Family",Joe Dante,56,138,50.0,63547.0,looney tunes back in action,5.8,18645.0,58.0,54.67
+670,Looper,2012,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Rian Johnson,93,262,82.0,179928.0,looper,7.5,319406.0,75.0,83.33
+671,Lord of Illusions,1995,Horror,Clive Barker,61,23,52.0,11246.0,lord of illusions,6.0,9426.0,60.0,57.67
+672,Los Angeles Plays Itself,2003,"Documentary, Drama, Musical & Performing Arts, Special Interest, Television",Thom Andersen,96,45,85.0,1070.0,los angeles plays itself,7.9,707.0,79.0,86.67
+673,Lost Highway,1997,"Drama, Horror, Mystery & Suspense",David Lynch,60,43,87.0,57773.0,lost highway,7.7,76443.0,77.0,74.67
+674,Lost in Space,1998,"Action & Adventure, Science Fiction & Fantasy",Stephen Hopkins,28,83,24.0,173846.0,lost in space,5.0,51585.0,50.0,34.0
+675,Love Happens,2009,"Drama, Romance",Brandon Camp,17,109,37.0,125368.0,love happens,5.6,21325.0,56.0,36.67
+676,Love Ranch,2010,Drama,Taylor Hackford,13,52,28.0,1233.0,love ranch,5.6,1985.0,56.0,32.33
+677,Lucky Number Slevin,2006,"Drama, Mystery & Suspense",Paul McGuigan,51,154,87.0,336771.0,lucky number slevin,7.8,215991.0,78.0,72.0
+678,Lucky Numbers,2000,Comedy,Nora Ephron,22,96,19.0,9777.0,lucky numbers,5.0,7750.0,50.0,30.33
+679,MacGruber,2010,"Action & Adventure, Comedy",Jorma Taccone,48,151,35.0,120127.0,macgruber,5.4,30871.0,54.0,45.67
+680,Macbeth,1971,Drama,Roman Polanski,86,29,73.0,8864.0,macbeth,7.4,7407.0,74.0,77.67
+681,Machete,2010,"Action & Adventure, Mystery & Suspense","Ethan Maniquis, Robert Rodriguez",72,189,63.0,109530.0,machete,6.7,141665.0,67.0,67.33
+682,Machine Gun Preacher,2011,"Action & Adventure, Drama",Marc Forster,27,113,62.0,18354.0,machine gun preacher,6.9,41946.0,69.0,52.67
+683,Mad Hot Ballroom,2005,"Documentary, Kids & Family, Musical & Performing Arts, Special Interest",Marilyn Agrelo,84,121,83.0,8365.0,mad hot ballroom,7.6,3022.0,76.0,81.0
+684,Mad Max,1979,"Action & Adventure, Cult Movies, Science Fiction & Fantasy",George Miller,90,61,70.0,141967.0,mad max,7.0,95677.0,70.0,76.67
+685,Madagascar,2005,"Animation, Comedy, Kids & Family","Eric Darnell, Tom McGrath",54,191,73.0,86.0,madagascar,6.9,182719.0,69.0,65.33
+686,Made,2001,"Action & Adventure, Comedy, Drama",Jon Favreau,71,107,67.0,18423.0,made,6.5,13486.0,65.0,67.67
+687,Magnolia,1999,Drama,Paul Thomas Anderson,83,145,89.0,192792.0,magnolia,8.0,205640.0,80.0,84.0
+688,Malibu's Most Wanted,2003,Comedy,John Whitesell,31,93,54.0,51679.0,malibu s most wanted,5.0,14289.0,50.0,45.0
+689,Mallrats,1995,Comedy,Kevin Smith,56,45,82.0,220078.0,mall rats,7.2,84822.0,72.0,70.0
+690,Mambo Italiano,2003,"Art House & International, Comedy, Drama",Émile Gaudreault,32,75,66.0,7842.0,mambo italiano,6.8,4913.0,68.0,55.33
+691,Mamma Mia!,2008,"Comedy, Musical & Performing Arts, Romance",Phyllida Lloyd,54,182,66.0,438166.0,mamma mia,6.4,106732.0,64.0,61.33
+692,Man of Tai Chi,2013,Action & Adventure,Keanu Reeves,70,66,50.0,12518.0,man of tai chi,6.1,18364.0,61.0,60.33
+693,The Man Who Wasn't There,2001,"Comedy, Drama, Romance",Joel Coen,81,157,85.0,41209.0,the man who wasn t there,7.6,71870.0,76.0,80.67
+694,Manhattan,1979,"Comedy, Drama, Romance",Woody Allen,95,65,92.0,51734.0,manhattan,8.0,83078.0,80.0,89.0
+695,Marmaduke,2010,"Comedy, Kids & Family",Tom Dey,9,101,42.0,78282.0,marmaduke,4.1,9269.0,41.0,30.67
+696,Mars Attacks!,1996,"Action & Adventure, Comedy, Science Fiction & Fantasy",Tim Burton,53,81,53.0,436369.0,mars attacks,6.3,140693.0,63.0,56.33
+697,Martha Marcy May Marlene,2011,"Drama, Mystery & Suspense",Sean Durkin,90,204,71.0,19349.0,martha marcy may marlene,7.0,31698.0,70.0,77.0
+698,Martyrs,2008,"Art House & International, Drama, Horror",Pascal Laugier,59,34,69.0,12301.0,martyrs,7.1,44467.0,71.0,66.33
+699,Marvel's The Avengers,2012,"Action & Adventure, Science Fiction & Fantasy",Joss Whedon,92,348,91.0,1134955.0,marvel s the avengers,8.2,638083.0,82.0,88.33
+700,Mary Poppins,1964,"Classics, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Robert Stevenson,100,50,86.0,682310.0,mary poppins,7.8,76881.0,78.0,88.0
+701,Masters of the Universe,1987,"Action & Adventure, Science Fiction & Fantasy",Gary Goddard,17,23,40.0,48711.0,masters of the universe,5.3,22363.0,53.0,36.67
+702,Match Point,2005,"Drama, Mystery & Suspense",Woody Allen,76,216,81.0,250601.0,match point,7.7,128918.0,77.0,78.0
+703,Material Girls,2006,"Comedy, Drama",Martha Coolidge,4,54,44.0,229010.0,material girls,3.7,16498.0,37.0,28.33
+704,Maurice,1987,"Drama, Romance, Gay & Lesbian",James Ivory,90,21,87.0,7495.0,maurice,7.8,8976.0,78.0,85.0
+705,Max,2002,Drama,Menno Meyjes,69,112,64.0,6524.0,max,6.6,5692.0,66.0,66.33
+706,Max Payne,2008,"Action & Adventure, Drama, Mystery & Suspense",John Moore (VIII),16,134,30.0,230514.0,max payne,5.4,93342.0,54.0,33.33
+707,McCabe & Mrs. Miller,1971,"Classics, Drama, Western",Robert Altman,88,50,87.0,8652.0,mccabe mrs miller,7.7,12802.0,77.0,84.0
+708,The Mechanic,2011,"Action & Adventure, Drama, Mystery & Suspense",Simon West,53,162,51.0,57736.0,the mechanic,6.5,93553.0,65.0,56.33
+709,Mega Shark vs. Giant Octopus,2009,"Action & Adventure, Horror, Science Fiction & Fantasy","Jack Perez, Ace Hannah",18,22,20.0,52846.0,mega shark vs giant octopus video,2.5,7847.0,25.0,21.0
+710,Megamind,2010,"Action & Adventure, Animation, Comedy, Kids & Family",Tom McGrath,72,178,72.0,208449.0,megamind,7.3,126477.0,73.0,72.33
+711,Melancholia,2011,"Art House & International, Drama, Mystery & Suspense, Science Fiction & Fantasy",Lars von Trier,79,198,67.0,44455.0,melancholia,7.1,94094.0,71.0,72.33
+712,Memento,2000,"Drama, Mystery & Suspense",Christopher Nolan,92,173,94.0,380531.0,memento,8.6,605480.0,86.0,90.67
+713,Men in Black,1997,"Action & Adventure, Comedy, Science Fiction & Fantasy",Barry Sonnenfeld,92,88,79.0,1049123.0,men in black,7.2,295461.0,72.0,81.0
+714,Men of Honor,2000,Drama,George Tillman Jr.,42,106,81.0,77264.0,men of honor,7.1,73594.0,71.0,64.67
+715,Michael Clayton,2007,"Drama, Mystery & Suspense",Tony Gilroy,90,199,69.0,299888.0,michael clayton,7.3,113526.0,73.0,77.33
+716,Michael Collins,1996,"Drama, Mystery & Suspense",Neil Jordan,77,47,84.0,21304.0,michael collins,7.1,19919.0,71.0,77.33
+717,Mickey Blue Eyes,1999,Comedy,Kelly Makin,45,77,42.0,56938.0,mickey blue eyes,5.8,26696.0,58.0,48.33
+718,Midnight in Paris,2011,"Comedy, Romance",Woody Allen,93,220,83.0,82318.0,midnight in paris,7.7,221572.0,77.0,84.33
+719,A Mighty Wind,2003,Comedy,Christopher Guest,87,175,75.0,42547.0,a mighty wind,7.3,20180.0,73.0,78.33
+720,Milk,2008,"Drama, Gay & Lesbian",Gus Van Sant,93,241,89.0,177935.0,milk,7.7,108949.0,77.0,86.33
+721,Miller's Crossing,1990,"Drama, Mystery & Suspense",Joel Coen,91,58,90.0,50465.0,miller s crossing,7.9,85503.0,79.0,86.67
+722,Million Dollar Baby,2004,"Drama, Romance",Clint Eastwood,91,268,90.0,404846.0,million dollar baby,8.1,334315.0,81.0,87.33
+723,The Million Dollar Hotel,2000,"Art House & International, Drama, Mystery & Suspense",Wim Wenders,25,44,68.0,11380.0,the million dollar hotel,5.9,16935.0,59.0,50.67
+724,Minority Report,2002,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Steven Spielberg,91,249,80.0,481256.0,minority report,7.7,306842.0,77.0,82.67
+725,The Miracle of Morgan's Creek,1944,"Classics, Comedy, Romance",Preston Sturges,88,26,83.0,3132.0,the miracle of morgan s creek,8.0,4798.0,80.0,83.67
+726,MirrorMask,2005,"Drama, Kids & Family, Science Fiction & Fantasy",Dave McKean,54,89,80.0,70923.0,mirrormask,7.0,18136.0,70.0,68.0
+727,Misery,1990,"Drama, Horror, Mystery & Suspense",Rob Reiner,90,67,89.0,177723.0,misery,7.8,103810.0,78.0,85.67
+728,Miss Julie,2014,Drama,Liv Ullmann,51,53,25.0,630.0,miss julie,,,,38.0
+729,Mission: Impossible,1996,"Action & Adventure, Mystery & Suspense",Brian DePalma,63,57,71.0,867099.0,mission impossible,7.0,217750.0,70.0,68.0
+730,Mission: Impossible III,2006,"Action & Adventure, Mystery & Suspense",J.J. Abrams,70,221,69.0,508783.0,mission impossible iii,6.8,184777.0,68.0,69.0
+731,Mission to Mars,2000,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Brian DePalma,25,110,30.0,53535.0,mission to mars,5.5,52891.0,55.0,36.67
+732,Money Train,1995,"Action & Adventure, Comedy, Drama, Mystery & Suspense",Joseph Ruben,22,32,29.0,50168.0,money train,5.5,27590.0,55.0,35.33
+733,Monkeybone,2001,"Animation, Comedy, Science Fiction & Fantasy",Henry Selick,19,113,27.0,47257.0,monkeybone,4.7,12611.0,47.0,31.0
+734,Monster,2004,Drama,Patty Jenkins,81,188,81.0,84704.0,monster tv series,8.6,5339.0,86.0,82.67
+735,Monster House,2006,"Action & Adventure, Animation, Kids & Family",Gil Kenan,75,161,63.0,199528.0,monster house,6.7,53667.0,67.0,68.33
+736,Monsters,2010,"Art House & International, Drama, Horror, Science Fiction & Fantasy, Romance",Gareth Edwards (V),73,159,53.0,41481.0,monsters,6.4,58943.0,64.0,63.33
+737,Moon,2009,"Mystery & Suspense, Science Fiction & Fantasy",Duncan Jones,90,193,89.0,100576.0,moon,8.0,186273.0,80.0,86.33
+738,Moonrise Kingdom,2012,Comedy,Wes Anderson,93,246,86.0,139436.0,moonrise kingdom,7.8,160533.0,78.0,85.67
+739,Morning Glory,2010,Comedy,Roger Michell,55,178,51.0,50238.0,morning glory,6.5,47441.0,65.0,57.0
+740,Mortal Kombat,1995,"Action & Adventure, Science Fiction & Fantasy",Paul W.S. Anderson,47,38,57.0,311583.0,mortal kombat,5.8,65703.0,58.0,54.0
+741,Moulin Rouge!,2001,"Drama, Musical & Performing Arts, Romance",Baz Luhrmann,76,198,89.0,505093.0,moulin rouge,7.7,192074.0,77.0,80.67
+742,Mr. & Mrs. Smith,2005,"Action & Adventure, Comedy, Mystery & Suspense",Doug Liman,59,212,58.0,33461707.0,mr mrs smith,6.4,245535.0,64.0,60.33
+743,Mr. Deeds,2002,Comedy,Steven Brill,22,155,59.0,738305.0,mr deeds,5.8,88182.0,58.0,46.33
+744,Mr. Woodcock,2007,Comedy,Craig Gillespie,13,110,32.0,246592.0,mr woodcock,5.1,28132.0,51.0,32.0
+745,Mrs. Miniver,1942,"Classics, Drama, Romance",William Wyler,92,26,85.0,6041.0,mrs miniver,7.7,8904.0,77.0,84.67
+746,Mulan,1998,"Action & Adventure, Animation, Kids & Family","Barry Cook, Tony Bancroft",86,74,85.0,611371.0,mulan,7.5,107855.0,75.0,82.0
+747,Mulholland Drive,2001,"Drama, Mystery & Suspense, Special Interest",David Lynch,83,177,88.0,188972.0,mulholland drive,8.0,188272.0,80.0,83.67
+748,My Blueberry Nights,2007,Drama,Kar-Wai Wong,46,128,61.0,32263.0,my blueberry nights,6.7,38026.0,67.0,58.0
+749,My Name Is Khan,2010,"Art House & International, Drama, Romance",Karan Johar,85,27,83.0,20009.0,my name is khan,7.8,40079.0,78.0,82.0
+750,My Summer of Love,2004,"Drama, Romance","Pavel Pavlikovskiy, Pawel Pawlikowski",90,92,69.0,11606.0,my summer of love,6.8,13887.0,68.0,75.67
+751,My Week with Marilyn,2011,Drama,Simon Curtis,83,180,71.0,34788.0,my week with marilyn,7.0,60634.0,70.0,74.67
+752,Mystery Science Theater 3000: The Movie,1996,"Comedy, Science Fiction & Fantasy, Special Interest",Jim Mallon,80,55,88.0,26925.0,mystery science theater the movie,7.5,13836.0,75.0,81.0
+753,Mystic River,2003,"Drama, Mystery & Suspense",Clint Eastwood,88,204,89.0,203319.0,mystic river,8.0,274771.0,80.0,85.67
+754,Nacho Libre,2006,"Comedy, Documentary, Kids & Family",Jared Hess,40,164,54.0,417196.0,nacho libre,5.7,56453.0,57.0,50.33
+755,Napoleon Dynamite,2004,Comedy,Jared Hess,71,173,74.0,789688.0,napoleon dynamite,6.9,131096.0,69.0,71.33
+756,Narc,2002,"Action & Adventure, Drama, Mystery & Suspense",Joe Carnahan,84,158,79.0,27756.0,narc,7.3,30228.0,73.0,78.67
+757,Nashville,1975,"Classics, Drama, Musical & Performing Arts",Robert Altman,93,56,84.0,10055.0,nashville,7.8,14261.0,78.0,85.0
+758,National Security,2003,"Action & Adventure, Comedy, Drama",Dennis Dugan,11,89,45.0,68421.0,national security,5.5,32959.0,55.0,37.0
+759,Natural Born Killers,1994,"Action & Adventure, Drama, Mystery & Suspense",Oliver Stone,47,38,81.0,217286.0,natural born killers,7.3,138202.0,73.0,67.0
+760,Nebraska,2013,Drama,Alexander Payne,91,244,83.0,44735.0,nebraska,7.9,38035.0,79.0,84.33
+761,Need For Speed,2014,Action & Adventure,Scott Waugh,22,181,57.0,59453.0,need for speed,7.3,27849.0,73.0,50.67
+762,Network,1976,"Comedy, Drama",Sidney Lumet,92,64,93.0,36290.0,network,8.2,75434.0,82.0,89.0
+763,Next,2007,"Mystery & Suspense, Science Fiction & Fantasy",Lee Tamahori,28,130,53.0,339603.0,next,6.2,102807.0,62.0,47.67
+764,A Night at the Roxbury,1998,Comedy,John Fortenberry,11,55,69.0,362797.0,a night at the roxbury,6.2,42268.0,62.0,47.33
+765,Nine,2009,"Drama, Musical & Performing Arts, Romance",Rob Marshall,39,206,37.0,109383.0,nine,5.9,33473.0,59.0,45.0
+766,Nixon,1995,"Documentary, Drama",Oliver Stone,74,62,74.0,12613.0,nixon,7.1,21073.0,71.0,73.0
+767,No Country for Old Men,2007,"Action & Adventure, Drama, Mystery & Suspense","Joel Coen, Ethan Coen",93,283,86.0,398687.0,no country for old men,8.2,434032.0,82.0,87.0
+768,No Man's Land,2001,"Art House & International, Drama",Danis Tanovic,93,98,93.0,12008.0,no man s land,8.0,32915.0,80.0,88.67
+769,Non-Stop,2014,"Action & Adventure, Mystery & Suspense",Jaume Collet-Serra,61,222,63.0,78455.0,non stop,7.1,88311.0,71.0,65.0
+770,Norbit,2007,"Comedy, Drama, Romance",Brian Robbins,9,123,53.0,660377.0,norbit,3.9,43105.0,39.0,33.67
+771,North,1994,"Comedy, Drama, Kids & Family, Science Fiction & Fantasy",Rob Reiner,14,35,27.0,13561.0,north,4.4,10082.0,44.0,28.33
+772,Northfork,2003,"Drama, Science Fiction & Fantasy","Michael Polish, Mark Polish",56,103,66.0,4730.0,northfork,6.4,4687.0,64.0,62.0
+773,Notting Hill,1999,"Comedy, Romance",Roger Michell,83,100,79.0,508329.0,notting hill,7.0,153227.0,70.0,77.33
+774,Novocaine,2001,"Comedy, Drama",David Atkins,38,107,37.0,7439.0,novocaine,5.8,8779.0,58.0,44.33
+775,Oblivion,2013,"Action & Adventure, Science Fiction & Fantasy",Joseph Kosinski,53,250,61.0,163164.0,oblivion,7.0,244627.0,70.0,61.33
+776,Ocean's Eleven,2001,"Action & Adventure, Comedy, Drama",Steven Soderbergh,82,173,80.0,32601771.0,ocean s eleven,7.8,301897.0,78.0,80.0
+777,Ocean's Thirteen,2007,"Action & Adventure, Comedy, Drama, Mystery & Suspense",Steven Soderbergh,70,197,75.0,1532494.0,ocean s thirteen,6.9,192150.0,69.0,71.33
+778,Ocean's Twelve,2004,"Action & Adventure, Comedy, Drama",Steven Soderbergh,55,183,60.0,672785.0,ocean s twelve,6.4,211275.0,64.0,59.67
+779,October Sky,1999,Drama,Joe Johnston,91,74,88.0,66081.0,october sky,7.8,52317.0,78.0,85.67
+780,Oldboy,2013,"Action & Adventure, Drama, Mystery & Suspense",Spike Lee,40,148,37.0,26396.0,oldboy,5.6,28470.0,56.0,44.33
+781,Oliver!,1968,"Classics, Comedy, Drama, Kids & Family, Musical & Performing Arts",Carol Reed,82,33,81.0,56064.0,oliver,7.5,19770.0,75.0,79.33
+782,One False Move,1992,"Action & Adventure, Drama, Mystery & Suspense",Carl Franklin,96,50,75.0,4750.0,one false move,7.2,6036.0,72.0,81.0
+783,One Hour Photo,2002,"Drama, Mystery & Suspense",Mark Romanek,81,196,64.0,177675.0,one hour photo,6.8,82854.0,68.0,71.0
+784,Only God Forgives,2013,"Action & Adventure, Art House & International, Drama",Nicolas Winding Refn,41,160,37.0,26343.0,only god forgives,5.8,58865.0,58.0,45.33
+785,Opal Dream,2006,"Drama, Kids & Family",Peter Cattaneo,68,34,64.0,1533.0,opal dream,6.6,752.0,66.0,66.0
+786,Original Sin,2001,"Drama, Mystery & Suspense",Michael Cristofer,12,91,61.0,52862.0,original sin,6.0,36952.0,60.0,44.33
+787,Our Idiot Brother,2011,Comedy,Jesse Peretz,70,141,51.0,40692.0,our idiot brother,6.5,63131.0,65.0,62.0
+788,Over the Top,1987,"Action & Adventure, Drama",Menahem Golan,27,26,49.0,45717.0,over the top,5.5,27379.0,55.0,43.67
+789,Pacific Rim,2013,"Action & Adventure, Horror, Science Fiction & Fantasy",Guillermo del Toro,72,286,77.0,193782.0,pacific rim,7.1,237607.0,71.0,73.33
+790,Pain & Gain,2013,Action & Adventure,Michael Bay,51,196,47.0,85402.0,pain gain,6.5,112232.0,65.0,54.33
+791,The Painted Veil,2006,"Drama, Romance",John Curran,74,144,85.0,55299.0,the painted veil,7.5,64680.0,75.0,78.0
+792,Pandorum,2009,"Action & Adventure, Horror, Science Fiction & Fantasy",Christian Alvart,28,85,49.0,104803.0,pandorum,6.8,96813.0,68.0,48.33
+793,Panic Room,2002,"Drama, Mystery & Suspense",David Fincher,75,185,63.0,235765.0,panic room,6.8,161649.0,68.0,68.67
+794,Paper Moon,1973,"Classics, Comedy, Drama, Romance",Peter Bogdanovich,92,37,94.0,11366.0,paper moon,8.2,18348.0,82.0,89.33
+795,Paprika,2006,"Animation, Horror, Science Fiction & Fantasy",Satoshi Kon,84,89,89.0,28.0,paprika,7.7,29589.0,77.0,83.33
+796,Paradise Now,2005,"Art House & International, Drama",Hany Abu-Assad,89,102,87.0,27379.0,paradise now,7.5,16668.0,75.0,83.67
+797,Paranoid Park,2007,"Art House & International, Drama",Gus Van Sant,76,123,65.0,21851.0,paranoid park,6.7,22245.0,67.0,69.33
+798,Paranormal Activity 3,2011,"Horror, Mystery & Suspense","Ariel Schulman, Henry Joost",67,124,51.0,74694.0,paranormal activity,5.9,62683.0,59.0,59.0
+799,ParaNorman,2012,"Action & Adventure, Animation, Comedy, Kids & Family","Sam Fell, Chris Butler",88,181,72.0,83029.0,paranorman,7.0,56012.0,70.0,76.67
+800,Parker,2013,Mystery & Suspense,Taylor Hackford,41,106,48.0,35714.0,parker,6.2,60992.0,62.0,50.33
+801,Peaceful Warrior,2006,Drama,Victor Salva,25,72,76.0,43035.0,peaceful warrior,7.3,15369.0,73.0,58.0
+802,Penelope,2006,"Comedy, Drama, Science Fiction & Fantasy, Romance",Mark Palansky,54,127,73.0,157007.0,penelope,6.9,40228.0,69.0,65.33
+803,Persepolis,2007,"Animation, Drama","Marjane Satrapi, Vincent Paronnaud",96,161,92.0,50387.0,persepolis,8.0,55504.0,80.0,89.33
+804,Persona,1966,Drama,Ingmar Bergman,90,49,94.0,25758.0,persona,8.2,40639.0,82.0,88.67
+805,Philadelphia,1993,Drama,Jonathan Demme,80,54,89.0,183207.0,philadelphia,7.7,143684.0,77.0,82.0
+806,Philomena,2013,Drama,Stephen Frears,90,195,89.0,52353.0,philomena,7.7,26818.0,77.0,85.33
+807,Pickpocket,1959,"Art House & International, Drama",Robert Bresson,97,37,86.0,6648.0,pickpocket,7.9,9626.0,79.0,87.33
+808,Pinocchio,1940,"Animation, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy","Hamilton Luske, Ben Sharpsteen, Walt Disney, Wilfred Jackson, Jack Kinney, T. Hee, Bill Roberts, Norman Ferguson",100,51,73.0,279248.0,pinocchio,7.6,56697.0,76.0,83.0
+809,Pitch Perfect,2012,"Comedy, Musical & Performing Arts",Jason Moore,80,149,83.0,126975.0,pitch perfect,7.3,126667.0,73.0,78.67
+810,Planet 51,2009,"Action & Adventure, Animation, Comedy, Kids & Family",Jorge Blanco,22,108,40.0,357039.0,planet,6.1,33675.0,61.0,41.0
+811,Platoon,1986,"Action & Adventure, Drama",Oliver Stone,88,66,93.0,239684.0,platoon,8.2,217699.0,82.0,87.67
+812,Poetic Justice,1993,Drama,John Singleton,37,30,84.0,38414.0,poetic justice,5.7,6679.0,57.0,59.33
+813,Pollock,2000,Drama,Ed Harris,81,108,74.0,12127.0,pollock,7.0,19925.0,70.0,75.0
+814,Poseidon,2006,"Action & Adventure, Drama",Wolfgang Petersen,33,201,43.0,342047.0,poseidon,5.6,70125.0,56.0,44.0
+815,Powder,1995,"Drama, Science Fiction & Fantasy",Victor Salva,50,20,69.0,51682.0,powder,6.5,20651.0,65.0,61.33
+816,Prayers for Bobby,2009,"Drama, Television",Russell Mulcahy,73,15,87.0,2272.0,prayers for bobby tv movie,8.1,8915.0,81.0,80.33
+817,Predator,1987,"Action & Adventure, Horror",John McTiernan,81,47,87.0,388815.0,predator,7.9,223333.0,79.0,82.33
+818,Predator 2,1990,"Action & Adventure, Horror, Science Fiction & Fantasy",Stephen Hopkins,29,28,44.0,139012.0,predator,6.2,72570.0,62.0,45.0
+819,Premium Rush,2012,"Action & Adventure, Drama, Mystery & Suspense",David Koepp,74,159,60.0,132164.0,premium rush,6.5,74537.0,65.0,66.33
+820,Pretty in Pink,1986,"Comedy, Drama",Howard Deutch,79,47,81.0,213330.0,pretty in pink,6.7,39970.0,67.0,75.67
+821,Pretty Woman,1990,"Comedy, Romance",Garry Marshall,62,66,68.0,32709375.0,pretty woman,6.9,158096.0,69.0,66.33
+822,Primer,2004,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Shane Carruth,72,127,79.0,46406.0,primer,7.0,47853.0,70.0,73.67
+823,Prisoners,2013,"Drama, Mystery & Suspense",Denis Villeneuve,80,244,87.0,108042.0,prisoners,8.1,184698.0,81.0,82.67
+824,The Producers,2005,"Comedy, Musical & Performing Arts","Mel Brooks, Susan Stroman",50,152,63.0,281247.0,the producers,6.4,30665.0,64.0,59.0
+825,Project X,2012,"Comedy, Drama, Science Fiction & Fantasy",Nima Nourizadeh,28,137,61.0,95239.0,project x,6.7,125266.0,67.0,52.0
+826,Psycho,1960,"Classics, Horror, Mystery & Suspense",Alfred Hitchcock,96,94,95.0,239729.0,psycho,8.6,296676.0,86.0,92.33
+827,Psycho II,1983,"Horror, Mystery & Suspense",Richard Franklin,59,34,53.0,20023.0,psycho ii,6.4,14132.0,64.0,58.67
+828,Pulp Fiction,1994,Drama,Quentin Tarantino,92,101,96.0,1126774.0,pulp fiction,9.0,911042.0,90.0,92.67
+829,Pulse,2006,"Horror, Mystery & Suspense",Jim Sonzero,11,73,27.0,83298.0,pulse,4.7,22535.0,47.0,28.33
+830,Punch-Drunk Love,2002,"Comedy, Drama, Romance",Paul Thomas Anderson,80,192,77.0,139976.0,punch drunk love,7.3,85032.0,73.0,76.67
+831,Punisher: War Zone,2008,"Action & Adventure, Drama, Mystery & Suspense",Lexi Alexander,29,108,42.0,132270.0,punisher war zone,6.0,39236.0,60.0,43.67
+832,The Purple Rose of Cairo,1985,"Comedy, Science Fiction & Fantasy, Romance",Woody Allen,91,35,88.0,20312.0,the purple rose of cairo,7.7,27690.0,77.0,85.33
+833,Rabbit Hole,2010,Drama,John Cameron Mitchell,86,198,72.0,31806.0,rabbit hole,7.0,35331.0,70.0,76.0
+834,Rain Man,1988,Drama,Barry Levinson,90,77,90.0,313931.0,rain man,8.0,308453.0,80.0,86.67
+835,Rambo III,1988,Action & Adventure,Peter MacDonald,38,34,45.0,77289.0,rambo iii,5.6,69411.0,56.0,46.33
+836,Ran,1985,"Action & Adventure, Art House & International, Classics, Drama",Akira Kurosawa,96,81,95.0,38266.0,ran,8.3,58697.0,83.0,91.33
+837,Rango,2011,"Action & Adventure, Animation, Kids & Family",Gore Verbinski,88,220,69.0,119999.0,rango,7.3,135706.0,73.0,76.67
+838,Ratatouille,2007,"Animation, Comedy, Kids & Family","Jan Pinkava, Brad Bird",96,249,87.0,1071863.0,ratatouille,8.0,348645.0,80.0,87.67
+839,Ray,2004,Drama,Taylor Hackford,80,204,87.0,214472.0,ray,7.8,86302.0,78.0,81.67
+840,Ready to Rumble,2000,"Action & Adventure, Comedy",Brian Robbins,23,70,52.0,33549.0,ready to rumble,5.3,10747.0,53.0,42.67
+841,Red Tails,2012,Drama,Anthony Hemingway,40,132,58.0,47413.0,red tails,5.9,23547.0,59.0,52.33
+842,Red Lights,2012,"Drama, Mystery & Suspense",Rodrigo Cortés,30,92,36.0,11325.0,red lights,6.2,38440.0,62.0,42.67
+843,Red Planet,2000,"Mystery & Suspense, Science Fiction & Fantasy","Antony Hoffman, Anthony Hoffman",14,101,28.0,48332.0,red planet,5.6,40461.0,56.0,32.67
+844,Red State,2011,"Horror, Mystery & Suspense",Kevin Smith,60,91,54.0,15420.0,red state,6.2,43371.0,62.0,58.67
+845,Redacted,2007,"Documentary, Drama",Brian DePalma,45,109,45.0,35233.0,redacted,6.2,7948.0,62.0,50.67
+846,Redbelt,2008,"Action & Adventure, Drama, Mystery & Suspense",David Mamet,68,143,65.0,21995.0,redbelt,6.8,17324.0,68.0,67.0
+847,Religulous,2008,"Comedy, Documentary, Faith & Spirituality",Larry Charles,69,155,78.0,39264.0,religulous,7.8,46012.0,78.0,75.0
+848,Renaissance,2006,"Action & Adventure, Animation, Musical & Performing Arts, Mystery & Suspense, Science Fiction & Fantasy",Christian Volckman,50,76,59.0,26011.0,renaissance,6.8,13071.0,68.0,59.0
+849,Reno 911!: Miami,2007,Comedy,Robert Ben Garant,34,98,51.0,196529.0,reno miami,5.9,21865.0,59.0,48.0
+850,Repo Man,1984,"Comedy, Science Fiction & Fantasy",Alex Cox,98,44,79.0,31730.0,repo man,6.9,21061.0,69.0,82.0
+851,Requiem for a Dream,2000,Drama,Darren Aronofsky,79,136,93.0,328118.0,requiem for a dream,8.4,413539.0,84.0,85.33
+852,Resident Evil,2002,"Action & Adventure, Horror, Mystery & Suspense",Paul W.S. Anderson,36,128,67.0,446471.0,resident evil,6.7,159910.0,67.0,56.67
+853,Resident Evil: Afterlife,2010,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy","Paul W.S. Anderson, Russell Mulcahy",22,103,49.0,128223.0,resident evil afterlife,5.9,106108.0,59.0,43.33
+854,Resident Evil: Apocalypse,2004,Horror,Alexander Witt,20,129,60.0,407890.0,resident evil apocalypse,6.1,123322.0,61.0,47.0
+855,Resident Evil: Extinction,2007,"Action & Adventure, Horror, Science Fiction & Fantasy",Russell Mulcahy,24,99,58.0,390490.0,resident evil extinction,6.3,122157.0,63.0,48.33
+856,Resurrecting the Champ,2007,Drama,Rod Lurie,60,119,60.0,29902.0,resurrecting the champ,6.8,16094.0,68.0,62.67
+857,Revolver,2005,"Action & Adventure, Drama, Mystery & Suspense",Guy Ritchie,15,67,56.0,36371.0,revolver,6.5,60077.0,65.0,45.33
+858,Richie Rich,1994,"Comedy, Kids & Family",Donald Petrie,24,21,31.0,228246.0,richie rich,5.1,36186.0,51.0,35.33
+859,Ride Along,2014,"Action & Adventure, Comedy",Tim Story,18,132,58.0,99045.0,ride along,6.2,33481.0,62.0,46.0
+860,Rio,2011,"Action & Adventure, Animation, Comedy, Kids & Family",Carlos Saldanha,72,148,71.0,90196.0,rio,7.0,116167.0,70.0,71.0
+861,Rio Bravo,1959,"Action & Adventure, Classics, Western",Howard Hawks,100,41,91.0,23850.0,rio bravo,8.1,34749.0,81.0,90.67
+862,R.I.P.D.,2013,"Action & Adventure, Comedy",Robert Schwentke,13,100,38.0,82304.0,r i p d,5.6,63768.0,56.0,35.67
+863,Road to Perdition,2002,Drama,Sam Mendes,80,215,86.0,188673.0,road to perdition,7.8,165165.0,78.0,81.33
+864,Robin Hood,2010,"Action & Adventure, Drama",Ridley Scott,43,247,58.0,264968.0,robin hood,6.7,166816.0,67.0,56.0
+865,Robocop 2,1990,"Action & Adventure, Science Fiction & Fantasy",Irvin Kershner,31,36,36.0,89928.0,robocop,5.7,46086.0,57.0,41.33
+866,RoboCop 3,1993,"Action & Adventure, Science Fiction & Fantasy",Fred Dekker,3,30,14.0,58163.0,robocop,3.8,27327.0,38.0,18.33
+867,Robot & Frank,2012,"Comedy, Drama, Science Fiction & Fantasy",Jake Schreier,86,137,75.0,25186.0,robot frank,7.1,37150.0,71.0,77.33
+868,Robots,2005,"Animation, Comedy, Kids & Family, Science Fiction & Fantasy","Chris Wedge, Carlos Saldanha",64,181,53.0,241054.0,robots,6.3,75205.0,63.0,60.0
+869,Rock Star,2001,"Comedy, Drama, Musical & Performing Arts",Stephen Herek,52,128,59.0,61363.0,rock star,6.1,28668.0,61.0,57.33
+870,Rocket Science,2007,"Art House & International, Comedy, Drama",Jeffrey Blitz,84,111,72.0,20909.0,rocket science,6.7,10572.0,67.0,74.33
+871,RocknRolla,2008,"Action & Adventure, Drama",Guy Ritchie,60,147,71.0,56766.0,rocknrolla,7.3,154552.0,73.0,68.0
+872,Rocky Balboa,2006,Drama,Sylvester Stallone,77,180,76.0,515230.0,rocky balboa,7.2,123125.0,72.0,75.0
+873,The Rocky Horror Picture Show,1975,"Classics, Comedy, Cult Movies, Horror, Musical & Performing Arts, Science Fiction & Fantasy",Jim Sharman,80,41,85.0,366265.0,the rocky horror picture show,7.4,80386.0,74.0,79.67
+874,Rocky II,1979,"Action & Adventure, Drama",Sylvester Stallone,71,31,82.0,346178.0,rocky ii,7.1,90550.0,71.0,74.67
+875,Roman Polanski: Wanted and Desired,2008,"Documentary, Musical & Performing Arts, Special Interest",Marina Zenovich,85,48,78.0,3206.0,roman polanski wanted and desired,7.4,3699.0,74.0,79.0
+876,Romeo Must Die,2000,Action & Adventure,Andrzej Bartkowiak,33,92,61.0,192193.0,romeo must die,6.0,48489.0,60.0,51.33
+877,Ronin,1998,"Action & Adventure, Mystery & Suspense",John Frankenheimer,68,65,80.0,120819.0,ronin,7.3,124152.0,73.0,73.67
+878,Roxanne,1987,"Comedy, Romance",Fred Schepisi,89,37,63.0,47206.0,roxanne,6.6,25992.0,66.0,72.67
+879,Royal Wedding,1951,"Classics, Comedy, Musical & Performing Arts, Romance",Stanley Donen,92,24,69.0,5865.0,royal wedding,6.8,3006.0,68.0,76.33
+880,Rumble Fish,1983,Drama,Francis Ford Coppola,70,30,80.0,23454.0,rumble fish,7.3,19790.0,73.0,74.33
+881,Rush Hour,1998,"Action & Adventure, Comedy",Brett Ratner,60,73,78.0,902153.0,rush hour,6.9,143924.0,69.0,69.0
+882,Rush Hour 2,2001,"Action & Adventure, Comedy",Brett Ratner,52,127,74.0,893941.0,rush hour,6.5,126442.0,65.0,63.67
+883,Rush Hour 3,2007,"Action & Adventure, Comedy",Brett Ratner,18,157,63.0,582437.0,rush hour,6.1,93098.0,61.0,47.33
+884,Rushmore,1998,Comedy,Wes Anderson,89,103,91.0,186046.0,rushmore,7.8,103560.0,78.0,86.0
+885,Safe House,2012,"Action & Adventure, Mystery & Suspense",Daniel Espinosa,52,189,63.0,118576.0,safe house,6.8,130035.0,68.0,61.0
+886,Salvador,1986,"Drama, Mystery & Suspense",Oliver Stone,88,26,86.0,8505.0,salvador,7.5,12722.0,75.0,83.0
+887,Sanctum,2011,"Action & Adventure, Drama, Mystery & Suspense",Alister Grierson,30,167,37.0,38274.0,sanctum,5.8,40129.0,58.0,41.67
+888,Santa Claus Is Comin' to Town,1970,"Animation, Kids & Family, Musical & Performing Arts, Television","Arthur Rankin Jr., Jules Bass",93,14,81.0,19532.0,santa claus is comin to town tv movie,7.9,4573.0,79.0,84.33
+889,Savages,2012,"Drama, Mystery & Suspense",Oliver Stone,51,190,54.0,136603.0,savages,6.6,84239.0,66.0,57.0
+890,Save the Last Dance,2001,"Drama, Romance",Thomas Carter,52,98,59.0,31845749.0,save the last dance,6.1,40298.0,61.0,57.33
+891,Saving Shiloh,2006,"Drama, Kids & Family",Sandy Tung,36,22,75.0,1411.0,saving shiloh,6.4,474.0,64.0,58.33
+892,Saving Mr. Banks,2013,"Comedy, Drama",John Lee Hancock,79,254,84.0,111378.0,saving mr banks,7.7,45013.0,77.0,80.0
+893,Saw,2004,"Horror, Mystery & Suspense",James Wan,49,184,84.0,852554.0,saw,7.7,233646.0,77.0,70.0
+894,Saw VI,2009,"Horror, Mystery & Suspense",Kevin Greutert,39,72,55.0,793432.0,saw vi,6.0,57598.0,60.0,51.33
+895,Saw V,2008,"Action & Adventure, Horror",David Hackl,13,76,52.0,239402.0,saw v,5.8,68445.0,58.0,41.0
+896,Scary Movie,2000,"Comedy, Horror",Keenen Ivory Wayans,53,116,43.0,32582014.0,scary movie,6.2,152224.0,62.0,52.67
+897,Scary Movie 3,2003,Comedy,David Zucker,35,131,54.0,804280.0,scary movie,5.4,91582.0,54.0,47.67
+898,Scary Movie 4,2006,Comedy,David Zucker,35,127,51.0,562290.0,scary movie,5.1,78058.0,51.0,45.67
+899,Scary Movie 5,2013,"Comedy, Horror, Mystery & Suspense",Malcolm D. Lee,4,51,38.0,236153.0,scary movie,3.5,36908.0,35.0,25.67
+900,School of Rock,2003,Comedy,Richard Linklater,91,196,64.0,32784354.0,school of rock,7.1,157430.0,71.0,75.33
+901,The Scorpion King,2002,"Action & Adventure, Horror, Science Fiction & Fantasy",Chuck Russell,40,136,38.0,293107.0,the scorpion king,5.5,77167.0,55.0,44.33
+902,Scott Walker: 30 Century Man,2006,"Documentary, Musical & Performing Arts",Stephen Kijak,87,31,80.0,1280.0,scott walker century man,7.2,859.0,72.0,79.67
+903,Scream 4,2011,"Horror, Mystery & Suspense",Wes Craven,60,183,55.0,76669.0,scream,6.2,85241.0,62.0,59.0
+904,Scream 2,1997,"Comedy, Horror, Mystery & Suspense",Wes Craven,82,76,57.0,412433.0,scream,6.0,100336.0,60.0,66.33
+905,Scream 3,2000,Horror,Wes Craven,39,121,37.0,404683.0,scream,5.5,78427.0,55.0,43.67
+906,Searching for Sugar Man,2012,"Documentary, Musical & Performing Arts",Malik Bendjelloul,94,127,92.0,19196.0,searching for sugar man,8.2,32890.0,82.0,89.33
+907,Daltry Calhoun,2005,Comedy,Katrina Holden Bronson,7,28,39.0,20748.0,daltry calhoun,5.2,1794.0,52.0,32.67
+908,The Secret of Moonacre,2008,"Action & Adventure, Art House & International, Kids & Family, Science Fiction & Fantasy, Romance",Gabor Csupo,23,22,45.0,4911.0,the secret of moonacre,6.1,5820.0,61.0,43.0
+909,Semi-Pro,2008,Comedy,Kent Alterman,22,161,38.0,290655.0,semi pro,5.8,55916.0,58.0,39.33
+910,Serious Moonlight,2009,Comedy,Cheryl Hines,22,37,25.0,3247.0,serious moonlight,5.4,5835.0,54.0,33.67
+911,Serpico,1973,"Classics, Drama, Mystery & Suspense",Sidney Lumet,90,39,88.0,53649.0,serpico,7.8,57246.0,78.0,85.33
+912,Sex & Drugs & Rock & Roll,2010,Drama,Mat Whitecross,78,40,66.0,4704.0,sex drugs rock roll,6.5,2697.0,65.0,69.67
+913,Sex and the City 2,2010,"Comedy, Romance",Michael Patrick King,15,215,43.0,324230.0,sex and the city,4.1,47695.0,41.0,33.0
+914,Sexy Beast,2000,"Comedy, Drama, Mystery & Suspense",Jonathan Glazer,86,131,85.0,38562.0,sexy beast,7.3,36000.0,73.0,81.33
+915,Shadow of the Vampire,2000,"Drama, Horror, Mystery & Suspense",E. Elias Merhige,82,138,74.0,25386.0,shadow of the vampire,6.9,30520.0,69.0,75.0
+916,Shakespeare in Love,1998,"Comedy, Romance",John Madden (II),92,138,80.0,226892.0,shakespeare in love,7.2,143051.0,72.0,81.33
+917,Shame,2011,Drama,Steve McQueen (III),78,218,75.0,31256.0,shame,7.3,105923.0,73.0,75.33
+918,Shanghai Knights,2003,"Action & Adventure, Comedy",David Dobkin,66,151,54.0,334736.0,shanghai knights,6.2,62305.0,62.0,60.67
+919,Sharknado,2013,"Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy, Television",Anthony C. Ferrante,78,18,33.0,5910.0,sharknado tv movie,3.3,18604.0,33.0,48.0
+920,Shaun of the Dead,2004,"Action & Adventure, Comedy, Horror, Science Fiction & Fantasy, Special Interest",Edgar Wright,92,206,93.0,498111.0,shaun of the dead,8.0,309538.0,80.0,88.33
+921,She Hate Me,2004,"Comedy, Drama",Spike Lee,19,103,60.0,7943.0,she hate me,5.3,5862.0,53.0,44.0
+922,Sherlock Holmes,2009,"Action & Adventure, Drama, Mystery & Suspense",Guy Ritchie,69,242,77.0,769180.0,sherlock holmes,7.6,346891.0,76.0,74.0
+923,Shocker,1989,"Comedy, Horror, Mystery & Suspense, Television",Wes Craven,24,21,30.0,11838.0,shocker,5.3,9216.0,53.0,35.67
+924,Shoot 'Em Up,2007,"Action & Adventure, Drama, Mystery & Suspense",Michael Davis,67,162,65.0,325396.0,shoot em up,6.8,116875.0,68.0,66.67
+925,Shooter,2007,"Action & Adventure, Drama, Mystery & Suspense",Antoine Fuqua,47,148,80.0,456462.0,shooter,7.2,193697.0,72.0,66.33
+926,Shopgirl,2005,"Comedy, Drama, Romance",Anand Tucker,60,153,58.0,68078.0,shopgirl,6.4,19658.0,64.0,60.67
+927,Short Term 12,2013,Drama,Destin Daniel Cretton,98,167,92.0,21384.0,short term,8.1,14109.0,81.0,90.33
+928,Shotgun Stories,2007,"Art House & International, Drama, Mystery & Suspense",Jeff Nichols,90,48,80.0,4789.0,shotgun stories,7.3,5237.0,73.0,81.0
+929,Sicko,2007,"Documentary, Special Interest",Michael Moore,92,216,87.0,250738.0,sicko,8.1,59189.0,81.0,86.67
+930,Sideways,2004,"Comedy, Drama, Romance",Alexander Payne,97,230,78.0,197597.0,sideways,7.6,125398.0,76.0,83.67
+931,Silent Hill,2006,"Action & Adventure, Horror",Christophe Gans,31,100,63.0,367014.0,silent hill,6.6,134656.0,66.0,53.33
+932,Silver City,2004,"Comedy, Drama, Mystery & Suspense",John Sayles,48,128,33.0,2755.0,silver city,6.1,3345.0,61.0,47.33
+933,Silverado,1985,"Action & Adventure, Drama, Western",Lawrence Kasdan,76,33,80.0,23244.0,silverado,7.2,23256.0,72.0,76.0
+934,Sin City,2005,"Action & Adventure, Drama, Mystery & Suspense","Robert Rodriguez, Quentin Tarantino, Frank Miller (II)",77,250,78.0,32222563.0,sin city,8.2,491210.0,82.0,79.0
+935,Sinbad: Legend of the Seven Seas,2003,"Action & Adventure, Animation, Kids & Family, Romance","Patrick Gilmore, Tim Johnson",45,128,56.0,56409.0,sinbad legend of the seven seas video game,5.4,10.0,54.0,51.67
+936,The Singing Detective,2003,"Comedy, Drama, Musical & Performing Arts",Keith Gordon,39,108,40.0,7639.0,the singing detective,5.7,6453.0,57.0,45.33
+937,The 6th Day,2000,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Roger Spottiswoode,41,116,32.0,125841.0,the th day,5.9,84064.0,59.0,44.0
+938,Skills Like This,2007,Comedy,Monty Miranda,59,29,67.0,773.0,skills like this,6.6,426.0,66.0,64.0
+939,Sky Captain and the World of Tomorrow,2004,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Kerry Conran,71,211,46.0,119107.0,sky captain and the world of tomorrow,6.1,64696.0,61.0,59.33
+940,Skyline,2010,"Mystery & Suspense, Science Fiction & Fantasy","Greg Strause, Colin Strause",16,82,18.0,67255.0,skyline,4.4,66159.0,44.0,26.0
+941,Sleepy Hollow,1999,"Horror, Mystery & Suspense, Romance",Tim Burton,68,127,80.0,606912.0,sleepy hollow,7.5,211693.0,75.0,74.33
+942,Small Soldiers,1998,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Joe Dante,48,44,44.0,123428.0,small soldiers,6.1,64739.0,61.0,51.0
+943,Smashed,2012,"Comedy, Drama",James Ponsoldt,83,107,68.0,11092.0,smashed,6.8,9615.0,68.0,73.0
+944,Smoke Signals,1998,"Comedy, Drama, Special Interest",Chris Eyre,83,30,82.0,10368.0,smoke signals,7.2,7340.0,72.0,79.0
+945,Snow White and the Huntsman,2012,"Action & Adventure, Drama, Science Fiction & Fantasy, Romance",Rupert Sanders,49,232,52.0,410054.0,snow white and the huntsman,6.2,174995.0,62.0,54.33
+946,Solaris,2002,"Drama, Mystery & Suspense, Science Fiction & Fantasy, Romance",Steven Soderbergh,66,206,59.0,47888.0,solaris,6.2,59036.0,62.0,62.33
+947,Somewhere,2010,"Comedy, Drama",Sofia Coppola,71,191,48.0,27369.0,somewhere,6.3,29891.0,63.0,60.67
+948,Sommersby,1993,"Drama, Mystery & Suspense, Romance",Jon Amiel,62,26,60.0,13516.0,sommersby,6.1,13427.0,61.0,61.0
+949,Son Of God,2014,Drama,"Christopher Spencer, Crispin Reece, Tony Mitchell",21,72,73.0,41661.0,son of god,5.4,10588.0,54.0,49.33
+950,Soul Plane,2004,Comedy,Jessy Terrero,18,100,51.0,60516.0,soul plane,4.2,15250.0,42.0,37.0
+951,Soul Surfer,2011,"Action & Adventure, Drama, Sports & Fitness",Sean McNamara,45,105,75.0,41627.0,soul surfer,7.1,27197.0,71.0,63.67
+952,Source Code,2011,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Duncan Jones,91,258,82.0,125373.0,source code,7.5,270084.0,75.0,82.67
+953,Space Cowboys,2000,"Action & Adventure, Comedy, Drama, Science Fiction & Fantasy",Clint Eastwood,78,119,53.0,72909.0,space cowboys,6.4,50897.0,64.0,65.0
+954,Space Jam,1996,"Comedy, Kids & Family",Joe Pytka,43,75,63.0,655357.0,space jam,6.1,80027.0,61.0,55.67
+955,Spanglish,2004,"Comedy, Drama",James L. Brooks,53,167,60.0,200911.0,spanglish,6.5,56875.0,65.0,59.33
+956,Spartan,2004,"Action & Adventure, Art House & International, Mystery & Suspense",David Mamet,65,134,62.0,13580.0,spartan,6.6,24517.0,66.0,64.33
+957,Spawn,1997,"Action & Adventure, Animation, Horror, Mystery & Suspense, Science Fiction & Fantasy",Mark A.Z. Dippé,18,45,36.0,186093.0,spawn,5.2,45341.0,52.0,35.33
+958,Special,2006,Drama,"Hal Haberman, Jeremy Passmore",56,32,63.0,29561.0,special,7.0,4414.0,70.0,63.0
+959,Species,1995,Science Fiction & Fantasy,Roger Donaldson,43,65,31.0,49588.0,species,5.8,52435.0,58.0,44.0
+960,Species II,1998,"Mystery & Suspense, Science Fiction & Fantasy",Peter Medak,9,33,18.0,39253.0,species ii,4.2,19873.0,42.0,23.0
+961,Speed,1994,"Action & Adventure, Mystery & Suspense",Jan de Bont,94,63,76.0,668638.0,speed,7.2,206087.0,72.0,80.67
+962,Spider-Man,2002,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Sam Raimi,90,243,67.0,34297354.0,spider man,7.3,388552.0,73.0,76.67
+963,Spider-Man 2,2004,"Action & Adventure, Science Fiction & Fantasy",Sam Raimi,93,272,82.0,1151886.0,spider man,7.4,276838.0,74.0,83.0
+964,Spider-Man 3,2007,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Sam Raimi,63,256,51.0,2265043.0,spider man,6.3,264158.0,63.0,59.0
+965,Spy Kids,2001,"Action & Adventure, Comedy, Kids & Family, Mystery & Suspense",Robert Rodriguez,93,127,46.0,427343.0,spy kids,5.4,64907.0,54.0,64.33
+966,Stalag 17,1953,"Action & Adventure, Classics, Comedy, Drama",Billy Wilder,97,34,93.0,13166.0,stalag,8.1,36013.0,81.0,90.33
+967,Star Trek,2009,"Action & Adventure, Drama, Science Fiction & Fantasy",J.J. Abrams,94,348,91.0,747491.0,star trek,8.1,401744.0,81.0,88.67
+968,Star Trek - Nemesis,2002,"Action & Adventure, Science Fiction & Fantasy",Stuart Baird,37,164,49.0,75024.0,star trek nemesis,6.4,47185.0,64.0,50.0
+969,Starman,1984,"Drama, Science Fiction & Fantasy, Romance",John Carpenter,84,31,69.0,24633.0,starman,7.0,26560.0,70.0,74.33
+970,Starship Troopers,1997,"Action & Adventure, Cult Movies, Science Fiction & Fantasy",Paul Verhoeven,63,63,70.0,224146.0,starship troopers,7.2,180733.0,72.0,68.33
+971,Starsky & Hutch,2004,"Action & Adventure, Comedy, Drama",Todd Phillips,62,193,49.0,383734.0,starsky hutch,6.1,104887.0,61.0,57.33
+972,Stay,2005,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Marc Forster,27,124,70.0,73100.0,stay,6.9,51112.0,69.0,55.33
+973,Step Into Liquid,2003,"Documentary, Sports & Fitness",Dana Brown,81,80,93.0,5751.0,step into liquid,7.5,2095.0,75.0,83.0
+974,Stigmata,1999,"Drama, Horror",Rupert Wainwright,22,90,63.0,93530.0,stigmata,6.2,48481.0,62.0,49.0
+975,Still Crazy,1998,"Comedy, Musical & Performing Arts, Romance",Brian Gibson,73,26,84.0,7008.0,still crazy,7.1,5796.0,71.0,76.0
+976,Stoned,2005,Drama,Stephen Woolley,15,48,45.0,22416.0,stoned,5.8,3157.0,58.0,39.33
+977,Stop-Loss,2008,Drama,Kimberly Peirce,65,142,26.0,748288.0,stop loss,6.5,15892.0,65.0,52.0
+978,Street Fighter: The Legend of Chun-Li,2009,"Action & Adventure, Science Fiction & Fantasy",Andrzej Bartkowiak,5,61,18.0,207433.0,street fighter the legend of chun li,3.7,17652.0,37.0,20.0
+979,Street Kings,2008,"Action & Adventure, Drama, Mystery & Suspense",David Ayer,36,152,58.0,203510.0,street kings,6.8,82710.0,68.0,54.0
+980,Striptease,1996,"Comedy, Drama, Mystery & Suspense",Andrew Bergman,12,69,24.0,53971.0,striptease,4.2,29602.0,42.0,26.0
+981,Stuart Little,1999,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Rob Minkoff,67,96,41.0,495244.0,stuart little,5.9,69330.0,59.0,55.67
+982,Stuart Little 2,2002,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Rob Minkoff,81,123,41.0,179692.0,stuart little,5.4,26344.0,54.0,58.67
+983,Sucker Punch,2011,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Zack Snyder,22,216,47.0,96566.0,sucker punch,6.1,163958.0,61.0,43.33
+984,Summer Catch,2001,"Comedy, Drama, Romance","Mike Tollin, Michael Tollin",8,91,41.0,50030.0,summer catch,4.9,11364.0,49.0,32.67
+985,Summer of Sam,1999,"Drama, Mystery & Suspense",Spike Lee,51,101,60.0,32413.0,summer of sam,6.6,27660.0,66.0,59.0
+986,Sunshine,2007,"Drama, Science Fiction & Fantasy",Danny Boyle,76,168,73.0,168264.0,sunshine,7.3,146791.0,73.0,74.0
+987,Super 8,2011,"Action & Adventure, Science Fiction & Fantasy",J.J. Abrams,81,285,75.0,135134.0,super,7.1,237982.0,71.0,75.67
+988,Superbabies: Baby Geniuses 2,2004,"Action & Adventure, Comedy, Drama, Kids & Family",Bob Clark,0,45,24.0,6969.0,superbabies baby geniuses,1.9,22368.0,19.0,14.33
+989,Super Size Me,2004,"Documentary, Special Interest",Morgan Spurlock,92,170,72.0,271774.0,super size me,7.4,67897.0,74.0,79.33
+990,Superbad,2007,Comedy,Greg Mottola,87,207,87.0,634333.0,superbad,7.7,327058.0,77.0,83.67
+991,Man of Steel,2013,"Action & Adventure, Science Fiction & Fantasy",Zack Snyder,56,329,75.0,448127.0,man of steel,7.4,359724.0,74.0,68.33
+992,Superman Returns,2006,"Action & Adventure, Drama, Science Fiction & Fantasy",Bryan Singer,75,263,61.0,516925.0,superman returns,6.2,205769.0,62.0,66.0
+993,Superman,1978,"Action & Adventure, Drama",Richard Donner,94,67,86.0,285850.0,superman,7.4,100424.0,74.0,84.67
+994,Surfwise,2007,"Documentary, Special Interest, Sports & Fitness",Doug Pray,98,45,66.0,35931.0,surfwise,7.3,959.0,73.0,79.0
+995,Swimfan,2002,"Horror, Mystery & Suspense",John Polson,15,92,32.0,49873.0,swimfan,4.9,14708.0,49.0,32.0
+996,Swimming Pool,2003,"Art House & International, Drama, Mystery & Suspense",François Ozon,83,154,67.0,29846.0,swimming pool,6.8,30322.0,68.0,72.67
+997,Swingers,1996,"Comedy, Drama",Doug Liman,87,54,89.0,58532.0,swingers,7.4,56034.0,74.0,83.33
+998,Sympathy for Mr. Vengeance,2002,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",Chan-wook Park,54,56,85.0,39048.0,sympathy for mr vengeance,7.7,35286.0,77.0,72.0
+999,Syriana,2005,"Drama, Mystery & Suspense",Stephen Gaghan,73,197,67.0,226829.0,syriana,7.0,92002.0,70.0,70.0
+1000,Take Me Home Tonight,2011,"Comedy, Drama",Michael Dowse,27,113,42.0,36989.0,take me home tonight,6.4,37314.0,64.0,44.33
+1001,Taking Woodstock,2009,"Comedy, Drama, Musical & Performing Arts",Ang Lee,48,182,47.0,252393.0,taking woodstock,6.7,21738.0,67.0,54.0
+1002,The Tale of Despereaux,2008,"Action & Adventure, Animation, Comedy, Kids & Family","Rob Stevenhagen, Sam Fell",57,109,44.0,163690.0,the tale of despereaux video game,5.1,9.0,51.0,50.67
+1003,Talk to Me,2007,"Action & Adventure, Comedy, Drama",Kasi Lemmons,82,130,77.0,41542.0,talk to me,7.4,7842.0,74.0,77.67
+1004,Tango & Cash,1989,"Action & Adventure, Comedy, Drama",Andrey Konchalovskiy,31,45,52.0,60051.0,tango cash,6.2,58944.0,62.0,48.33
+1005,Tank Girl,1995,"Action & Adventure, Comedy, Science Fiction & Fantasy",Rachel Talalay,38,39,63.0,49619.0,tank girl,5.1,20398.0,51.0,50.67
+1006,Tarzan,1999,"Action & Adventure, Animation, Drama","Chris Buck, Kevin Lima",89,105,75.0,370152.0,tarzan,7.2,87320.0,72.0,78.67
+1007,Taxi Driver,1976,"Drama, Mystery & Suspense",Martin Scorsese,98,84,93.0,259981.0,taxi driver,8.4,351181.0,84.0,91.67
+1008,Taxi to the Dark Side,2007,"Documentary, Special Interest",Alex Gibney,100,93,90.0,7419.0,taxi to the dark side,8.0,6342.0,80.0,90.0
+1009,Ted,2012,Comedy,Seth MacFarlane,68,214,73.0,375229.0,ted,7.1,327961.0,71.0,70.67
+1010,Ted Bundy,2002,"Drama, Horror, Mystery & Suspense",Matthew Bright,41,22,45.0,7622.0,ted bundy,5.9,5225.0,59.0,48.33
+1011,Tequila Sunrise,1988,"Action & Adventure, Drama, Mystery & Suspense",Robert Towne,40,20,40.0,27529.0,tequila sunrise,5.9,19463.0,59.0,46.33
+1012,Tetro,2009,"Drama, Mystery & Suspense",Francis Ford Coppola,70,107,69.0,11721.0,tetro,6.9,9282.0,69.0,69.33
+1013,That Thing You Do!,1996,"Comedy, Kids & Family",Tom Hanks,93,57,78.0,126447.0,that thing you do,6.8,43358.0,68.0,79.67
+1014,The Fall,2006,"Action & Adventure, Art House & International, Drama, Science Fiction & Fantasy",Tarsem Singh,61,108,85.0,103842.0,the fall,7.9,70480.0,79.0,75.0
+1015,The Foot Fist Way,2006,Comedy,Jody Hill,53,83,46.0,4853.0,the foot fist way,6.4,8211.0,64.0,54.33
+1016,The Heart of the Game,2005,"Documentary, Special Interest, Sports & Fitness","Ward Serrill, Ward Serrell",87,99,83.0,24331.0,the heart of the game,7.5,849.0,75.0,81.67
+1017,The Killing of John Lennon,2006,Drama,Andrew Piddington,39,36,46.0,35245.0,the killing of john lennon,6.3,1190.0,63.0,49.33
+1018,The Social Network,2010,Drama,David Fincher,96,313,86.0,203519.0,the social network,7.8,334871.0,78.0,86.67
+1019,The Warrior's Way,2010,"Action & Adventure, Art House & International, Science Fiction & Fantasy, Special Interest, Western",Sngmoo Lee,29,41,47.0,26675.0,the warrior s way,6.3,19014.0,63.0,46.33
+1020,The Amazing Spider-Man,2012,"Action & Adventure, Science Fiction & Fantasy",Marc Webb,72,325,77.0,815218.0,the amazing spider man,7.2,300076.0,72.0,73.67
+1021,The Artist,2011,"Comedy, Drama, Romance",Michel Hazanavicius,95,310,87.0,58479.0,the artist,8.0,152347.0,80.0,87.33
+1022,The Babymakers,2012,"Action & Adventure, Comedy",Jay Chandrasekhar,8,50,22.0,4442.0,the babymakers,4.9,6067.0,49.0,26.33
+1023,The Bay,2012,Horror,Barry Levinson,76,80,43.0,10168.0,the bay,5.6,15056.0,56.0,58.33
+1024,The Big Lebowski,1998,Comedy,Joel Coen,82,100,94.0,355746.0,the big lebowski,8.2,380503.0,82.0,86.0
+1025,The Bling Ring,2013,Drama,Sofia Coppola,59,203,33.0,31587.0,the bling ring,5.7,48298.0,57.0,49.67
+1026,The Book of Eli,2010,Action & Adventure,"Albert Hughes, Allen Hughes",47,203,64.0,350574.0,the book of eli,6.9,170948.0,69.0,60.0
+1027,The Cabin in the Woods,2012,"Horror, Mystery & Suspense",Drew Goddard,91,278,74.0,206942.0,the cabin in the woods,7.1,197627.0,71.0,78.67
+1028,The Cell,2000,"Horror, Mystery & Suspense, Science Fiction & Fantasy",Tarsem Singh,45,163,57.0,180824.0,the cell,6.3,68902.0,63.0,55.0
+1029,The Colony,2013,"Action & Adventure, Science Fiction & Fantasy",Jeff Renfroe,18,33,22.0,7399.0,the colony,5.3,21527.0,53.0,31.0
+1030,The Counselor,2013,Mystery & Suspense,Ridley Scott,34,210,23.0,41399.0,the counselor,5.4,53557.0,54.0,37.0
+1031,The Dark Knight,2008,"Action & Adventure, Drama, Science Fiction & Fantasy",Christopher Nolan,94,335,94.0,1831566.0,the dark knight,9.0,1148515.0,90.0,92.67
+1032,The Dark Knight Rises,2012,"Action & Adventure, Drama, Mystery & Suspense",Christopher Nolan,87,360,90.0,1210957.0,the dark knight rises,8.6,758626.0,86.0,87.67
+1033,The East,2013,"Action & Adventure, Drama, Mystery & Suspense",Zal Batmanglij,75,146,64.0,19983.0,the east,6.9,26864.0,69.0,69.33
+1034,Evil Dead,2013,"Horror, Mystery & Suspense",Fede Alvarez,62,197,63.0,77183.0,evil dead,6.5,94571.0,65.0,63.33
+1035,The Expendables 2,2012,Action & Adventure,Simon West,68,130,67.0,315167.0,the expendables,6.8,179497.0,68.0,67.67
+1036,The Fighter,2010,"Drama, Sports & Fitness",David O. Russell,91,243,89.0,121321.0,the fighter,7.9,200800.0,79.0,86.33
+1037,The Flowers of War,2011,"Art House & International, Drama, Special Interest",Zhang Yimou,41,58,73.0,6754.0,the flowers of war,7.7,28583.0,77.0,63.67
+1038,The Fountain,2006,"Drama, Science Fiction & Fantasy",Darren Aronofsky,52,204,74.0,261864.0,the fountain,7.4,155078.0,74.0,66.67
+1039,The Grandmaster,2013,"Action & Adventure, Art House & International, Drama, Special Interest",Kar-Wai Wong,78,134,58.0,17672.0,the grandmaster,6.6,16003.0,66.0,67.33
+1040,The Help,2011,Drama,Tate Taylor,76,224,89.0,107640.0,the help,8.1,220355.0,81.0,82.0
+1041,The Invisible War,2012,"Documentary, Special Interest",Kirby Dick,99,71,84.0,10107.0,the invisible war,7.6,4345.0,76.0,86.33
+1042,The Kings of Summer,2013,Comedy,Jordan Vogt-Roberts,76,117,77.0,22475.0,the kings of summer,7.2,29415.0,72.0,75.0
+1043,The King's Speech,2010,Drama,Tom Hooper,95,292,92.0,144306.0,the king s speech,8.1,325645.0,81.0,89.33
+1044,The Last Days On Mars,2013,Science Fiction & Fantasy,Ruairi Robinson,18,61,25.0,10236.0,the last days on mars,5.5,17705.0,55.0,32.67
+1045,The Last Shot,2004,Comedy,Jeff Nathanson,62,68,32.0,3223.0,the last shot,5.7,3523.0,57.0,50.33
+1046,The Messengers,2007,"Horror, Mystery & Suspense","Danny Pang, Oxide Pang Chun",12,84,44.0,491916.0,the messengers,5.4,29622.0,54.0,36.67
+1047,The Nines,2007,"Art House & International, Comedy, Drama, Mystery & Suspense",John August,65,60,61.0,44874.0,the nines,6.5,26015.0,65.0,63.67
+1048,The One,2001,"Action & Adventure, Science Fiction & Fantasy",James Wong,14,86,51.0,100714.0,the one,5.9,67065.0,59.0,41.33
+1049,The Other Side of Heaven,2001,"Action & Adventure, Drama",Mitch Davis,30,43,74.0,10135.0,the other side of heaven,6.5,2734.0,65.0,56.33
+1050,The Puffy Chair,2005,"Art House & International, Comedy, Drama",Jay Duplass,77,52,62.0,5094.0,the puffy chair,6.6,3262.0,66.0,68.33
+1051,The Purge: Anarchy,2014,Horror,James DeMonaco,56,134,56.0,67825.0,the purge anarchy,,,,56.0
+1052,The Raven,2012,Mystery & Suspense,James McTeigue,22,138,46.0,102548.0,the raven,6.4,60571.0,64.0,44.0
+1053,The Roommate,2011,"Horror, Mystery & Suspense",Christian E. Christiansen,4,85,27.0,43346.0,the roommate,4.8,24299.0,48.0,26.33
+1054,The Runaways,2010,"Comedy, Drama, Musical & Performing Arts",Floria Sigismondi,69,185,55.0,86157.0,the runaways,6.6,32087.0,66.0,63.33
+1055,The Spectacular Now,2013,"Comedy, Drama, Romance",James Ponsoldt,91,164,76.0,38451.0,the spectacular now,7.3,36617.0,73.0,80.0
+1056,The Spirit,2008,"Action & Adventure, Drama",Frank Miller (II),14,112,25.0,122630.0,the spirit,4.8,48759.0,48.0,29.0
+1057,The Strangers,2008,"Horror, Mystery & Suspense",Bryan Bertino,48,164,48.0,311246.0,the strangers,6.2,74057.0,62.0,52.67
+1058,The Texas Chainsaw Massacre: The Beginning,2006,"Horror, Mystery & Suspense",Jonathan Liebesman,13,85,53.0,491617.0,the texas chainsaw massacre the beginning,5.9,46963.0,59.0,41.67
+1059,The Thing,2011,"Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy",Matthijs van Heijningen Jr.,35,169,42.0,40831.0,the thing,6.3,73267.0,63.0,46.67
+1060,The Tree of Life,2011,"Action & Adventure, Drama, Science Fiction & Fantasy",Terrence Malick,84,275,60.0,60758.0,the tree of life,6.7,108560.0,67.0,70.33
+1061,The Wicker Man,1973,"Classics, Drama, Horror, Mystery & Suspense",Robin Hardy,88,52,82.0,43147.0,the wicker man,7.7,37534.0,77.0,82.33
+1062,The Wolf of Wall Street,2013,Drama,Martin Scorsese,79,276,82.0,180126.0,the wolf of wall street,8.4,285401.0,84.0,81.67
+1063,The Wrestler,2008,Drama,Darren Aronofsky,98,228,88.0,140431.0,the wrestler,8.0,217896.0,80.0,88.67
+1064,Thelma & Louise,1991,Comedy,Ridley Scott,84,67,82.0,170046.0,thelma louise,7.4,81689.0,74.0,80.0
+1065,There Will Be Blood,2007,Drama,Paul Thomas Anderson,91,231,86.0,254777.0,there will be blood,8.1,272992.0,81.0,86.0
+1066,Thirteen Days,2000,Drama,Roger Donaldson,83,121,80.0,30118.0,thirteen days,7.3,39325.0,73.0,78.67
+1067,This Is Spinal Tap,1984,Comedy,Rob Reiner,95,64,92.0,127037.0,this is spinal tap,8.0,87979.0,80.0,89.0
+1068,Thor,2011,"Action & Adventure, Drama, Science Fiction & Fantasy",Kenneth Branagh,78,282,76.0,247197.0,thor,7.0,346716.0,70.0,74.67
+1069,Thunderbirds,2004,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Jonathan Frakes,19,106,37.0,21866.0,thunderbirds,4.2,9616.0,42.0,32.67
+1070,THX 1138,1971,"Drama, Science Fiction & Fantasy",George Lucas,87,62,74.0,28116.0,thx,6.8,32396.0,68.0,76.33
+1071,Tigerland,2000,"Action & Adventure, Drama",Joel Schumacher,76,46,71.0,34467.0,tigerland,7.1,29876.0,71.0,72.67
+1072,Time Bandits,1981,"Action & Adventure, Science Fiction & Fantasy",Terry Gilliam,89,46,77.0,49633.0,time bandits,7.0,37890.0,70.0,78.67
+1073,Timecode,2000,"Comedy, Drama",Mike Figgis,68,81,49.0,5053.0,timecode,6.3,5474.0,63.0,60.0
+1074,Timecop,1994,"Action & Adventure, Science Fiction & Fantasy",Peter Hyams,45,42,36.0,57670.0,timecop,5.8,36883.0,58.0,46.33
+1075,Tin Cup,1996,"Comedy, Drama, Romance",Ron Shelton,70,50,65.0,49136.0,tin cup,6.3,31310.0,63.0,66.0
+1076,Titan A.E.,2000,"Animation, Kids & Family, Science Fiction & Fantasy","Don Bluth, Gary Goldman",51,100,60.0,69351.0,titan a e,6.6,45723.0,66.0,59.0
+1077,Titanic,1997,"Drama, Romance",James Cameron,89,189,69.0,35797635.0,titanic,7.7,568769.0,77.0,78.33
+1078,To Rome with Love,2012,Comedy,Woody Allen,46,178,40.0,29736.0,to rome with love,6.3,49586.0,63.0,49.67
+1079,Tootsie,1982,"Comedy, Drama, Romance",Sydney Pollack,90,49,81.0,58412.0,tootsie,7.4,63675.0,74.0,81.67
+1080,Tora! Tora! Tora!,1970,"Action & Adventure, Art House & International, Classics, Drama","Richard Fleischer, Kinji Fukasaku, Toshio Masuda",55,29,81.0,15452.0,tora tora tora,7.5,20804.0,75.0,70.33
+1081,Total Recall,1990,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Paul Verhoeven,82,68,78.0,244422.0,total recall video game,3.9,10.0,39.0,66.33
+1082,Total Recall,2012,"Action & Adventure, Science Fiction & Fantasy",Len Wiseman,31,233,47.0,116717.0,total recall,6.3,157172.0,63.0,47.0
+1083,The Tourist,2010,"Action & Adventure, Mystery & Suspense, Romance",Florian Henckel von Donnersmarck,20,169,42.0,94814.0,the tourist,6.0,133768.0,60.0,40.67
+1084,Toy Story,1995,"Animation, Comedy, Kids & Family",John Lasseter,100,88,92.0,1109209.0,toy story,8.3,410650.0,83.0,91.67
+1085,Toy Story 2,1999,"Animation, Comedy, Kids & Family",John Lasseter,100,169,86.0,999952.0,toy story,7.9,276727.0,79.0,88.33
+1086,Toy Story 3,2010,"Animation, Comedy, Kids & Family",Lee Unkrich,98,305,89.0,606931.0,toy story,8.5,356405.0,85.0,90.67
+1087,Toys,1992,"Action & Adventure, Comedy",Barry Levinson,30,27,39.0,56871.0,toys,4.9,22986.0,49.0,39.33
+1088,Trailer Park Boys: The Movie,2006,Comedy,Mike Clattenburg,57,23,77.0,12621.0,trailer park boys the movie,7.3,8293.0,73.0,69.0
+1089,Training Day,2001,"Action & Adventure, Drama, Mystery & Suspense",Antoine Fuqua,72,158,89.0,300730.0,training day,7.7,232355.0,77.0,79.33
+1090,Traitor,2008,"Drama, Mystery & Suspense",Jeffrey Nachmanoff,65,169,64.0,64189.0,traitor,7.0,44888.0,70.0,66.33
+1091,Transformers,2007,"Action & Adventure, Science Fiction & Fantasy",Michael Bay,58,226,85.0,2385106.0,transformers,7.2,396432.0,72.0,71.67
+1092,The Transporter,2002,"Action & Adventure, Drama","Cory Yuen, Louis Leterrier, Corey Yuen",54,127,73.0,312013.0,the transporter,6.8,179826.0,68.0,65.0
+1093,Transporter 3,2008,Action & Adventure,Olivier Megaton,39,113,49.0,201816.0,transporter,6.0,90437.0,60.0,49.33
+1094,Transsiberian,2008,"Drama, Mystery & Suspense",Brad Anderson,93,84,65.0,16229.0,transsiberian,6.7,36844.0,67.0,75.0
+1095,Trick,1999,"Comedy, Drama, Romance",Jim Fall,78,23,83.0,6543.0,trick,7.2,5928.0,72.0,77.67
+1096,TRON,1982,"Action & Adventure, Science Fiction & Fantasy",Steven Lisberger,72,57,69.0,72511.0,tron,6.8,78310.0,68.0,69.67
+1097,Tropic Thunder,2008,Comedy,Ben Stiller,81,243,70.0,296463.0,tropic thunder,7.0,239023.0,70.0,73.67
+1098,True Romance,1993,"Action & Adventure, Drama, Mystery & Suspense",Tony Scott,92,53,93.0,192233.0,true romance,8.0,130834.0,80.0,88.33
+1099,True Stories,1986,"Art House & International, Comedy, Cult Movies, Musical & Performing Arts",David Byrne,76,21,83.0,5317.0,true stories,6.9,3142.0,69.0,76.0
+1100,Two Lovers,2008,"Drama, Romance",James Gray,82,162,59.0,56279.0,two lovers,7.1,24931.0,71.0,70.67
+1101,U-571,2000,"Action & Adventure, Drama, Mystery & Suspense",Jonathan Mostow,68,115,62.0,56821.0,u,6.5,56209.0,65.0,65.0
+1102,Undercover Brother,2002,Comedy,Malcolm D. Lee,77,130,64.0,56209.0,undercover brother,5.8,27306.0,58.0,66.33
+1103,Underworld,2003,"Action & Adventure, Horror, Science Fiction & Fantasy",Len Wiseman,31,161,79.0,495821.0,underworld,7.0,164763.0,70.0,60.0
+1104,Underworld: Awakening,2012,"Action & Adventure, Horror, Science Fiction & Fantasy","Björn Stein, Måns Mårlind",27,75,62.0,98484.0,underworld awakening,6.4,90621.0,64.0,51.0
+1105,Universal Soldier,1992,"Action & Adventure, Science Fiction & Fantasy",Roland Emmerich,24,29,46.0,70119.0,universal soldier,5.9,57663.0,59.0,43.0
+1106,Up in the Air,2009,"Comedy, Drama, Romance",Jason Reitman,91,281,79.0,228309.0,up in the air,7.5,219131.0,75.0,81.67
+1107,The U.S. vs. John Lennon,2006,"Documentary, Musical & Performing Arts","David Leaf, John Scheinfeld",77,96,81.0,18376.0,the u s vs john lennon,7.4,4354.0,74.0,77.33
+1108,Vampire Academy,2014,"Action & Adventure, Comedy, Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy, Romance",Mark Waters (VIII),16,56,55.0,30454.0,vampire academy,5.7,21436.0,57.0,42.67
+1109,Vampire in Brooklyn,1995,"Comedy, Horror",Wes Craven,10,29,31.0,51391.0,vampire in brooklyn,4.4,14516.0,44.0,28.33
+1110,Vanilla Sky,2001,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Cameron Crowe,42,170,72.0,297968.0,vanilla sky,6.9,170901.0,69.0,61.0
+1111,Vanity Fair,2004,"Action & Adventure, Comedy, Drama, Romance",Mira Nair,51,171,50.0,48716.0,vanity fair,6.2,15226.0,62.0,54.33
+1112,Varsity Blues,1999,Drama,Brian Robbins,41,54,76.0,122805.0,varsity blues,6.4,30260.0,64.0,60.33
+1113,Vatel,2000,"Art House & International, Drama",Roland Joffé,31,32,61.0,4400.0,vatel,6.6,5500.0,66.0,52.67
+1114,Velvet Goldmine,1998,"Drama, Musical & Performing Arts",Todd Haynes,57,44,80.0,40029.0,velvet goldmine,7.0,23764.0,70.0,69.0
+1115,Vera Drake,2004,Drama,Mike Leigh,92,159,84.0,11606.0,vera drake,7.7,17823.0,77.0,84.33
+1116,Very Bad Things,1998,Comedy,Peter Berg,43,56,58.0,35234.0,very bad things,6.3,35476.0,63.0,54.67
+1117,Vicky Cristina Barcelona,2008,"Comedy, Drama, Romance",Woody Allen,81,209,74.0,103977.0,vicky cristina barcelona,7.2,150056.0,72.0,75.67
+1118,Videodrome,1983,"Horror, Science Fiction & Fantasy",David Cronenberg,80,49,80.0,41121.0,videodrome,7.3,45146.0,73.0,77.67
+1119,A View to a Kill,1985,"Action & Adventure, Mystery & Suspense",John Glen,36,58,40.0,73791.0,a view to a kill video game,6.5,36.0,65.0,47.0
+1120,Volver,2006,"Art House & International, Comedy, Drama",Pedro Almodóvar,91,169,89.0,71972.0,volver,7.6,62414.0,76.0,85.33
+1121,W.,2008,Drama,Oliver Stone,58,220,42.0,109573.0,w,6.4,37142.0,64.0,54.67
+1122,The Wackness,2008,"Comedy, Drama",Jonathan Levine,70,132,72.0,25333.0,the wackness,7.1,24682.0,71.0,71.0
+1123,Waking Life,2001,"Animation, Art House & International, Drama, Special Interest",Richard Linklater,81,144,87.0,61408.0,waking life,7.8,37236.0,78.0,82.0
+1124,Walk the Line,2005,Drama,James Mangold,83,209,90.0,545499.0,walk the line,7.9,160209.0,79.0,84.0
+1125,Wall Street,1987,Drama,Oliver Stone,78,51,81.0,50591.0,wall street,7.4,98950.0,74.0,77.67
+1126,Waltz with Bashir,2008,"Animation, Art House & International, Documentary, Special Interest",Ari Folman,96,149,91.0,43951.0,waltz with bashir,8.0,37524.0,80.0,89.0
+1127,Warm Bodies,2013,Comedy,Jonathan Levine,81,201,73.0,131463.0,warm bodies,7.0,141084.0,70.0,74.67
+1128,The Watcher,2000,"Drama, Mystery & Suspense",Joe Charbanic,10,89,29.0,21593.0,the watcher,5.3,19705.0,53.0,30.67
+1129,Water,2005,"Drama, Romance",Deepa Mehta,90,93,90.0,44545.0,water,7.8,10670.0,78.0,86.0
+1130,Waterworld,1995,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Kevin Reynolds,45,58,43.0,230475.0,waterworld,6.0,114771.0,60.0,49.33
+1131,Wayne's World,1992,Comedy,Penelope Spheeris,84,50,84.0,461909.0,wayne s world,7.0,88937.0,70.0,79.33
+1132,Wayne's World 2,1993,Comedy,Stephen Surjik,61,44,63.0,294696.0,wayne s world,6.1,49951.0,61.0,61.67
+1133,We Are What We Are,2013,"Drama, Horror, Mystery & Suspense",Jim Mickle,86,90,50.0,11263.0,we are what we are,5.8,8618.0,58.0,64.67
+1134,The Weather Man,2005,"Comedy, Drama","Phedon Papamichael, Gore Verbinski",59,136,56.0,213956.0,the weather man,6.7,61111.0,67.0,60.67
+1135,Wendy and Lucy,2008,Drama,Kelly Reichardt,85,182,67.0,12165.0,wendy and lucy,7.1,10180.0,71.0,74.33
+1136,West Side Story,1961,"Drama, Musical & Performing Arts, Romance","Robert Wise, Jerome Robbins",93,69,84.0,168875.0,west side story,7.7,56385.0,77.0,84.67
+1137,Westworld,1973,"Action & Adventure, Classics, Science Fiction & Fantasy, Western",Michael Crichton,86,36,70.0,16073.0,westworld,7.1,19748.0,71.0,75.67
+1138,Wet Hot American Summer,2001,Comedy,David Wain,36,72,76.0,39593.0,wet hot american summer,6.8,20145.0,68.0,60.0
+1139,What's Love Got To Do With It?,1993,"Drama, Musical & Performing Arts",Brian Gibson,96,53,88.0,52250.0,what s love got to do with it,7.2,11255.0,72.0,85.33
+1140,White Chicks,2004,Comedy,Keenen Ivory Wayans,15,123,55.0,32691607.0,white chicks,5.3,77233.0,53.0,41.0
+1141,White House Down,2013,"Action & Adventure, Drama",Roland Emmerich,51,199,62.0,127738.0,white house down,6.4,94851.0,64.0,59.0
+1142,Who Killed the Electric Car?,2006,"Documentary, Musical & Performing Arts",Chris Paine,89,105,84.0,43176.0,who killed the electric car,7.7,10458.0,77.0,83.33
+1143,Why Do Fools Fall In Love,1998,"Comedy, Drama, Musical & Performing Arts, Romance",Gregory Nava,52,58,76.0,8811.0,why do fools fall in love,6.2,2517.0,62.0,63.33
+1144,Wild America,1997,"Action & Adventure, Kids & Family",William Dear,27,22,59.0,43835.0,wild america,6.2,4599.0,62.0,49.33
+1145,Wild Target,2010,"Action & Adventure, Comedy, Drama",Jonathan Lynn,33,55,56.0,27233.0,wild target,6.9,24627.0,69.0,52.67
+1146,Wild Things,1998,"Comedy, Drama, Mystery & Suspense",John McNaughton,63,59,53.0,92977.0,wild things,6.5,76949.0,65.0,60.33
+1147,Wild Wild West,1999,"Action & Adventure, Comedy, Western",Barry Sonnenfeld,17,131,28.0,464227.0,wild wild west,4.7,108923.0,47.0,30.67
+1148,Willow,1988,"Action & Adventure, Drama, Science Fiction & Fantasy",Ron Howard,50,52,79.0,240751.0,willow,7.2,68700.0,72.0,67.0
+1149,Win Win,2011,"Comedy, Drama",Tom McCarthy,94,174,85.0,32010.0,win win,7.2,40954.0,72.0,83.67
+1150,Windtalkers,2002,Drama,John Woo,32,168,50.0,66859.0,windtalkers,6.0,46972.0,60.0,47.33
+1151,Wing Commander,1999,"Action & Adventure, Science Fiction & Fantasy",Chris Roberts,10,50,25.0,19871.0,wing commander,4.0,13234.0,40.0,25.0
+1152,Wings,1927,"Action & Adventure, Classics",William Wellman,93,41,78.0,3502.0,wings,7.9,5773.0,79.0,83.33
+1153,Winter's Tale,2014,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Akiva Goldsman,13,151,43.0,25373.0,winter s tale,6.2,16532.0,62.0,39.33
+1154,Wishmaster,1997,"Drama, Horror, Science Fiction & Fantasy",Robert Kurtzman,23,30,38.0,28161.0,wishmaster,5.7,12896.0,57.0,39.33
+1155,Without Limits,1998,"Documentary, Drama",Robert Towne,79,38,91.0,7850.0,without limits,7.2,5168.0,72.0,80.67
+1156,Witless Protection,2008,Comedy,Charles Robert Carner,4,28,46.0,11421.0,witless protection,3.1,5142.0,31.0,27.0
+1157,The Wiz,1978,"Action & Adventure, Classics, Musical & Performing Arts, Science Fiction & Fantasy",Sidney Lumet,42,33,65.0,35404.0,the wiz,5.1,8834.0,51.0,52.67
+1158,Wolf Creek,2005,"Action & Adventure, Horror, Mystery & Suspense",Greg McLean,53,115,49.0,95010.0,wolf creek,6.3,46511.0,63.0,55.0
+1159,Wonder Boys,2000,"Comedy, Drama",Curtis Hanson,82,125,83.0,40246.0,wonder boys,7.4,50459.0,74.0,79.67
+1160,Wonderland,2003,Drama,James Cox,34,101,65.0,18049.0,wonderland,6.6,17334.0,66.0,55.0
+1161,World War Z,2013,"Action & Adventure, Horror, Science Fiction & Fantasy",Marc Forster,66,272,72.0,304887.0,world war z,7.1,287338.0,71.0,69.67
+1162,World Trade Center,2006,Drama,Oliver Stone,67,232,60.0,363552.0,world trade center,6.0,59252.0,60.0,62.33
+1163,Wrong Turn,2003,"Horror, Mystery & Suspense",Rob Schmidt,40,83,54.0,143314.0,wrong turn,6.1,70975.0,61.0,51.67
+1164,X-Men,2000,"Action & Adventure, Science Fiction & Fantasy",Bryan Singer,81,172,83.0,1067514.0,x men,7.4,309511.0,74.0,79.33
+1165,Yankee Doodle Dandy,1942,"Classics, Documentary, Musical & Performing Arts, Special Interest, Television","Michael Curtiz, Hugh MacMullan",93,27,83.0,8123.0,yankee doodle dandy,7.8,9139.0,78.0,84.67
+1166,Young Adult,2011,"Comedy, Drama",Jason Reitman,80,193,49.0,35096.0,young adult,6.3,55866.0,63.0,64.0
+1167,The Young Victoria,2009,Drama,Jean-Marc Vallée,77,155,74.0,164705.0,the young victoria,7.3,33932.0,73.0,74.67
+1168,Zerophilia,2005,"Art House & International, Comedy, Drama",Martin Curland,25,20,61.0,1628.0,zerophilia,6.4,1842.0,64.0,50.0
+1169,Zoolander,2001,"Comedy, Special Interest",Ben Stiller,64,137,80.0,944701.0,zoolander,6.6,150272.0,66.0,70.0
